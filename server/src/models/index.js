@@ -1,3 +1,4 @@
+require('dotenv').config();
 const {
     Pool
 } = require('../../../node_modules/pg');
@@ -5,7 +6,7 @@ const {
 // Создаем пул соединений с базой данных
 const pool = new Pool({
     user: 'postgres',
-    password: 'Style789',
+    password: process.env.DB_PASSWORD,
     host: 'localhost',
     port: 5432,
     database: 'football',

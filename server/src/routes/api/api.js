@@ -1,3 +1,4 @@
+require('dotenv').config();
 const {
     response
 } = require('../../../../node_modules/express');
@@ -5,7 +6,7 @@ const teamController = require('../../controllers/teams');
 const teamDataController = require('../../controllers/teamsData');
 const leagueControllet = require('../../controllers/leagues');
 const currentSeason = '2022';
-const apiKey = '55d8d0822bdb3026f52b479e85e3a447';
+const apiKey = process.env.API_KEY;
 
 const dataFromNewTeamByLeague = async (leagueId) => {
     const teams = await teamController.getAllTeams(leagueId);
