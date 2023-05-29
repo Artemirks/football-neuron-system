@@ -22,6 +22,7 @@
     <li>Запустите команду npm run install-db</li>
     <li>Введите ваш пароль к PostgreSQL после появления фразы Password: Password for user postgres</li>
     <li>После появления фразы created -U postgres football exited with code 0 введите еще раз ваш пароль к к PostgreSQL для клонирования скрипта БД</li>
+    <li>Если у вас возникли проблемы с клонированием БД. То вы можете запустить команду клонирования отдельно, после создания таблицы football. Команда на создание таблицы - createdb -U postgres football. Команда на клонирование - psql -U postgres -d football -f backup.sql. Пароли - ваш пароль к PostgreSQL.</li>
   </ul>
   <h2>Шаг 4: Конфигурация</h2>
   <ul>
