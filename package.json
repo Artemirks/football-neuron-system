@@ -31,7 +31,7 @@
     "start-server": "nodemon server/index.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "install-db": "concurrently \"createdb -U postgres football\" \"psql -U postgres -d football -f backup.sql\" \"echo База данных 'football' успешно создана.\" "
+    "install-db": "concurrently \"createdb -U postgres football\" \"psql -U postgres -d football -f backup.sql\""
   },
   "eslintConfig": {
     "extends": [
