@@ -7,6 +7,92 @@
   pointer-events: none;
 }
 
+main {
+  padding: 0 25px 25px 25px;
+}
+
+main img {
+  width: 4vw;
+  height: auto;
+}
+
+h1 {
+  margin: 15px 0 0 0;
+}
+
+.matchInfo {
+  margin: 0 12px;
+}
+
+.blockHome,
+.blockAway {
+  width: 13vw;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.blockHome,
+.blockAway,
+.matchInfo {
+  display: flex;
+  align-items: center;
+}
+
+.matchInfoWrapper {
+  position: relative;
+}
+
+.matchInfoWrapper:hover::before {
+  content: "Прогноз";
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 10px;
+  font-weight: bold;
+  width: 88%;
+  height: 100%;
+  background-color: #445AFD;
+  color: white;
+}
+
+.scoreLeft {
+  background-color: #445AFD;
+}
+
+.scoreRight {
+  background-color: #E33D65;
+}
+
+.scoreRight,
+.scoreLeft {
+  height: 3vw;
+  display: flex;
+  align-items: center;
+  color: white;
+  padding: 0 20px;
+  font-weight: bold;
+}
+
+.teamInfo {
+  display: flex;
+  width: 25%;
+  align-items: center;
+}
+
+.actualData {
+  width: 20%;
+}
+
+.actualData div:first-child {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -28,10 +114,63 @@
   color: #61dafb;
 }
 
+@media (min-width: 1920px) {
+  main img {
+    width: 3.2vw;
+  }
+
+  .scoreRight,
+  .scoreLeft {
+    height: 2vw;
+    padding: 0 15px;
+  }
+}
+
+@media (max-width: 900px) {
+  .teamInfo {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .blockHome, .blockAway {
+    width: 22vw;
+    gap: 8px;
+  }
+
+  main img {
+    width: 6vw;
+  }
+
+  .scoreRight,
+  .scoreLeft {
+    height: 6vw;
+  }
+
+  .actualData {
+    width: 100%;
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 500px) {
+  main img {
+    display: none;
+  }
+  .scoreRight, .scoreLeft {
+    padding: 3px 7px;
+}
+.teamInfo {
+  width: 100%;
+  justify-content: flex-start;
+}
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
