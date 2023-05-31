@@ -9,7 +9,7 @@ import Button from '@mui/material/Button';
 import MenuItem from '@mui/material/MenuItem';
 import SportsSoccerIcon from '@mui/icons-material/SportsSoccer';
 
-const pages = [{ name: 'Англия', settings: [{ name: 'Последний тур', href: '/epl/last' }, { name: 'Предстоящий тур', href: '/epl/next' }] }, { name: 'Россия', settings: [{ name: 'Последний тур', href: '/rfpl/last' }, { name: 'Предстоящий тур', href: '/rfpl/next' }] }];
+const pages = [{ name: 'Англия', settings: [{ name: 'Предпоследний тур', href: '/epl/last' }, { name: 'Последний тур', href: '/epl/next' }] }, { name: 'Россия', settings: [{ name: 'Последний тур', href: '/rfpl/last' }, { name: 'Предстоящий тур', href: '/rfpl/next' }] }];
 
 function TopMenu({ onTeamsUpdate }) {
     const [teams, setTeams] = useState([]);
