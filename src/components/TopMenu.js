@@ -10,6 +10,8 @@ import MenuItem from '@mui/material/MenuItem';
 import SportsSoccerIcon from '@mui/icons-material/SportsSoccer';
 
 const pages = [{ name: 'Англия', settings: [{ name: 'Предпоследний тур', href: '/epl/last' }, { name: 'Последний тур', href: '/epl/next' }] }, { name: 'Россия', settings: [{ name: 'Последний тур', href: '/rfpl/last' }, { name: 'Предстоящий тур', href: '/rfpl/next' }] }];
+const hostname = window.location.hostname;
+const protocol = window.location.protocol;
 
 function TopMenu({ onTeamsUpdate }) {
     const [teams, setTeams] = useState([]);
@@ -31,7 +33,7 @@ function TopMenu({ onTeamsUpdate }) {
     const getDataTeams = async (href) => {
         handleCloseCountryMenu();
         try {
-            const res = await fetch(`http://localhost:9000${href}`);
+            const res = await fetch(`${protocol}//${hostname}:9000${href}`);
             const data = await res.json();
             setTeams(data);
             onTeamsUpdate(data); // Вызываем callback-функцию
