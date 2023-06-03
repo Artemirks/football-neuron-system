@@ -33,7 +33,7 @@ function TopMenu({ onTeamsUpdate }) {
     const getDataTeams = async (href) => {
         handleCloseCountryMenu();
         try {
-            const res = await fetch(`${protocol}//${hostname}:9000${href}`);
+            const res = await fetch(`http://${hostname}:9000${href}`);
             const data = await res.json();
             setTeams(data);
             onTeamsUpdate(data); // Вызываем callback-функцию
