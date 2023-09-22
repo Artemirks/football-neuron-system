@@ -18,9 +18,10 @@ app.use(cors(corsOptions));
 
 app.get('/rfpl/last', async (req, res) => {
     try {
-        /* if (await leageController.getCurrentStagePred(235)) {
+        apiFootball.dataFromNewTeamByLeague(235);
+        if (await leageController.getCurrentStagePred(235)) {
             await getMatches(235);
-        } */
+        }
         const matches = await getPredMatchData(235, 'Прошедший');
         res.json(matches);
     } catch (err) {
@@ -31,9 +32,9 @@ app.get('/rfpl/last', async (req, res) => {
 
 app.get(['/', '/rfpl/next'], async (req, res) => {
     try {
-        /* if (await leageController.getCurrentStagePred(235)) {
+        if (await leageController.getCurrentStagePred(235)) {
             await getMatches(235);
-        } */
+        }
         const matches = await getPredMatchData(235, 'Прогноз');
         res.json(matches);
     } catch (err) {
@@ -70,8 +71,14 @@ app.get('/epl/next', async (req, res) => {
 
 async function getMatches(leagueID) {
     await leageController.setTrueStagePred(leagueID, false);
-    const lastMatches = await matchesController.getListMatches(leagueID, 'Прогноз');
+    /* const lastMatches = await matchesController.getListMatches(leagueID, 'Прогноз');
+    let count = 0;
     for (const match in lastMatches) {
+        count++;
+        console.log(count);
+        if (count == lastMatches.length / 2) {
+            await new Promise(resolve => setTimeout(resolve, 60000)); // ожидание минуту
+        }
         await updateMatchData(lastMatches[match], lastMatches.length);
         await teamDataController.updateMatchRecency(lastMatches[match].Home_team_ID, 'middle', 'near');
         await teamDataController.updateMatchRecency(lastMatches[match].Home_team_ID, 'long', 'middle');
@@ -79,14 +86,15 @@ async function getMatches(leagueID) {
         await teamDataController.updateMatchRecency(lastMatches[match].Away_team_ID, 'middle', 'near');
         await teamDataController.updateMatchRecency(lastMatches[match].Away_team_ID, 'long', 'middle');
         await teamDataController.deleteLastMatch(lastMatches[match].Away_team_ID);
-    }
+    } */
     await updatePred(leagueID);
+    //await updatePredWithNewXG(leagueID);
     console.log('Готово');
 }
 
 async function updatePred(leagueId) {
-    await matchesController.deleteOldMatches(leagueId);
-    await matchesController.setLastStatus(leagueId);
+    /* await matchesController.deleteOldMatches(leagueId);
+    await matchesController.setLastStatus(leagueId); */
     try {
         const result = await predinction.getPredictionForTeams(leagueId);
 
@@ -122,9 +130,6 @@ async function updatePredWithNewXG(leagueId) {
 async function updateMatchData(match, countMatches) {
     await teamDataController.createTeamData(match.ID, 'home', match.Actual_home_team_goals, match.Match_date, match.Home_team_ID, 'near');
     await teamDataController.createTeamData(match.ID, 'away', match.Actual_away_team_goals, match.Match_date, match.Away_team_ID, 'near');
-    if (match == countMatches / 2) {
-        await new Promise(resolve => setTimeout(resolve, 60000)); // ожидание минуту
-    }
     await apiFootball.setShotsAndXG({
         fixtureID: match.ID
     }, match.Home_team_ID);
@@ -198,7 +203,6 @@ async function checkDataMatch(matchData) {
         console.log(`${item.teams.home.name} - ${item.teams.away.name}:  ${item.teams.home.prediction.toFixed(3)}:${item.teams.away.prediction.toFixed(3)}`);
     });
 }); */
-
 app.listen(9000, () => {
     console.log('Server is running on port 9000');
 });

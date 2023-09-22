@@ -5,7 +5,7 @@ const {
 const teamController = require('../../controllers/teams');
 const teamDataController = require('../../controllers/teamsData');
 const leagueControllet = require('../../controllers/leagues');
-const currentSeason = '2022';
+const currentSeason = '2023';
 const apiKey = process.env.API_KEY;
 
 const dataFromNewTeamByLeague = async (leagueId) => {
@@ -15,10 +15,11 @@ const dataFromNewTeamByLeague = async (leagueId) => {
     for (const i in teams) {
         count++;
         arrFictures = [];
-        if (count > 22) {
+        /* if (count > 22) {
             break;
-        }
-        if (count > 16) {
+        } */
+        if (teams[i].ID == 1083 || teams[i].ID == 2006) {
+            console.log(teams);
             const resopnse = await fetch(`https://v3.football.api-sports.io/fixtures?last=15&season=${currentSeason}&team=${teams[i].ID}`, {
                 headers: {
                     'x-rapidapi-host': 'v3.football.api-sports.io',

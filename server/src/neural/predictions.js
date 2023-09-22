@@ -6,8 +6,8 @@ const neural = require('./neural');
 //получение прогноза для команды
 const getPredictionForTeams = async (leagueId) => {
     console.log(leagueId);
-    await new Promise(resolve => setTimeout(resolve, 60000));
     const arrMatches = await apiFootball.getMatchesFromNext(leagueId);
+    console.log(arrMatches);
     for (const item of arrMatches) {
         const teamIDs = Object.values(item.teams).map(team => team.id);
         const teamNames = await Promise.all(teamIDs.map(teamID => teamController.getNameTeamByID(teamID)));
