@@ -1,0 +1,112 @@
+fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name,result
+727936,1626262200,6794,Dinamo Barnaul,1,1,6819,Novosibirsk,Draw
+727937,1626267600,6818,Nosta,1,3,16864,Torpedo Miass,Away
+727938,1626267600,6809,Lada Tolyatti,0,4,16862,Spartak Tuymazy,Away
+727939,1626269400,1076,Amkar,2,2,2000,Tyumen,Draw
+727940,1626271200,2012,PFC Sochi,2,2,6792,Chita,Draw
+727941,1626271200,16865,Yadro St. Petersburg,0,2,6840,Zvezda St. Petersburg,Away
+727942,1626274800,14118,Smolensk,0,0,6812,Luki-Energiya,Home
+727943,1626274800,6825,Sakhalin,0,2,16856,Dinamo Vladivostok,Away
+727944,1626274800,6807,Kvant,0,3,16857,Kairat Moskva,Away
+727945,1626274800,6837,Znamya Truda,1,1,16860,Peresvet Podolsk,Draw
+727946,1626274800,14121,Znamya Noginsk,3,0,6804,Kolomna,Home
+727947,1626274800,16858,Khimik Dzerzhinsk,0,0,14124,Volna Nizhegorodskaya,Away
+727948,1626274800,16861,Saransk,1,0,16866,Zenit Penza,Home
+727949,1626276600,2009,Avangard Kursk,6,0,6826,Salyut-Belgorod,Home
+727950,1626278400,16859,Krasava Odintsovo,3,0,14117,Metallurg Vidnoye,Home
+727951,1626278400,6830,Torpedo Vladimir,2,0,6817,Murom,Home
+727952,1626620400,16863,StavAgrosoyuz,2,4,6796,Dinamo Stavropol,Away
+727953,1626616800,6788,Biolog,3,3,14119,Tuapse,Draw
+727954,1626620400,2002,Spartak Nalchik,3,2,6813,Makhachkala,Home
+727955,1626622200,14116,Forte Taganrog,3,0,6798,Druzhba,Home
+727956,1626616800,6814,Mashuk-KMV,4,0,14115,Essentuki,Home
+728625,1627479000,16872,Ilpar,0,3,6836,Zenit Izhevsk,Away
+729859,1627488000,3983,Chayka,2,0,2009,Avangard Kursk,Home
+729860,1627477200,16864,Torpedo Miass,2,0,6790,Chelyabinsk,Home
+729861,1627480800,2000,Tyumen,0,0,6839,Zvezda Perm,Home
+729862,1627477200,665,Irtysh Omsk,1,2,6794,Dinamo Barnaul,Away
+729863,1627484400,6811,Leningradets,4,0,2012,PFC Sochi,Home
+729864,1627477200,6840,Zvezda St. Petersburg,1,0,14120,Tver,Home
+729865,1627466400,6829,Strogino,0,3,16859,Krasava Odintsovo,Away
+729866,1627484400,6795,Dinamo Bryansk,1,1,14118,Smolensk,Draw
+729867,1627484400,16856,Dinamo Vladivostok,2,1,2014,Chertanovo Moscow,Home
+729868,1627482600,16857,Kairat Moskva,1,0,6802,Kaluga,Home
+729869,1627486200,16860,Peresvet Podolsk,1,1,6823,Ryazan,Draw
+729870,1627488000,6827,Saturn Ramenskoye,0,2,14121,Znamya Noginsk,Away
+729871,1627479000,6822,Rodina Moskva,2,3,6830,Torpedo Vladimir,Away
+729872,1627484400,14124,Volna Nizhegorodskaya,0,0,1998,Shinnik Yaroslavl,Home
+729873,1627484400,1995,FK Sokol Saratov,2,3,16861,Saransk,Away
+729874,1627479000,16862,Spartak Tuymazy,1,1,6834,Volga Ulyanovsk,Draw
+740276,1627484400,6796,Dinamo Stavropol,1,0,6806,Kuban Kholding,Home
+740277,1627488000,6791,Chernomorets,0,3,6788,Biolog,Away
+740278,1627479000,6810,Legion Dynamo,0,0,2002,Spartak Nalchik,Home
+740279,1627480800,1082,Anzhi,0,0,6814,Mashuk-KMV,Home
+740280,1627480800,6824,SKA Rostov,0,0,14116,Forte Taganrog,Away
+744077,1628089200,6801,KAMAZ,1,0,2001,FK Neftekhimik,Home
+744078,1628089200,6833,Veles,0,0,1081,TOM Tomsk,Home
+744079,1628089200,2004,Volgar Astrakhan,1,1,6831,Urozhay,Draw
+744080,1628078400,1089,Enisey,2,1,6786,Akron,Home
+744081,1628092800,1993,Fakel Voronezh,2,1,6797,Dolgoprudny,Home
+744082,1628092800,3985,Torpedo Moskva,0,0,1087,Ska-khabarovsk,Home
+744083,1628085600,6815,Metallurg Lipetsk,1,0,3984,Tekstilshchik,Home
+756138,1628694000,6796,Dinamo Stavropol,3,1,6788,Biolog,Home
+756139,1628773200,6810,Legion Dynamo,2,0,1082,Anzhi,Home
+756140,1628690400,14116,Forte Taganrog,1,1,3983,Chayka,Draw
+756141,1628686800,6836,Zenit Izhevsk,2,1,16864,Torpedo Miass,Home
+756142,1628762400,6794,Dinamo Barnaul,2,2,2000,Tyumen,Draw
+756143,1628686800,6840,Zvezda St. Petersburg,1,2,6811,Leningradets,Away
+756144,1628697600,16859,Krasava Odintsovo,1,2,6795,Dinamo Bryansk,Away
+756145,1628686800,16856,Dinamo Vladivostok,0,1,16857,Kairat Moskva,Away
+756146,1628694000,16860,Peresvet Podolsk,0,2,14121,Znamya Noginsk,Away
+756147,1628694000,14124,Volna Nizhegorodskaya,0,2,6830,Torpedo Vladimir,Away
+756148,1628690400,6834,Volga Ulyanovsk,0,2,16861,Saransk,Away
+771057,1629903600,6796,Dinamo Stavropol,1,3,1080,Orenburg,Away
+771058,1629900000,6811,Leningradets,1,0,6831,Urozhay,Home
+771059,1629903600,6830,Torpedo Vladimir,0,1,6801,KAMAZ,Away
+771060,1629903600,6795,Dinamo Bryansk,0,3,6833,Veles,Away
+771061,1629885600,6794,Dinamo Barnaul,0,2,1993,Fakel Voronezh,Away
+771062,1629986400,3983,Chayka,1,0,3985,Torpedo Moskva,Home
+771063,1629894600,6810,Legion Dynamo,2,3,6787,Alaniya Vladikavkaz,Away
+771064,1629896400,16857,Kairat Moskva,0,3,2010,Rotor Volgograd,Away
+771065,1629903600,16861,Saransk,1,2,2006,Baltika,Away
+771066,1629900000,14121,Znamya Noginsk,0,4,1089,Enisey,Away
+771067,1629896400,6836,Zenit Izhevsk,1,2,6815,Metallurg Lipetsk,Away
+771068,1632315600,6811,Leningradets,0,2,621,Krasnodar,Away
+771069,1632409200,6830,Torpedo Vladimir,0,2,1084,Ural,Away
+771070,1632322800,6795,Dinamo Bryansk,1,6,1077,Arsenal Tula,Away
+771071,1632303000,6794,Dinamo Barnaul,0,1,2011,Nizhny Novgorod,Away
+771072,1632328200,3983,Chayka,1,0,779,FC Rostov,Home
+771073,1632312000,6810,Legion Dynamo,1,1,1078,FC UFA,Draw
+771074,1632315600,16857,Kairat Moskva,0,3,1085,Akhmat Grozny,Away
+771075,1632322800,16861,Saransk,1,1,1994,Khimki,Draw
+771076,1632315600,14121,Znamya Noginsk,0,10,1079,Krylya Sovetov,Away
+771077,1632395700,6836,Zenit Izhevsk,0,4,555,CSKA Moscow,Away
+771078,1632322800,6796,Dinamo Stavropol,0,6,1088,Dinamo Moscow,Away
+771079,1635352200,6831,Urozhay,3,0,621,Krasnodar,Home
+771080,1635346800,6801,KAMAZ,1,0,1084,Ural,Home
+771081,1635348600,6833,Veles,1,1,1077,Arsenal Tula,Draw
+771082,1635346800,1993,Fakel Voronezh,0,1,2011,Nizhny Novgorod,Away
+771083,1635350400,3985,Torpedo Moskva,2,0,779,FC Rostov,Home
+771084,1635343200,6787,Alaniya Vladikavkaz,2,0,1078,FC UFA,Home
+771085,1635345000,2010,Rotor Volgograd,1,1,1085,Akhmat Grozny,Draw
+771086,1635354000,2006,Baltika,0,0,1994,Khimki,Away
+771087,1635336000,1089,Enisey,1,0,1079,Krylya Sovetov,Home
+771088,1635256800,6815,Metallurg Lipetsk,0,2,555,CSKA Moscow,Away
+771089,1635249600,1080,Orenburg,0,3,1088,Dinamo Moscow,Away
+810849,1646327700,596,Zenit Saint Petersburg,6,0,6801,KAMAZ,Home
+810850,1646233200,2012,PFC Sochi,1,2,555,CSKA Moscow,Away
+810851,1646320500,597,Lokomotiv Moscow,0,4,1089,Enisey,Away
+810852,1646323200,1083,Rubin,2,1,2010,Rotor Volgograd,Home
+810853,1646240400,558,Spartak Moscow,6,1,6831,Urozhay,Home
+810854,1646326800,2006,Baltika,3,0,3983,Chayka,Home
+810855,1646226000,6787,Alaniya Vladikavkaz,1,0,1077,Arsenal Tula,Home
+810856,1646154000,1088,Dinamo Moscow,3,0,2011,Nizhny Novgorod,Home
+846394,1650326400,1088,Dinamo Moscow,,,558,Spartak Moscow,Draw
+846395,1650326400,6787,Alaniya Vladikavkaz,,,555,CSKA Moscow,Draw
+856001,1650387600,2006,Baltika,1,1,1088,Dinamo Moscow,Away
+856002,1650454200,1089,Enisey,3,1,1083,Rubin,Home
+856003,1650463200,6787,Alaniya Vladikavkaz,2,2,596,Zenit Saint Petersburg,Home
+856004,1650472200,555,CSKA Moscow,0,1,558,Spartak Moscow,Away
+858980,1652189400,1088,Dinamo Moscow,3,0,6787,Alaniya Vladikavkaz,Home
+858981,1652286600,558,Spartak Moscow,3,0,1089,Enisey,Home
+861765,1653832800,558,Spartak Moscow,2,1,1088,Dinamo Moscow,Home

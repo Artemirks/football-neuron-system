@@ -1,0 +1,381 @@
+fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name,result
+711536,1625927400,6831,Urozhay,1,2,3985,Torpedo Moskva,Away
+711537,1625929200,2003,Spartak Moscow 2,0,0,2015,Krasnodar 2,Draw
+711538,1626015600,6815,Metallurg Lipetsk,3,2,1081,Tom Tomsk,Home
+711539,1625929200,1993,Fakel Voronezh,3,3,2006,Baltika,Draw
+711540,1625925600,1080,Orenburg,4,0,2004,Volgar Astrakhan,Home
+711541,1625922000,6786,Akron,1,2,1087,Ska-khabarovsk,Away
+711542,1625929200,2001,FK Neftekhimik,1,0,6797,Dolgoprudny,Home
+711543,1625932800,2010,Rotor Volgograd,0,0,3984,Tekstilshchik,Draw
+711544,1625925600,6801,KAMAZ,1,1,6787,Alaniya Vladikavkaz,Draw
+711545,1625931000,6833,Veles,1,0,1089,Enisey,Home
+711546,1626516000,1089,Enisey,2,2,6831,Urozhay,Draw
+711547,1626537600,1993,Fakel Voronezh,1,0,6833,Veles,Home
+711548,1626519600,1081,Tom Tomsk,1,0,2006,Baltika,Home
+711549,1626530400,1080,Orenburg,4,0,6815,Metallurg Lipetsk,Home
+711550,1626526800,6786,Akron,1,0,2004,Volgar Astrakhan,Home
+711551,1626526800,2001,FK Neftekhimik,0,0,1087,Ska-khabarovsk,Draw
+711552,1626537600,2010,Rotor Volgograd,1,1,6797,Dolgoprudny,Draw
+711553,1626530400,6801,KAMAZ,1,0,3984,Tekstilshchik,Home
+711554,1626537600,2015,Krasnodar 2,1,3,6787,Alaniya Vladikavkaz,Away
+711555,1626537600,3985,Torpedo Moskva,5,0,2003,Spartak Moscow 2,Home
+711556,1627232400,6831,Urozhay,0,2,6833,Veles,Away
+711557,1627138800,2003,Spartak Moscow 2,2,1,1089,Enisey,Home
+711558,1627048800,6797,Dolgoprudny,1,1,6801,KAMAZ,Draw
+711559,1627138800,2004,Volgar Astrakhan,1,0,2001,FK Neftekhimik,Home
+711560,1627221600,6815,Metallurg Lipetsk,2,2,6786,Akron,Draw
+711561,1627146000,2006,Baltika,1,1,1080,Orenburg,Draw
+711562,1627138800,1993,Fakel Voronezh,2,0,1081,Tom Tomsk,Home
+711563,1627142400,2010,Rotor Volgograd,0,0,1087,Ska-khabarovsk,Draw
+711564,1627142400,2015,Krasnodar 2,1,1,3984,Tekstilshchik,Draw
+711565,1627135200,3985,Torpedo Moskva,3,1,6787,Alaniya Vladikavkaz,Home
+711566,1627725600,1089,Enisey,0,3,6787,Alaniya Vladikavkaz,Away
+711567,1627747200,6831,Urozhay,1,2,2003,Spartak Moscow 2,Away
+711568,1627740000,1080,Orenburg,0,2,1993,Fakel Voronezh,Away
+711569,1627740000,6786,Akron,0,0,2006,Baltika,Draw
+711570,1627743600,2001,FK Neftekhimik,5,0,6815,Metallurg Lipetsk,Home
+711571,1627747200,2010,Rotor Volgograd,1,1,2004,Volgar Astrakhan,Draw
+711572,1627740000,6801,KAMAZ,1,2,1087,Ska-khabarovsk,Away
+711573,1627743600,2015,Krasnodar 2,2,0,6797,Dolgoprudny,Home
+711574,1627740000,3985,Torpedo Moskva,0,0,3984,Tekstilshchik,Draw
+711575,1627741800,6833,Veles,1,0,1081,TOM Tomsk,Home
+711576,1628434800,2003,Spartak Moscow 2,0,2,6833,Veles,Away
+711577,1628438400,6787,Alaniya Vladikavkaz,3,2,6831,Urozhay,Home
+711578,1628427600,3984,Tekstilshchik,0,1,1089,Enisey,Away
+711579,1637146800,6797,Dolgoprudny,3,3,3985,Torpedo Moskva,Draw
+711580,1628413200,1087,Ska-khabarovsk,1,0,2015,Krasnodar 2,Home
+711581,1628434800,2004,Volgar Astrakhan,0,1,6801,KAMAZ,Away
+711582,1628427600,6815,Metallurg Lipetsk,0,1,2010,Rotor Volgograd,Away
+711583,1628438400,2006,Baltika,0,0,2001,FK Neftekhimik,Draw
+711584,1628434800,1993,Fakel Voronezh,1,0,6786,Akron,Home
+711585,1628416800,1081,TOM Tomsk,1,2,1080,Orenburg,Away
+711586,1628935200,1089,Enisey,1,0,6797,Dolgoprudny,Home
+711587,1628956800,6831,Urozhay,1,0,3984,Tekstilshchik,Home
+711588,1629039600,2003,Spartak Moscow 2,3,2,6787,Alaniya Vladikavkaz,Home
+711589,1628910000,1087,Ska-khabarovsk,0,1,3985,Torpedo Moskva,Away
+711590,1628949600,1080,Orenburg,2,1,6833,Veles,Home
+711591,1637492400,6786,Akron,3,3,1081,TOM Tomsk,Draw
+711592,1628953200,2001,FK Neftekhimik,3,0,1993,Fakel Voronezh,Home
+711593,1628956800,2010,Rotor Volgograd,1,1,2006,Baltika,Draw
+711594,1628949600,6801,KAMAZ,3,0,6815,Metallurg Lipetsk,Home
+711595,1628953200,2015,Krasnodar 2,1,0,2004,Volgar Astrakhan,Home
+711596,1629464400,3984,Tekstilshchik,1,2,2003,Spartak Moscow 2,Away
+711597,1629558000,6797,Dolgoprudny,1,0,6831,Urozhay,Home
+711598,1629522000,1087,Ska-khabarovsk,4,3,1089,Enisey,Home
+711599,1629558000,2004,Volgar Astrakhan,0,1,3985,Torpedo Moskva,Away
+711600,1629554400,6815,Metallurg Lipetsk,1,2,2015,Krasnodar 2,Away
+711601,1629558000,1993,Fakel Voronezh,1,0,2010,Rotor Volgograd,Home
+711602,1629558000,1080,Orenburg,1,0,6786,Akron,Home
+711603,1629550800,2001,FK Neftekhimik,0,1,1081,TOM Tomsk,Away
+711604,1629554400,6801,KAMAZ,0,1,2006,Baltika,Away
+711605,1629554400,6833,Veles,2,2,6787,Alaniya Vladikavkaz,Draw
+711606,1630231200,1089,Enisey,2,2,2004,Volgar Astrakhan,Draw
+711607,1630159200,2003,Spartak Moscow 2,0,2,6797,Dolgoprudny,Away
+711608,1630252800,6787,Alaniya Vladikavkaz,4,0,3984,Tekstilshchik,Home
+711609,1630213200,1087,Ska-khabarovsk,1,0,6831,Urozhay,Home
+711610,1630252800,2006,Baltika,2,1,2015,Krasnodar 2,Home
+711611,1630231200,1081,TOM Tomsk,1,1,2010,Rotor Volgograd,Draw
+711612,1630245600,1080,Orenburg,1,0,2001,FK Neftekhimik,Home
+711613,1630245600,6801,KAMAZ,2,1,1993,Fakel Voronezh,Home
+711614,1630245600,3985,Torpedo Moskva,7,1,6815,Metallurg Lipetsk,Home
+711615,1630252800,6833,Veles,1,1,6786,Akron,Draw
+711616,1630846800,3984,Tekstilshchik,2,0,6833,Veles,Home
+711617,1630850400,6797,Dolgoprudny,1,1,6787,Alaniya Vladikavkaz,Draw
+711618,1630818000,1087,Ska-khabarovsk,0,1,2003,Spartak Moscow 2,Away
+711619,1630854000,2004,Volgar Astrakhan,0,2,6831,Urozhay,Away
+711620,1630850400,6815,Metallurg Lipetsk,0,2,1089,Enisey,Away
+711621,1630857600,2006,Baltika,1,1,3985,Torpedo Moskva,Draw
+711622,1630854000,1993,Fakel Voronezh,0,0,2015,Krasnodar 2,Draw
+711623,1630850400,1080,Orenburg,0,3,2010,Rotor Volgograd,Away
+711624,1630854000,6786,Akron,1,3,2001,FK Neftekhimik,Away
+711625,1630854000,6801,KAMAZ,2,1,1081,TOM Tomsk,Home
+711626,1631275200,1089,Enisey,1,0,2006,Baltika,Home
+711627,1631372400,6831,Urozhay,0,3,6815,Metallurg Lipetsk,Away
+711628,1631358000,2003,Spartak Moscow 2,1,0,2004,Volgar Astrakhan,Home
+711629,1631372400,6787,Alaniya Vladikavkaz,3,1,1087,Ska-khabarovsk,Home
+711630,1631365200,3984,Tekstilshchik,3,1,6797,Dolgoprudny,Home
+711631,1631365200,2010,Rotor Volgograd,1,2,6786,Akron,Away
+711632,1631367000,6801,KAMAZ,0,4,1080,Orenburg,Away
+711633,1631372400,2015,Krasnodar 2,2,1,1081,TOM Tomsk,Home
+711634,1631368800,3985,Torpedo Moskva,2,2,1993,Fakel Voronezh,Draw
+711635,1631358000,6833,Veles,1,2,2001,FK Neftekhimik,Away
+711636,1631718000,3984,Tekstilshchik,0,3,1087,Ska-khabarovsk,Away
+711637,1631721600,6797,Dolgoprudny,0,2,6833,Veles,Away
+711638,1631718000,2004,Volgar Astrakhan,1,1,6787,Alaniya Vladikavkaz,Draw
+711639,1631718000,6815,Metallurg Lipetsk,0,2,2003,Spartak Moscow 2,Away
+711640,1631725200,2006,Baltika,0,0,6831,Urozhay,Draw
+711641,1631721600,1993,Fakel Voronezh,3,1,1089,Enisey,Home
+711642,1648285200,1081,TOM Tomsk,2,5,3985,Torpedo Moskva,Away
+711643,1631714400,1080,Orenburg,2,0,2015,Krasnodar 2,Home
+711644,1631718000,6786,Akron,0,0,6801,KAMAZ,Draw
+711645,1631718000,2001,FK Neftekhimik,1,3,2010,Rotor Volgograd,Away
+711646,1632045600,1089,Enisey,2,3,1081,TOM Tomsk,Away
+711647,1632063600,6831,Urozhay,0,4,1993,Fakel Voronezh,Away
+711648,1632052800,2003,Spartak Moscow 2,1,2,2006,Baltika,Away
+711649,1632063600,6787,Alaniya Vladikavkaz,5,0,6815,Metallurg Lipetsk,Home
+711650,1632056400,3984,Tekstilshchik,1,2,2004,Volgar Astrakhan,Away
+711651,1632049200,6797,Dolgoprudny,1,1,1087,Ska-khabarovsk,Draw
+711652,1632060000,6801,KAMAZ,0,1,2001,FK Neftekhimik,Away
+711653,1632060000,2015,Krasnodar 2,2,0,6786,Akron,Home
+711654,1632060000,3985,Torpedo Moskva,2,1,1080,Orenburg,Home
+711655,1632151800,6833,Veles,3,1,2010,Rotor Volgograd,Home
+711656,1632553200,1087,Ska-khabarovsk,2,0,6833,Veles,Home
+711657,1632574800,2004,Volgar Astrakhan,0,1,6797,Dolgoprudny,Away
+711658,1632576600,6815,Metallurg Lipetsk,0,0,3984,Tekstilshchik,Draw
+711659,1632585600,2006,Baltika,1,1,6787,Alaniya Vladikavkaz,Draw
+711660,1632582000,1993,Fakel Voronezh,3,0,2003,Spartak Moscow 2,Home
+711661,1632560400,1081,TOM Tomsk,2,1,6831,Urozhay,Home
+711662,1632574800,1080,Orenburg,2,0,1089,Enisey,Home
+711663,1632578400,6786,Akron,1,0,3985,Torpedo Moskva,Home
+711664,1632582000,2001,FK Neftekhimik,4,1,2015,Krasnodar 2,Home
+711665,1632574800,2010,Rotor Volgograd,1,0,6801,KAMAZ,Home
+711666,1632924000,6831,Urozhay,0,1,1080,Orenburg,Away
+711667,1632916800,2003,Spartak Moscow 2,3,1,1081,TOM Tomsk,Home
+711668,1632927600,6787,Alaniya Vladikavkaz,1,0,1993,Fakel Voronezh,Home
+711669,1632927600,3984,Tekstilshchik,3,2,2006,Baltika,Home
+711670,1632913200,6797,Dolgoprudny,1,0,6815,Metallurg Lipetsk,Home
+711671,1632906000,1087,Ska-khabarovsk,1,0,2004,Volgar Astrakhan,Home
+711672,1632927600,6786,Akron,4,1,1089,Enisey,Home
+711673,1632920400,2015,Krasnodar 2,1,1,2010,Rotor Volgograd,Draw
+711674,1632931200,3985,Torpedo Moskva,1,1,2001,FK Neftekhimik,Draw
+711675,1632929400,6833,Veles,0,0,6801,KAMAZ,Draw
+711676,1633266000,2004,Volgar Astrakhan,0,1,6833,Veles,Away
+711677,1633262400,6815,Metallurg Lipetsk,1,1,1087,Ska-khabarovsk,Draw
+711678,1633276800,2006,Baltika,1,1,6797,Dolgoprudny,Draw
+711679,1633269600,1993,Fakel Voronezh,3,0,3984,Tekstilshchik,Home
+711680,1633251600,1081,TOM Tomsk,1,3,6787,Alaniya Vladikavkaz,Away
+711681,1633262400,1080,Orenburg,2,1,2003,Spartak Moscow 2,Home
+711682,1633266000,6786,Akron,1,0,6831,Urozhay,Home
+711683,1633273200,2001,FK Neftekhimik,2,3,1089,Enisey,Away
+711684,1633266000,2010,Rotor Volgograd,1,1,3985,Torpedo Moskva,Draw
+711685,1633269600,6801,KAMAZ,2,0,2015,Krasnodar 2,Home
+711686,1633773600,1089,Enisey,1,1,2010,Rotor Volgograd,Draw
+711687,1633788000,6831,Urozhay,0,2,2001,FK Neftekhimik,Away
+711688,1633780800,2003,Spartak Moscow 2,0,1,6786,Akron,Away
+711689,1633788000,6787,Alaniya Vladikavkaz,1,0,1080,Orenburg,Home
+711690,1633784400,3984,Tekstilshchik,1,1,1081,TOM Tomsk,Draw
+711691,1633777200,6797,Dolgoprudny,2,0,1993,Fakel Voronezh,Home
+711692,1633755600,1087,Ska-khabarovsk,0,2,2006,Baltika,Away
+711693,1633784400,2004,Volgar Astrakhan,0,2,6815,Metallurg Lipetsk,Away
+711694,1633788000,3985,Torpedo Moskva,1,1,6801,KAMAZ,Draw
+711695,1633777200,6833,Veles,3,1,2015,Krasnodar 2,Home
+711696,1634135400,6815,Metallurg Lipetsk,1,0,6833,Veles,Home
+711697,1634144400,2006,Baltika,0,2,2004,Volgar Astrakhan,Away
+711698,1634133600,1993,Fakel Voronezh,0,1,1087,Ska-khabarovsk,Away
+711699,1634124600,1081,TOM Tomsk,1,1,6797,Dolgoprudny,Draw
+711700,1634130000,1080,Orenburg,2,0,3984,Tekstilshchik,Home
+711701,1634137200,6786,Akron,2,1,6787,Alaniya Vladikavkaz,Home
+711702,1634137200,2001,FK Neftekhimik,5,0,2003,Spartak Moscow 2,Home
+711703,1634139000,2010,Rotor Volgograd,1,3,6831,Urozhay,Away
+711704,1634137200,6801,KAMAZ,1,1,1089,Enisey,Draw
+711705,1634126400,2015,Krasnodar 2,1,1,3985,Torpedo Moskva,Draw
+711706,1634464800,1089,Enisey,2,0,2015,Krasnodar 2,Home
+711707,1634479200,6831,Urozhay,1,0,6801,KAMAZ,Home
+711708,1634472000,2003,Spartak Moscow 2,1,1,2010,Rotor Volgograd,Draw
+711709,1634479200,6787,Alaniya Vladikavkaz,2,3,2001,FK Neftekhimik,Away
+711710,1634475600,3984,Tekstilshchik,2,2,6786,Akron,Draw
+711711,1634464800,6797,Dolgoprudny,0,0,1080,Orenburg,Draw
+711712,1651899600,1087,Ska-khabarovsk,2,0,1081,TOM Tomsk,Home
+711713,1634472000,2004,Volgar Astrakhan,0,2,1993,Fakel Voronezh,Away
+711714,1634472000,6815,Metallurg Lipetsk,0,4,2006,Baltika,Away
+711715,1634468400,6833,Veles,3,5,3985,Torpedo Moskva,Away
+711716,1635004800,2006,Baltika,1,0,6833,Veles,Home
+711717,1634997600,1993,Fakel Voronezh,3,2,6815,Metallurg Lipetsk,Home
+711718,1634979600,1081,TOM Tomsk,2,1,2004,Volgar Astrakhan,Home
+711719,1634986800,1080,Orenburg,2,0,1087,Ska-khabarovsk,Home
+711720,1634990400,6786,Akron,2,1,6797,Dolgoprudny,Home
+711721,1634983200,2001,FK Neftekhimik,3,1,3984,Tekstilshchik,Home
+711722,1634994000,2010,Rotor Volgograd,0,0,6787,Alaniya Vladikavkaz,Draw
+711723,1634997600,6801,KAMAZ,4,1,2003,Spartak Moscow 2,Home
+711724,1634997600,2015,Krasnodar 2,1,2,6831,Urozhay,Away
+711725,1634997600,3985,Torpedo Moskva,2,1,1089,Enisey,Home
+711726,1635685200,6831,Urozhay,2,1,1089,Enisey,Home
+711727,1635699600,2003,Spartak Moscow 2,0,1,3985,Torpedo Moskva,Away
+711728,1635688800,6787,Alaniya Vladikavkaz,2,1,2015,Krasnodar 2,Home
+711729,1635678000,3984,Tekstilshchik,4,1,6801,KAMAZ,Home
+711730,1635678000,6797,Dolgoprudny,2,2,2010,Rotor Volgograd,Draw
+711731,1635663600,1087,Ska-khabarovsk,3,1,2001,FK Neftekhimik,Home
+711732,1635681600,2004,Volgar Astrakhan,1,0,6786,Akron,Home
+711733,1635681600,6815,Metallurg Lipetsk,1,0,1080,Orenburg,Home
+711734,1635696000,2006,Baltika,4,0,1081,TOM Tomsk,Home
+711735,1635681600,6833,Veles,0,4,1993,Fakel Voronezh,Away
+711736,1636192800,1089,Enisey,2,1,2003,Spartak Moscow 2,Home
+711737,1636207200,6787,Alaniya Vladikavkaz,5,1,3985,Torpedo Moskva,Home
+711738,1636196400,3984,Tekstilshchik,0,1,2015,Krasnodar 2,Away
+711739,1636171200,1087,Ska-khabarovsk,3,1,2010,Rotor Volgograd,Home
+711740,1636185600,1081,TOM Tomsk,2,2,1993,Fakel Voronezh,Draw
+711741,1636196400,1080,Orenburg,2,1,2006,Baltika,Home
+711742,1636196400,6786,Akron,2,0,6815,Metallurg Lipetsk,Home
+711743,1636192800,2001,FK Neftekhimik,0,1,2004,Volgar Astrakhan,Away
+711744,1636207200,6801,KAMAZ,1,1,6797,Dolgoprudny,Draw
+711745,1636196400,6833,Veles,1,0,6831,Urozhay,Home
+711746,1636801200,2003,Spartak Moscow 2,0,0,6831,Urozhay,Draw
+711747,1636808400,6787,Alaniya Vladikavkaz,1,2,1089,Enisey,Away
+711748,1636801200,3984,Tekstilshchik,1,1,3985,Torpedo Moskva,Draw
+711749,1636801200,6797,Dolgoprudny,0,1,2015,Krasnodar 2,Away
+711750,1636776000,1087,Ska-khabarovsk,1,0,6801,KAMAZ,Home
+711751,1636801200,2004,Volgar Astrakhan,2,0,2010,Rotor Volgograd,Home
+711752,1636804800,6815,Metallurg Lipetsk,1,2,2001,FK Neftekhimik,Away
+711753,1636815600,2006,Baltika,2,0,6786,Akron,Home
+711754,1636808400,1993,Fakel Voronezh,1,0,1080,Orenburg,Home
+711755,1636790400,1081,TOM Tomsk,1,0,6833,Veles,Home
+711756,1637150400,1089,Enisey,3,0,3984,Tekstilshchik,Home
+711757,1637161200,6831,Urozhay,5,5,6787,Alaniya Vladikavkaz,Draw
+711758,1637146800,1080,Orenburg,2,1,1081,TOM Tomsk,Home
+711759,1637161200,6786,Akron,2,0,1993,Fakel Voronezh,Home
+711760,1637157600,2001,FK Neftekhimik,0,0,2006,Baltika,Draw
+711761,1637154000,2010,Rotor Volgograd,0,1,6815,Metallurg Lipetsk,Away
+711762,1637161200,6801,KAMAZ,0,0,2004,Volgar Astrakhan,Draw
+711763,1637161200,2015,Krasnodar 2,3,1,1087,Ska-khabarovsk,Home
+711764,1628438400,3985,Torpedo Moskva,1,0,6797,Dolgoprudny,Home
+711765,1637163000,6833,Veles,2,1,2003,Spartak Moscow 2,Home
+711766,1637503200,6787,Alaniya Vladikavkaz,2,3,2003,Spartak Moscow 2,Away
+711767,1637492400,3984,Tekstilshchik,1,3,6831,Urozhay,Away
+711768,1637506800,6797,Dolgoprudny,0,0,1089,Enisey,Draw
+711769,1637492400,2004,Volgar Astrakhan,0,0,2015,Krasnodar 2,Draw
+711770,1637496000,6815,Metallurg Lipetsk,0,1,6801,KAMAZ,Away
+711771,1637506800,2006,Baltika,2,1,2010,Rotor Volgograd,Home
+711772,1637499600,1993,Fakel Voronezh,3,1,2001,FK Neftekhimik,Home
+711773,1629021600,1081,TOM Tomsk,2,1,6786,Akron,Home
+711774,1637492400,3985,Torpedo Moskva,0,0,1087,Ska-khabarovsk,Draw
+711775,1637492400,6833,Veles,1,2,1080,Orenburg,Away
+711776,1638003600,1089,Enisey,3,1,1087,Ska-khabarovsk,Home
+711777,1638018000,6831,Urozhay,0,2,6797,Dolgoprudny,Away
+711778,1638010800,2003,Spartak Moscow 2,2,1,3984,Tekstilshchik,Home
+711779,1638018000,6787,Alaniya Vladikavkaz,2,1,6833,Veles,Home
+711780,1638025200,2006,Baltika,0,0,6801,KAMAZ,Draw
+711781,1638000000,1081,TOM Tomsk,1,1,2001,FK Neftekhimik,Draw
+711782,1638010800,6786,Akron,0,3,1080,Orenburg,Away
+711783,1638010800,2010,Rotor Volgograd,1,2,1993,Fakel Voronezh,Away
+711784,1638018000,2015,Krasnodar 2,1,0,6815,Metallurg Lipetsk,Home
+711785,1638010800,3985,Torpedo Moskva,1,0,2004,Volgar Astrakhan,Home
+711786,1646575200,6831,Urozhay,1,0,1087,Ska-khabarovsk,Home
+711787,1646564400,3984,Tekstilshchik,0,4,6787,Alaniya Vladikavkaz,Away
+711788,1646564400,6797,Dolgoprudny,1,4,2003,Spartak Moscow 2,Away
+711789,1646575200,2004,Volgar Astrakhan,2,3,1089,Enisey,Away
+711790,1652281200,6815,Metallurg Lipetsk,1,3,3985,Torpedo Moskva,Away
+711791,1652284800,1993,Fakel Voronezh,1,0,6801,KAMAZ,Home
+711792,1646564400,6786,Akron,1,1,6833,Veles,Draw
+711793,1646569800,2001,FK Neftekhimik,2,1,1080,Orenburg,Home
+711794,1646650800,2010,Rotor Volgograd,1,5,1081,TOM Tomsk,Away
+711795,1646751600,2015,Krasnodar 2,0,3,2006,Baltika,Away
+711796,1647075600,1089,Enisey,2,1,6815,Metallurg Lipetsk,Home
+711797,1647093600,6831,Urozhay,1,3,2004,Volgar Astrakhan,Away
+711798,1647082800,2003,Spartak Moscow 2,1,1,1087,Ska-khabarovsk,Draw
+711799,1647090000,6787,Alaniya Vladikavkaz,2,0,6797,Dolgoprudny,Home
+711800,1647075600,1081,TOM Tomsk,1,0,6801,KAMAZ,Home
+711801,1647088200,2001,FK Neftekhimik,0,0,6786,Akron,Draw
+711802,1647090000,2010,Rotor Volgograd,0,3,1080,Orenburg,Away
+711803,1647097200,2015,Krasnodar 2,1,2,1993,Fakel Voronezh,Away
+711804,1647082800,3985,Torpedo Moskva,2,2,2006,Baltika,Draw
+711805,1647082800,6833,Veles,3,2,3984,Tekstilshchik,Home
+711806,1647687600,6797,Dolgoprudny,1,0,3984,Tekstilshchik,Home
+711807,1647673200,1087,Ska-khabarovsk,2,0,6787,Alaniya Vladikavkaz,Home
+711808,1647691200,2004,Volgar Astrakhan,1,0,2003,Spartak Moscow 2,Home
+711809,1647691200,6815,Metallurg Lipetsk,0,2,6831,Urozhay,Away
+711810,1647702000,2006,Baltika,1,2,1089,Enisey,Away
+711811,1647698400,1993,Fakel Voronezh,0,1,3985,Torpedo Moskva,Away
+711812,1647684000,1080,Orenburg,2,0,6801,KAMAZ,Home
+711813,1647766800,1081,TOM Tomsk,1,2,2015,Krasnodar 2,Away
+711814,1647687600,6786,Akron,1,0,2010,Rotor Volgograd,Home
+711815,1647693000,2001,FK Neftekhimik,2,1,6833,Veles,Home
+711816,1648288800,1089,Enisey,2,1,1993,Fakel Voronezh,Home
+711817,1648303200,6831,Urozhay,1,1,2006,Baltika,Draw
+711818,1648292400,2003,Spartak Moscow 2,3,2,6815,Metallurg Lipetsk,Home
+711819,1648299600,6787,Alaniya Vladikavkaz,0,1,2004,Volgar Astrakhan,Away
+711820,1648270800,1087,Ska-khabarovsk,4,0,3984,Tekstilshchik,Home
+711821,1648299600,2010,Rotor Volgograd,2,1,2001,FK Neftekhimik,Home
+711822,1648299600,6801,KAMAZ,1,2,6786,Akron,Away
+711823,1648292400,2015,Krasnodar 2,5,2,1080,Orenburg,Home
+711824,1631721600,3985,Torpedo Moskva,3,3,1081,TOM Tomsk,Draw
+711825,1648292400,6833,Veles,1,0,6797,Dolgoprudny,Home
+711826,1648875600,1087,Ska-khabarovsk,3,3,6797,Dolgoprudny,Draw
+711827,1648904400,2004,Volgar Astrakhan,1,1,3984,Tekstilshchik,Draw
+711828,1648900800,6815,Metallurg Lipetsk,0,3,6787,Alaniya Vladikavkaz,Away
+711829,1648911600,2006,Baltika,0,1,2003,Spartak Moscow 2,Away
+711830,1648904400,1993,Fakel Voronezh,0,0,6831,Urozhay,Draw
+711831,1648890000,1081,TOM Tomsk,0,1,1089,Enisey,Away
+711832,1648897200,1080,Orenburg,1,0,3985,Torpedo Moskva,Home
+711833,1648900800,6786,Akron,1,0,2015,Krasnodar 2,Home
+711834,1648902600,2001,FK Neftekhimik,1,1,6801,KAMAZ,Draw
+711835,1648900800,2010,Rotor Volgograd,0,3,6833,Veles,Away
+711836,1649246400,1089,Enisey,1,2,1080,Orenburg,Away
+711837,1649260800,6831,Urozhay,2,2,1081,TOM Tomsk,Draw
+711838,1649250000,2003,Spartak Moscow 2,2,0,1993,Fakel Voronezh,Home
+711839,1649253600,6787,Alaniya Vladikavkaz,0,3,2006,Baltika,Away
+711840,1649257200,3984,Tekstilshchik,1,2,6815,Metallurg Lipetsk,Away
+711841,1649250000,6797,Dolgoprudny,2,1,2004,Volgar Astrakhan,Home
+711842,1649257200,6801,KAMAZ,0,2,2010,Rotor Volgograd,Away
+711843,1649246400,2015,Krasnodar 2,2,0,2001,FK Neftekhimik,Home
+711844,1649260800,3985,Torpedo Moskva,0,0,6786,Akron,Draw
+711845,1649260800,6833,Veles,1,2,1087,Ska-khabarovsk,Away
+711846,1649584800,1089,Enisey,3,2,6786,Akron,Home
+711847,1649595600,2004,Volgar Astrakhan,1,1,1087,Ska-khabarovsk,Draw
+711848,1649592000,6815,Metallurg Lipetsk,0,0,6797,Dolgoprudny,Draw
+711849,1649602800,2006,Baltika,3,0,3984,Tekstilshchik,Home
+711850,1649595600,1993,Fakel Voronezh,2,1,6787,Alaniya Vladikavkaz,Home
+711851,1649581200,1081,TOM Tomsk,1,0,2003,Spartak Moscow 2,Home
+711852,1649588400,1080,Orenburg,1,3,6831,Urozhay,Away
+711853,1649593800,2001,FK Neftekhimik,0,1,3985,Torpedo Moskva,Away
+711854,1649595600,2010,Rotor Volgograd,1,2,2015,Krasnodar 2,Away
+711855,1649592000,6801,KAMAZ,1,3,6833,Veles,Away
+711856,1650099600,1089,Enisey,2,0,2001,FK Neftekhimik,Home
+711857,1650124800,6831,Urozhay,2,0,6786,Akron,Home
+711858,1650193200,2003,Spartak Moscow 2,2,3,1080,Orenburg,Away
+711859,1650114000,6787,Alaniya Vladikavkaz,3,0,1081,TOM Tomsk,Home
+711860,1650106800,3984,Tekstilshchik,0,5,1993,Fakel Voronezh,Away
+711861,1650016800,6797,Dolgoprudny,0,2,2006,Baltika,Away
+711862,1650085200,1087,Ska-khabarovsk,1,0,6815,Metallurg Lipetsk,Home
+711863,1650110400,2015,Krasnodar 2,4,1,6801,KAMAZ,Home
+711864,1650106800,3985,Torpedo Moskva,1,0,2010,Rotor Volgograd,Home
+711865,1650106800,6833,Veles,0,2,2004,Volgar Astrakhan,Away
+711866,1650718800,6815,Metallurg Lipetsk,1,0,2004,Volgar Astrakhan,Home
+711867,1650726000,2006,Baltika,2,0,1087,Ska-khabarovsk,Home
+711868,1650718800,1993,Fakel Voronezh,1,0,6797,Dolgoprudny,Home
+711869,1650704400,1081,TOM Tomsk,1,0,3984,Tekstilshchik,Home
+711870,1650801600,1080,Orenburg,0,0,6787,Alaniya Vladikavkaz,Draw
+711871,1650715200,6786,Akron,0,1,2003,Spartak Moscow 2,Away
+711872,1650711600,2001,FK Neftekhimik,0,3,6831,Urozhay,Away
+711873,1650805200,2010,Rotor Volgograd,2,3,1089,Enisey,Away
+711874,1650715200,6801,KAMAZ,0,0,3985,Torpedo Moskva,Draw
+711875,1650726000,2015,Krasnodar 2,0,0,6833,Veles,Draw
+711876,1651302000,1089,Enisey,0,0,6801,KAMAZ,Draw
+711877,1651334400,6831,Urozhay,2,1,2010,Rotor Volgograd,Home
+711878,1651323600,2003,Spartak Moscow 2,0,4,2001,FK Neftekhimik,Away
+711879,1651323600,6787,Alaniya Vladikavkaz,2,2,6786,Akron,Draw
+711880,1651316400,3984,Tekstilshchik,2,5,1080,Orenburg,Away
+711881,1651327200,6797,Dolgoprudny,1,0,1081,TOM Tomsk,Home
+711882,1651302000,1087,Ska-khabarovsk,2,1,1993,Fakel Voronezh,Home
+711883,1651323600,2004,Volgar Astrakhan,2,2,2006,Baltika,Draw
+711884,1651316400,3985,Torpedo Moskva,2,0,2015,Krasnodar 2,Home
+711885,1651316400,6833,Veles,1,2,6815,Metallurg Lipetsk,Away
+711886,1651935600,2006,Baltika,0,0,6815,Metallurg Lipetsk,Draw
+711887,1651928400,1993,Fakel Voronezh,1,0,2004,Volgar Astrakhan,Home
+711888,1634461200,1081,TOM Tomsk,1,0,1087,Ska-khabarovsk,Home
+711889,1651924800,1080,Orenburg,2,2,6797,Dolgoprudny,Draw
+711890,1651924800,6786,Akron,4,1,3984,Tekstilshchik,Home
+711891,1651845600,2001,FK Neftekhimik,5,2,6787,Alaniya Vladikavkaz,Home
+711892,1651924800,2010,Rotor Volgograd,0,1,2003,Spartak Moscow 2,Away
+711893,1651928400,6801,KAMAZ,0,0,6831,Urozhay,Draw
+711894,1651935600,2015,Krasnodar 2,4,0,1089,Enisey,Home
+711895,1651921200,3985,Torpedo Moskva,1,0,6833,Veles,Home
+711896,1652608800,1089,Enisey,0,1,3985,Torpedo Moskva,Away
+711897,1652544000,6831,Urozhay,0,0,2015,Krasnodar 2,Draw
+711898,1652706000,2003,Spartak Moscow 2,3,0,6801,KAMAZ,Home
+711899,1652623200,6787,Alaniya Vladikavkaz,0,1,2010,Rotor Volgograd,Away
+711900,1652612400,3984,Tekstilshchik,1,0,2001,FK Neftekhimik,Home
+711901,1652612400,6797,Dolgoprudny,0,2,6786,Akron,Away
+711902,1652598000,1087,Ska-khabarovsk,1,0,1080,Orenburg,Home
+711903,1652625000,2004,Volgar Astrakhan,0,3,1081,TOM Tomsk,Away
+711904,1652619600,6815,Metallurg Lipetsk,1,2,1993,Fakel Voronezh,Away
+711905,1652608800,6833,Veles,1,1,2006,Baltika,Draw
+711906,1653134400,1089,Enisey,3,2,6833,Veles,Home
+711907,1653134400,6787,Alaniya Vladikavkaz,3,2,6801,KAMAZ,Home
+711908,1653130800,3984,Tekstilshchik,1,3,2010,Rotor Volgograd,Away
+711909,1653134400,6797,Dolgoprudny,2,4,2001,FK Neftekhimik,Away
+711910,1653116400,1087,Ska-khabarovsk,0,3,6786,Akron,Away
+711911,1653134400,2004,Volgar Astrakhan,2,2,1080,Orenburg,Draw
+711912,1653134400,2006,Baltika,0,1,1993,Fakel Voronezh,Away
+711913,1653130800,1081,TOM Tomsk,2,2,6815,Metallurg Lipetsk,Draw
+711914,1653123600,2015,Krasnodar 2,1,3,2003,Spartak Moscow 2,Away
+711915,1653134400,3985,Torpedo Moskva,2,2,6831,Urozhay,Draw
