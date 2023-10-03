@@ -1,0 +1,71 @@
+fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+1035037,1691780400,44,Burnley,0,3,50,Manchester City
+1035038,1691839800,42,Arsenal,2,1,65,Nottingham Forest
+1035039,1691848800,35,Bournemouth,1,1,48,West Ham
+1035040,1691848800,51,Brighton,4,1,1359,Luton
+1035041,1691848800,45,Everton,0,1,36,Fulham
+1035042,1691848800,62,Sheffield Utd,0,1,52,Crystal Palace
+1035043,1691857800,34,Newcastle,5,1,66,Aston Villa
+1035044,1691931600,55,Brentford,2,2,47,Tottenham
+1035045,1691940600,49,Chelsea,1,1,40,Liverpool
+1035046,1692039600,33,Manchester United,1,0,39,Wolves
+1035047,1692536400,66,Aston Villa,4,0,45,Everton
+1035048,1692644400,52,Crystal Palace,0,1,42,Arsenal
+1035049,1692453600,36,Fulham,0,3,55,Brentford
+1035050,1692453600,40,Liverpool,3,1,35,Bournemouth
+1035051,1696357800,1359,Luton,,,44,Burnley
+1035052,1692471600,50,Manchester City,1,0,34,Newcastle
+1035053,1692384300,65,Nottingham Forest,2,1,62,Sheffield Utd
+1035054,1692462600,47,Tottenham,2,0,33,Manchester United
+1035055,1692545400,48,West Ham,3,1,49,Chelsea
+1035056,1692453600,39,Wolves,1,4,51,Brighton
+1035057,1693049400,35,Bournemouth,0,2,47,Tottenham
+1035058,1693058400,42,Arsenal,2,2,36,Fulham
+1035059,1693058400,55,Brentford,1,1,52,Crystal Palace
+1035060,1693067400,51,Brighton,1,3,48,West Ham
+1035061,1693141200,44,Burnley,1,3,66,Aston Villa
+1035062,1692990000,49,Chelsea,3,0,1359,Luton
+1035063,1693058400,45,Everton,0,1,39,Wolves
+1035064,1693058400,33,Manchester United,3,2,65,Nottingham Forest
+1035065,1693150200,34,Newcastle,1,2,40,Liverpool
+1035066,1693141200,62,Sheffield Utd,1,2,50,Manchester City
+1035067,1693755000,42,Arsenal,3,1,33,Manchester United
+1035068,1693663200,55,Brentford,2,2,35,Bournemouth
+1035069,1693672200,51,Brighton,3,1,34,Newcastle
+1035070,1693663200,44,Burnley,2,5,47,Tottenham
+1035071,1693663200,49,Chelsea,0,1,65,Nottingham Forest
+1035072,1693746000,52,Crystal Palace,3,2,39,Wolves
+1035073,1693746000,40,Liverpool,3,0,66,Aston Villa
+1035074,1693594800,1359,Luton,1,2,48,West Ham
+1035075,1693663200,50,Manchester City,5,1,36,Fulham
+1035076,1693654200,62,Sheffield Utd,2,2,45,Everton
+1035077,1694955600,35,Bournemouth,0,0,49,Chelsea
+1035078,1694872800,66,Aston Villa,3,1,52,Crystal Palace
+1035079,1694964600,45,Everton,0,1,42,Arsenal
+1035080,1694872800,36,Fulham,1,0,1359,Luton
+1035081,1694872800,33,Manchester United,1,3,51,Brighton
+1035082,1694881800,34,Newcastle,1,0,55,Brentford
+1035083,1695062700,65,Nottingham Forest,1,1,44,Burnley
+1035084,1694872800,47,Tottenham,2,1,62,Sheffield Utd
+1035085,1694872800,48,West Ham,1,3,50,Manchester City
+1035086,1694863800,39,Wolves,1,3,40,Liverpool
+1035087,1695560400,42,Arsenal,2,2,47,Tottenham
+1035088,1695486600,55,Brentford,1,3,45,Everton
+1035089,1695560400,51,Brighton,3,1,35,Bournemouth
+1035090,1695495600,44,Burnley,0,1,33,Manchester United
+1035091,1695560400,49,Chelsea,0,1,66,Aston Villa
+1035092,1695477600,52,Crystal Palace,0,0,36,Fulham
+1035093,1695560400,40,Liverpool,3,1,48,West Ham
+1035094,1695477600,1359,Luton,1,1,39,Wolves
+1035095,1695477600,50,Manchester City,2,0,65,Nottingham Forest
+1035096,1695569400,62,Sheffield Utd,0,8,34,Newcastle
+1035097,1696082400,35,Bournemouth,0,4,42,Arsenal
+1035098,1696073400,66,Aston Villa,6,1,51,Brighton
+1035099,1696082400,45,Everton,1,2,1359,Luton
+1035100,1696273200,36,Fulham,0,2,49,Chelsea
+1035101,1696082400,33,Manchester United,0,1,52,Crystal Palace
+1035102,1696082400,34,Newcastle,2,0,44,Burnley
+1035103,1696165200,65,Nottingham Forest,1,1,55,Brentford
+1035104,1696091400,47,Tottenham,2,1,40,Liverpool
+1035105,1696082400,48,West Ham,2,0,62,Sheffield Utd
+1035106,1696082400,39,Wolves,2,1,50,Manchester City

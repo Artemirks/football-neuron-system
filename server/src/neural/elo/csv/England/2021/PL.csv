@@ -1,0 +1,381 @@
+fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+710556,1628881200,55,Brentford,2,0,42,Arsenal
+710557,1628949600,44,Burnley,1,2,51,Brighton
+710558,1628949600,49,Chelsea,3,0,52,Crystal Palace
+710559,1628949600,45,Everton,3,1,41,Southampton
+710560,1628949600,46,Leicester,1,0,39,Wolves
+710561,1628940600,33,Manchester United,5,1,63,Leeds
+710562,1629032400,34,Newcastle,2,4,48,West Ham
+710563,1628958600,71,Norwich,0,3,40,Liverpool
+710564,1629041400,47,Tottenham,1,0,50,Manchester City
+710565,1628949600,38,Watford,3,2,66,Aston Villa
+710566,1629646200,42,Arsenal,0,2,49,Chelsea
+710567,1629554400,66,Aston Villa,2,0,34,Newcastle
+710568,1629563400,51,Brighton,2,0,38,Watford
+710569,1629554400,52,Crystal Palace,0,0,55,Brentford
+710570,1629554400,63,Leeds,2,2,45,Everton
+710571,1629545400,40,Liverpool,2,0,44,Burnley
+710572,1629554400,50,Manchester City,5,0,71,Norwich
+710573,1629637200,41,Southampton,1,1,33,Manchester United
+710574,1629745200,48,West Ham,4,1,46,Leicester
+710575,1629637200,39,Wolves,0,1,47,Tottenham
+710576,1630159200,66,Aston Villa,1,1,55,Brentford
+710577,1630159200,51,Brighton,0,2,45,Everton
+710578,1630242000,44,Burnley,1,1,63,Leeds
+710579,1630168200,40,Liverpool,1,1,49,Chelsea
+710580,1630150200,50,Manchester City,5,0,42,Arsenal
+710581,1630159200,34,Newcastle,2,2,41,Southampton
+710582,1630159200,71,Norwich,1,2,46,Leicester
+710583,1630242000,47,Tottenham,1,0,38,Watford
+710584,1630159200,48,West Ham,2,2,52,Crystal Palace
+710585,1630251000,39,Wolves,0,1,33,Manchester United
+710586,1631368800,42,Arsenal,1,0,71,Norwich
+710587,1631368800,55,Brentford,0,1,51,Brighton
+710588,1631377800,49,Chelsea,3,0,66,Aston Villa
+710589,1631359800,52,Crystal Palace,3,0,47,Tottenham
+710590,1631559600,45,Everton,3,1,44,Burnley
+710591,1631460600,63,Leeds,0,3,40,Liverpool
+710592,1631368800,46,Leicester,0,1,50,Manchester City
+710593,1631368800,33,Manchester United,4,1,34,Newcastle
+710594,1631368800,41,Southampton,0,0,48,West Ham
+710595,1631368800,38,Watford,0,2,39,Wolves
+710596,1631982600,66,Aston Villa,3,0,45,Everton
+710597,1632056400,51,Brighton,2,1,46,Leicester
+710598,1631973600,44,Burnley,0,1,42,Arsenal
+710599,1631973600,40,Liverpool,3,0,52,Crystal Palace
+710600,1631973600,50,Manchester City,0,0,41,Southampton
+710601,1631905200,34,Newcastle,1,1,63,Leeds
+710602,1631973600,71,Norwich,1,3,38,Watford
+710603,1632065400,47,Tottenham,0,3,49,Chelsea
+710604,1632056400,48,West Ham,1,2,33,Manchester United
+710605,1631964600,39,Wolves,0,2,55,Brentford
+710606,1632670200,42,Arsenal,3,1,47,Tottenham
+710607,1632587400,55,Brentford,3,3,40,Liverpool
+710608,1632569400,49,Chelsea,0,1,50,Manchester City
+710609,1632769200,52,Crystal Palace,1,1,51,Brighton
+710610,1632578400,45,Everton,2,0,71,Norwich
+710611,1632578400,63,Leeds,1,2,48,West Ham
+710612,1632578400,46,Leicester,2,2,44,Burnley
+710613,1632569400,33,Manchester United,0,1,66,Aston Villa
+710614,1632661200,41,Southampton,0,1,39,Wolves
+710615,1632578400,38,Watford,1,1,34,Newcastle
+710616,1633192200,51,Brighton,0,0,42,Arsenal
+710617,1633183200,44,Burnley,0,0,71,Norwich
+710618,1633183200,49,Chelsea,3,1,41,Southampton
+710619,1633266000,52,Crystal Palace,2,2,46,Leicester
+710620,1633183200,63,Leeds,1,0,38,Watford
+710621,1633275000,40,Liverpool,2,2,50,Manchester City
+710622,1633174200,33,Manchester United,1,1,45,Everton
+710623,1633266000,47,Tottenham,2,1,66,Aston Villa
+710624,1633266000,48,West Ham,1,2,55,Brentford
+710625,1633183200,39,Wolves,2,1,34,Newcastle
+710626,1634583600,42,Arsenal,2,2,52,Crystal Palace
+710627,1634392800,66,Aston Villa,2,3,39,Wolves
+710628,1634401800,55,Brentford,0,1,49,Chelsea
+710629,1634475600,45,Everton,0,1,48,West Ham
+710630,1634392800,46,Leicester,4,2,33,Manchester United
+710631,1634392800,50,Manchester City,2,0,44,Burnley
+710632,1634484600,34,Newcastle,2,3,47,Tottenham
+710633,1634392800,71,Norwich,0,0,51,Brighton
+710634,1634392800,41,Southampton,1,0,63,Leeds
+710635,1634383800,38,Watford,0,5,40,Liverpool
+710636,1634929200,42,Arsenal,3,1,66,Aston Villa
+710637,1635080400,55,Brentford,1,2,46,Leicester
+710638,1635006600,51,Brighton,1,4,50,Manchester City
+710639,1634988600,49,Chelsea,7,0,71,Norwich
+710640,1634997600,52,Crystal Palace,1,1,34,Newcastle
+710641,1634997600,45,Everton,2,5,38,Watford
+710642,1634997600,63,Leeds,1,1,39,Wolves
+710643,1635089400,33,Manchester United,0,5,40,Liverpool
+710644,1634997600,41,Southampton,2,2,44,Burnley
+710645,1635080400,48,West Ham,1,0,47,Tottenham
+710646,1635697800,66,Aston Villa,1,4,48,West Ham
+710647,1635602400,44,Burnley,3,1,55,Brentford
+710648,1635593400,46,Leicester,0,2,42,Arsenal
+710649,1635602400,40,Liverpool,2,2,51,Brighton
+710650,1635602400,50,Manchester City,0,2,52,Crystal Palace
+710651,1635602400,34,Newcastle,0,3,49,Chelsea
+710652,1635688800,71,Norwich,1,2,63,Leeds
+710653,1635611400,47,Tottenham,0,3,33,Manchester United
+710654,1635602400,38,Watford,0,1,41,Southampton
+710655,1635796800,39,Wolves,2,1,45,Everton
+710656,1636293600,42,Arsenal,1,0,38,Watford
+710657,1636210800,55,Brentford,1,2,71,Norwich
+710658,1636219800,51,Brighton,1,1,34,Newcastle
+710659,1636210800,49,Chelsea,1,1,44,Burnley
+710660,1636210800,52,Crystal Palace,2,0,39,Wolves
+710661,1636293600,45,Everton,0,0,47,Tottenham
+710662,1636293600,63,Leeds,1,1,46,Leicester
+710663,1636201800,33,Manchester United,0,2,50,Manchester City
+710664,1636142400,41,Southampton,1,0,66,Aston Villa
+710665,1636302600,48,West Ham,3,2,40,Liverpool
+710666,1637420400,66,Aston Villa,2,0,51,Brighton
+710667,1637420400,44,Burnley,3,3,52,Crystal Palace
+710668,1637411400,46,Leicester,0,3,49,Chelsea
+710669,1637429400,40,Liverpool,4,0,42,Arsenal
+710670,1637503200,50,Manchester City,3,0,45,Everton
+710671,1637420400,34,Newcastle,3,3,55,Brentford
+710672,1637420400,71,Norwich,2,1,41,Southampton
+710673,1637512200,47,Tottenham,2,1,63,Leeds
+710674,1637420400,38,Watford,4,1,33,Manchester United
+710675,1637420400,39,Wolves,1,0,48,West Ham
+710676,1638016200,42,Arsenal,2,0,34,Newcastle
+710677,1638108000,55,Brentford,1,0,45,Everton
+710678,1638034200,51,Brighton,0,0,63,Leeds
+710679,1645644600,44,Burnley,1,0,47,Tottenham
+710680,1638117000,49,Chelsea,1,1,33,Manchester United
+710681,1638025200,52,Crystal Palace,1,2,66,Aston Villa
+710682,1638108000,46,Leicester,4,2,38,Watford
+710683,1638025200,40,Liverpool,4,0,41,Southampton
+710684,1638108000,50,Manchester City,2,1,48,West Ham
+710685,1638025200,71,Norwich,0,0,39,Wolves
+710686,1638389700,66,Aston Villa,1,2,50,Manchester City
+710687,1638389700,45,Everton,1,4,40,Liverpool
+710688,1638303300,63,Leeds,1,0,52,Crystal Palace
+710689,1638387000,38,Watford,1,2,49,Chelsea
+710690,1638387000,48,West Ham,1,1,51,Brighton
+710691,1638387000,39,Wolves,0,0,44,Burnley
+710692,1638476100,33,Manchester United,3,2,42,Arsenal
+710693,1638300600,34,Newcastle,1,1,71,Norwich
+710694,1638387000,41,Southampton,2,2,46,Leicester
+710695,1638473400,47,Tottenham,2,0,55,Brentford
+710696,1638721800,66,Aston Villa,2,1,46,Leicester
+710697,1638820800,45,Everton,2,1,42,Arsenal
+710698,1638712800,63,Leeds,2,2,55,Brentford
+710699,1638712800,33,Manchester United,1,0,52,Crystal Palace
+710700,1638630000,34,Newcastle,1,0,44,Burnley
+710701,1638630000,41,Southampton,1,1,51,Brighton
+710702,1638712800,47,Tottenham,3,0,71,Norwich
+710703,1638639000,38,Watford,1,3,50,Manchester City
+710704,1638621000,48,West Ham,3,2,49,Chelsea
+710705,1638630000,39,Wolves,0,1,40,Liverpool
+710706,1639234800,42,Arsenal,3,0,41,Southampton
+710707,1639166400,55,Brentford,2,1,38,Watford
+710708,1647459000,51,Brighton,0,2,47,Tottenham
+710709,1639317600,44,Burnley,0,0,48,West Ham
+710710,1639234800,49,Chelsea,3,2,63,Leeds
+710711,1639326600,52,Crystal Palace,3,1,45,Everton
+710712,1639317600,46,Leicester,4,0,34,Newcastle
+710713,1639234800,40,Liverpool,1,0,66,Aston Villa
+710714,1639225800,50,Manchester City,1,0,39,Wolves
+710715,1639243800,71,Norwich,0,1,33,Manchester United
+710716,1639598400,42,Arsenal,2,0,48,West Ham
+710717,1642622400,55,Brentford,1,3,33,Manchester United
+710718,1639596600,51,Brighton,0,1,39,Wolves
+710719,1644084000,44,Burnley,0,0,38,Watford
+710720,1642620600,46,Leicester,2,3,47,Tottenham
+710721,1639511100,71,Norwich,0,2,66,Aston Villa
+710722,1639596600,52,Crystal Palace,2,2,41,Southampton
+710723,1639683900,49,Chelsea,1,1,45,Everton
+710724,1639684800,40,Liverpool,3,1,34,Newcastle
+710725,1639512000,50,Manchester City,7,0,63,Leeds
+710726,1652986800,66,Aston Villa,1,1,44,Burnley
+710727,1650480300,45,Everton,1,1,46,Leicester
+710728,1639848600,63,Leeds,1,4,42,Arsenal
+710729,1644956100,33,Manchester United,2,0,51,Brighton
+710730,1639922400,34,Newcastle,0,4,50,Manchester City
+710731,1641930300,41,Southampton,4,1,55,Brentford
+710732,1639931400,47,Tottenham,2,2,40,Liverpool
+710733,1645644600,38,Watford,1,4,52,Crystal Palace
+710734,1642016700,48,West Ham,2,0,71,Norwich
+710735,1639922400,39,Wolves,0,0,49,Chelsea
+710736,1640539800,66,Aston Villa,1,3,49,Chelsea
+710737,1640548800,51,Brighton,2,0,55,Brentford
+710738,1649269800,44,Burnley,3,2,45,Everton
+710739,1645645500,40,Liverpool,6,0,63,Leeds
+710740,1640530800,50,Manchester City,6,3,46,Leicester
+710741,1640635200,34,Newcastle,1,1,33,Manchester United
+710742,1640530800,71,Norwich,0,5,42,Arsenal
+710743,1640530800,47,Tottenham,3,0,52,Crystal Palace
+710744,1640530800,48,West Ham,2,3,41,Southampton
+710745,1646940600,39,Wolves,4,0,38,Watford
+710746,1645731900,42,Arsenal,2,1,39,Wolves
+710747,1640808900,55,Brentford,0,1,50,Manchester City
+710748,1640806200,49,Chelsea,1,1,51,Brighton
+710749,1640703600,52,Crystal Palace,3,0,71,Norwich
+710750,1647546300,45,Everton,1,0,34,Newcastle
+710751,1646941500,63,Leeds,0,3,66,Aston Villa
+710752,1640721600,46,Leicester,1,0,40,Liverpool
+710753,1640895300,33,Manchester United,3,1,44,Burnley
+710754,1640703600,41,Southampton,1,1,47,Tottenham
+710755,1640703600,38,Watford,1,4,48,West Ham
+710756,1641040200,42,Arsenal,1,2,50,Manchester City
+710757,1641132000,55,Brentford,2,1,66,Aston Villa
+710758,1641141000,49,Chelsea,2,2,40,Liverpool
+710759,1641058200,52,Crystal Palace,2,3,48,West Ham
+710760,1641132000,45,Everton,2,3,51,Brighton
+710761,1641132000,63,Leeds,3,1,44,Burnley
+710762,1652294700,46,Leicester,3,0,71,Norwich
+710763,1641231000,33,Manchester United,0,1,39,Wolves
+710764,1646940600,41,Southampton,1,2,34,Newcastle
+710765,1641049200,38,Watford,0,1,47,Tottenham
+710766,1642267800,66,Aston Villa,2,2,33,Manchester United
+710767,1642190400,51,Brighton,1,1,52,Crystal Palace
+710768,1646163900,44,Burnley,0,2,46,Leicester
+710769,1642341600,40,Liverpool,3,0,55,Brentford
+710770,1642249800,50,Manchester City,1,0,49,Chelsea
+710771,1642258800,34,Newcastle,1,1,38,Watford
+710772,1642258800,71,Norwich,2,1,45,Everton
+710773,1652381100,47,Tottenham,3,0,42,Arsenal
+710774,1642341600,48,West Ham,2,3,63,Leeds
+710775,1642258800,39,Wolves,3,1,41,Southampton
+710776,1642946400,42,Arsenal,0,0,44,Burnley
+710777,1642863600,55,Brentford,1,2,39,Wolves
+710778,1642955400,49,Chelsea,2,0,47,Tottenham
+710779,1642946400,52,Crystal Palace,1,3,40,Liverpool
+710780,1642854600,45,Everton,0,1,66,Aston Villa
+710781,1642863600,63,Leeds,0,1,34,Newcastle
+710782,1642946400,46,Leicester,1,1,51,Brighton
+710783,1642863600,33,Manchester United,1,0,48,West Ham
+710784,1642872600,41,Southampton,1,1,50,Manchester City
+710785,1642795200,38,Watford,0,3,71,Norwich
+710786,1644436800,66,Aston Villa,3,3,63,Leeds
+710787,1642536000,51,Brighton,1,1,49,Chelsea
+710788,1644350400,44,Burnley,1,1,33,Manchester United
+710789,1644435900,71,Norwich,1,1,52,Crystal Palace
+710790,1644349500,48,West Ham,1,0,38,Watford
+710791,1644522300,39,Wolves,0,1,42,Arsenal
+710792,1644349500,34,Newcastle,3,1,45,Everton
+710793,1644435900,47,Tottenham,2,3,41,Southampton
+710794,1644522300,40,Liverpool,2,0,46,Leicester
+710795,1644435900,50,Manchester City,2,0,55,Brentford
+710796,1644678000,55,Brentford,0,0,52,Crystal Palace
+710797,1644760800,44,Burnley,0,1,40,Liverpool
+710798,1650480300,49,Chelsea,2,4,42,Arsenal
+710799,1644678000,45,Everton,3,0,63,Leeds
+710800,1644769800,46,Leicester,2,2,48,West Ham
+710801,1644669000,33,Manchester United,1,1,41,Southampton
+710802,1644760800,34,Newcastle,1,0,66,Aston Villa
+710803,1644687000,71,Norwich,0,4,50,Manchester City
+710804,1644760800,47,Tottenham,0,2,39,Wolves
+710805,1644678000,38,Watford,0,2,51,Brighton
+710806,1645282800,42,Arsenal,2,1,55,Brentford
+710807,1645282800,66,Aston Villa,0,1,38,Watford
+710808,1645282800,51,Brighton,0,3,44,Burnley
+710809,1645282800,52,Crystal Palace,0,1,49,Chelsea
+710810,1645365600,63,Leeds,2,4,33,Manchester United
+710811,1645282800,40,Liverpool,3,1,71,Norwich
+710812,1645291800,50,Manchester City,2,3,47,Tottenham
+710813,1645282800,41,Southampton,2,0,45,Everton
+710814,1645273800,48,West Ham,1,1,34,Newcastle
+710815,1645374600,39,Wolves,2,1,46,Leicester
+710816,1647461700,42,Arsenal,0,2,40,Liverpool
+710817,1645887600,55,Brentford,0,2,34,Newcastle
+710818,1645889400,51,Brighton,0,2,66,Aston Villa
+710819,1652986800,49,Chelsea,1,1,46,Leicester
+710820,1645887600,52,Crystal Palace,1,1,44,Burnley
+710821,1645896600,45,Everton,0,1,50,Manchester City
+710822,1645878600,63,Leeds,0,4,47,Tottenham
+710823,1645887600,33,Manchester United,0,0,38,Watford
+710824,1645819200,41,Southampton,2,0,71,Norwich
+710825,1645970400,48,West Ham,1,0,39,Wolves
+710826,1646492400,66,Aston Villa,4,0,41,Southampton
+710827,1646492400,44,Burnley,0,4,49,Chelsea
+710828,1646483400,46,Leicester,1,0,63,Leeds
+710829,1646501400,40,Liverpool,1,0,48,West Ham
+710830,1646584200,50,Manchester City,4,1,33,Manchester United
+710831,1646492400,34,Newcastle,2,1,51,Brighton
+710832,1646492400,71,Norwich,1,3,55,Brentford
+710833,1646683200,47,Tottenham,5,0,45,Everton
+710834,1646575200,38,Watford,2,3,42,Arsenal
+710835,1646492400,39,Wolves,0,2,52,Crystal Palace
+710836,1647189000,42,Arsenal,2,0,46,Leicester
+710837,1647097200,55,Brentford,2,0,44,Burnley
+710838,1647088200,51,Brighton,0,2,40,Liverpool
+710839,1647180000,49,Chelsea,1,0,34,Newcastle
+710840,1647288000,52,Crystal Palace,0,0,50,Manchester City
+710841,1647180000,45,Everton,0,1,39,Wolves
+710842,1647180000,63,Leeds,2,1,71,Norwich
+710843,1647106200,33,Manchester United,3,2,47,Tottenham
+710844,1647180000,41,Southampton,1,2,38,Watford
+710845,1647180000,48,West Ham,2,1,66,Aston Villa
+710846,1647693000,66,Aston Villa,0,1,42,Arsenal
+710847,1650566700,44,Burnley,2,0,41,Southampton
+710848,1647784800,46,Leicester,2,1,55,Brentford
+710849,1650394800,40,Liverpool,4,0,33,Manchester United
+710850,1650481200,50,Manchester City,3,0,51,Brighton
+710851,1650480300,34,Newcastle,1,0,52,Crystal Palace
+710852,1646940600,71,Norwich,1,3,49,Chelsea
+710853,1647793800,47,Tottenham,3,1,48,West Ham
+710854,1652294700,38,Watford,0,0,45,Everton
+710855,1647633600,39,Wolves,2,3,63,Leeds
+710856,1648908000,51,Brighton,0,0,71,Norwich
+710857,1648908000,44,Burnley,0,2,50,Manchester City
+710858,1648908000,49,Chelsea,1,4,55,Brentford
+710859,1649098800,52,Crystal Palace,3,0,42,Arsenal
+710860,1648908000,63,Leeds,1,1,41,Southampton
+710861,1648899000,40,Liverpool,2,0,38,Watford
+710862,1648917000,33,Manchester United,1,1,46,Leicester
+710863,1648999800,47,Tottenham,5,1,34,Newcastle
+710864,1648990800,48,West Ham,2,1,45,Everton
+710865,1648908000,39,Wolves,2,1,66,Aston Villa
+710866,1649512800,42,Arsenal,1,2,51,Brighton
+710867,1649521800,66,Aston Villa,0,4,47,Tottenham
+710868,1649595600,55,Brentford,2,0,48,West Ham
+710869,1649503800,45,Everton,1,0,33,Manchester United
+710870,1649595600,46,Leicester,2,1,52,Crystal Palace
+710871,1649604600,50,Manchester City,2,2,40,Liverpool
+710872,1649444400,34,Newcastle,1,0,39,Wolves
+710873,1649595600,71,Norwich,2,0,44,Burnley
+710874,1649512800,41,Southampton,0,6,49,Chelsea
+710875,1649512800,38,Watford,0,3,63,Leeds
+710876,1652209200,66,Aston Villa,1,2,40,Liverpool
+710877,1652985900,45,Everton,3,2,52,Crystal Palace
+710878,1652293800,63,Leeds,0,3,49,Chelsea
+710879,1650117600,33,Manchester United,3,2,71,Norwich
+710880,1650201300,34,Newcastle,2,1,46,Leicester
+710881,1650117600,41,Southampton,1,0,42,Arsenal
+710882,1650108600,47,Tottenham,0,1,51,Brighton
+710883,1650117600,38,Watford,1,2,55,Brentford
+710884,1650201300,48,West Ham,1,1,44,Burnley
+710885,1652296500,39,Wolves,1,5,50,Manchester City
+710886,1650713400,42,Arsenal,3,1,33,Manchester United
+710887,1650731400,55,Brentford,0,0,47,Tottenham
+710888,1650805200,51,Brighton,2,2,41,Southampton
+710889,1650805200,44,Burnley,1,0,39,Wolves
+710890,1650805200,49,Chelsea,1,0,48,West Ham
+710891,1650913200,52,Crystal Palace,0,0,63,Leeds
+710892,1650722400,46,Leicester,0,0,66,Aston Villa
+710893,1650814200,40,Liverpool,2,0,45,Everton
+710894,1650722400,50,Manchester City,5,1,38,Watford
+710895,1650722400,71,Norwich,0,3,34,Newcastle
+710896,1651327200,66,Aston Villa,2,0,71,Norwich
+710897,1651410000,45,Everton,1,0,49,Chelsea
+710898,1651336200,63,Leeds,0,4,50,Manchester City
+710899,1651518000,33,Manchester United,3,0,55,Brentford
+710900,1651318200,34,Newcastle,0,1,40,Liverpool
+710901,1651327200,41,Southampton,1,2,52,Crystal Palace
+710902,1651410000,47,Tottenham,3,1,46,Leicester
+710903,1651327200,38,Watford,1,2,44,Burnley
+710904,1651419000,48,West Ham,1,2,42,Arsenal
+710905,1651327200,39,Wolves,0,3,51,Brighton
+710906,1652014800,42,Arsenal,2,1,63,Leeds
+710907,1651932000,55,Brentford,3,0,41,Southampton
+710908,1651941000,51,Brighton,4,0,33,Manchester United
+710909,1651932000,44,Burnley,1,3,66,Aston Villa
+710910,1651932000,49,Chelsea,2,2,39,Wolves
+710911,1651932000,52,Crystal Palace,1,0,38,Watford
+710912,1652014800,46,Leicester,1,2,45,Everton
+710913,1651949100,40,Liverpool,1,1,47,Tottenham
+710914,1652023800,50,Manchester City,5,0,34,Newcastle
+710915,1652014800,71,Norwich,0,4,48,West Ham
+710916,1652619600,66,Aston Villa,1,1,52,Crystal Palace
+710917,1652628600,45,Everton,2,3,55,Brentford
+710918,1652619600,63,Leeds,1,1,51,Brighton
+710919,1651171500,33,Manchester United,1,1,49,Chelsea
+710920,1652727600,34,Newcastle,2,0,42,Arsenal
+710921,1652813100,41,Southampton,1,2,40,Liverpool
+710922,1652612400,47,Tottenham,1,0,44,Burnley
+710923,1652619600,38,Watford,1,5,46,Leicester
+710924,1652619600,48,West Ham,2,2,50,Manchester City
+710925,1652619600,39,Wolves,1,1,71,Norwich
+710926,1653231600,42,Arsenal,5,1,45,Everton
+710927,1653231600,55,Brentford,1,2,63,Leeds
+710928,1653231600,51,Brighton,3,1,48,West Ham
+710929,1653231600,44,Burnley,1,2,34,Newcastle
+710930,1653231600,49,Chelsea,2,1,38,Watford
+710931,1653231600,52,Crystal Palace,1,0,33,Manchester United
+710932,1653231600,46,Leicester,4,1,41,Southampton
+710933,1653231600,40,Liverpool,3,1,39,Wolves
+710934,1653231600,50,Manchester City,3,2,66,Aston Villa
+710935,1653231600,71,Norwich,0,5,47,Tottenham

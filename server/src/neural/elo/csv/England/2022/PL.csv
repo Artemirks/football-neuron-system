@@ -1,0 +1,381 @@
+fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+867946,1659726000,52,Crystal Palace,0,2,42,Arsenal
+867947,1659785400,36,Fulham,2,2,40,Liverpool
+867948,1659794400,35,Bournemouth,2,0,66,Aston Villa
+867949,1659794400,63,Leeds,2,1,39,Wolves
+867950,1659877200,46,Leicester,2,2,55,Brentford
+867951,1659794400,34,Newcastle,2,0,65,Nottingham Forest
+867952,1659794400,47,Tottenham,4,1,41,Southampton
+867953,1659803400,45,Everton,0,1,49,Chelsea
+867954,1659877200,33,Manchester United,1,2,51,Brighton
+867955,1659886200,48,West Ham,0,2,50,Manchester City
+867956,1660399200,42,Arsenal,4,2,46,Leicester
+867957,1660390200,66,Aston Villa,2,1,45,Everton
+867958,1660408200,55,Brentford,4,0,33,Manchester United
+867959,1660399200,51,Brighton,0,0,34,Newcastle
+867960,1660491000,49,Chelsea,2,2,47,Tottenham
+867961,1660590000,40,Liverpool,1,1,52,Crystal Palace
+867962,1660399200,50,Manchester City,4,0,35,Bournemouth
+867963,1660482000,65,Nottingham Forest,1,0,48,West Ham
+867964,1660399200,41,Southampton,2,2,63,Leeds
+867965,1660399200,39,Wolves,0,0,36,Fulham
+867966,1661013000,35,Bournemouth,0,3,42,Arsenal
+867967,1661004000,52,Crystal Palace,3,1,66,Aston Villa
+867968,1661004000,45,Everton,1,1,65,Nottingham Forest
+867969,1661004000,36,Fulham,3,2,55,Brentford
+867970,1661086800,63,Leeds,3,0,49,Chelsea
+867971,1661004000,46,Leicester,1,2,41,Southampton
+867972,1661194800,33,Manchester United,2,1,40,Liverpool
+867973,1661095800,34,Newcastle,3,3,50,Manchester City
+867974,1660995000,47,Tottenham,1,0,39,Wolves
+867975,1661086800,48,West Ham,0,2,51,Brighton
+867976,1661617800,42,Arsenal,2,1,36,Fulham
+867977,1661691600,66,Aston Villa,0,1,48,West Ham
+867978,1661608800,55,Brentford,1,1,45,Everton
+867979,1661608800,51,Brighton,1,0,63,Leeds
+867980,1661608800,49,Chelsea,2,1,46,Leicester
+867981,1661608800,40,Liverpool,9,0,35,Bournemouth
+867982,1661608800,50,Manchester City,4,2,52,Crystal Palace
+867983,1661700600,65,Nottingham Forest,0,2,47,Tottenham
+867984,1661599800,41,Southampton,0,1,33,Manchester United
+867985,1661691600,39,Wolves,1,1,34,Newcastle
+867986,1661970600,35,Bournemouth,0,0,39,Wolves
+867987,1661970600,42,Arsenal,2,1,66,Aston Villa
+867988,1661884200,36,Fulham,2,1,51,Brighton
+867989,1661886000,63,Leeds,1,1,45,Everton
+867990,1662058800,46,Leicester,0,1,33,Manchester United
+867991,1661971500,48,West Ham,1,1,47,Tottenham
+867992,1661884200,52,Crystal Palace,1,1,55,Brentford
+867993,1661885100,41,Southampton,2,1,49,Chelsea
+867994,1661972400,40,Liverpool,2,1,34,Newcastle
+867995,1661970600,50,Manchester City,6,0,65,Nottingham Forest
+867996,1662222600,66,Aston Villa,1,1,50,Manchester City
+867997,1662213600,55,Brentford,5,2,63,Leeds
+867998,1662296400,51,Brighton,5,2,46,Leicester
+867999,1662213600,49,Chelsea,2,1,48,West Ham
+868000,1662204600,45,Everton,0,0,40,Liverpool
+868001,1662305400,33,Manchester United,3,1,42,Arsenal
+868002,1662213600,34,Newcastle,0,0,52,Crystal Palace
+868003,1662213600,65,Nottingham Forest,2,3,35,Bournemouth
+868004,1662213600,47,Tottenham,2,1,36,Fulham
+868005,1662213600,39,Wolves,1,0,41,Southampton
+868006,1680633900,35,Bournemouth,0,2,51,Brighton
+868007,1677699900,42,Arsenal,4,0,45,Everton
+868008,1674072000,52,Crystal Palace,1,1,33,Manchester United
+868009,1673553600,36,Fulham,2,1,49,Chelsea
+868010,1680633900,63,Leeds,2,1,65,Nottingham Forest
+868011,1680633900,46,Leicester,1,2,66,Aston Villa
+868012,1677700800,40,Liverpool,2,0,39,Wolves
+868013,1674158400,50,Manchester City,4,2,47,Tottenham
+868014,1678908600,41,Southampton,0,2,55,Brentford
+868015,1680721200,48,West Ham,1,5,34,Newcastle
+868016,1663354800,66,Aston Villa,1,0,41,Southampton
+868017,1663498800,55,Brentford,0,3,42,Arsenal
+868018,1678908600,51,Brighton,1,0,52,Crystal Palace
+868019,1680634800,49,Chelsea,0,0,40,Liverpool
+868020,1663506900,45,Everton,1,0,48,West Ham
+868021,1675886400,33,Manchester United,2,2,63,Leeds
+868022,1663423200,34,Newcastle,1,1,35,Bournemouth
+868023,1663354800,65,Nottingham Forest,2,3,36,Fulham
+868024,1663432200,47,Tottenham,6,2,46,Leicester
+868025,1663414200,39,Wolves,0,3,50,Manchester City
+868026,1664632800,35,Bournemouth,0,0,55,Brentford
+868027,1664623800,42,Arsenal,3,1,47,Tottenham
+868028,1664632800,52,Crystal Palace,1,2,49,Chelsea
+868029,1664632800,36,Fulham,1,4,34,Newcastle
+868030,1664724600,63,Leeds,0,0,66,Aston Villa
+868031,1664823600,46,Leicester,4,0,65,Nottingham Forest
+868032,1664632800,40,Liverpool,3,3,51,Brighton
+868033,1664715600,50,Manchester City,6,3,33,Manchester United
+868034,1664632800,41,Southampton,1,2,45,Everton
+868035,1664641800,48,West Ham,2,0,39,Wolves
+868036,1665237600,35,Bournemouth,2,1,46,Leicester
+868037,1665329400,42,Arsenal,3,2,40,Liverpool
+868038,1665246600,51,Brighton,0,1,47,Tottenham
+868039,1665237600,49,Chelsea,3,0,39,Wolves
+868040,1665320400,52,Crystal Palace,2,1,63,Leeds
+868041,1665338400,45,Everton,1,2,33,Manchester United
+868042,1665237600,50,Manchester City,4,0,41,Southampton
+868043,1665237600,34,Newcastle,5,1,55,Brentford
+868044,1665428400,65,Nottingham Forest,1,1,66,Aston Villa
+868045,1665320400,48,West Ham,3,1,36,Fulham
+868046,1665925200,66,Aston Villa,0,2,49,Chelsea
+868047,1665774000,55,Brentford,2,0,51,Brighton
+868048,1665842400,36,Fulham,2,2,35,Bournemouth
+868049,1665925200,63,Leeds,0,1,42,Arsenal
+868050,1665833400,46,Leicester,0,0,52,Crystal Palace
+868051,1665934200,40,Liverpool,1,0,50,Manchester City
+868052,1665925200,33,Manchester United,0,0,34,Newcastle
+868053,1665925200,41,Southampton,1,1,48,West Ham
+868054,1665851400,47,Tottenham,2,0,45,Everton
+868055,1665842400,39,Wolves,1,0,65,Nottingham Forest
+868056,1666204200,35,Bournemouth,0,1,41,Southampton
+868057,1676489400,42,Arsenal,1,3,50,Manchester City
+868058,1666204200,55,Brentford,0,0,49,Chelsea
+868059,1666117800,51,Brighton,0,0,65,Nottingham Forest
+868060,1666290600,36,Fulham,3,0,66,Aston Villa
+868061,1666293300,46,Leicester,2,0,63,Leeds
+868062,1666120500,52,Crystal Palace,2,1,39,Wolves
+868063,1666204200,34,Newcastle,1,0,45,Everton
+868064,1666204200,40,Liverpool,1,0,48,West Ham
+868065,1666206900,33,Manchester United,2,0,47,Tottenham
+868066,1666530000,66,Aston Villa,4,0,55,Brentford
+868067,1666456200,49,Chelsea,1,1,33,Manchester United
+868068,1666447200,45,Everton,3,0,52,Crystal Palace
+868069,1666530000,63,Leeds,2,3,36,Fulham
+868070,1666447200,50,Manchester City,3,1,51,Brighton
+868071,1666438200,65,Nottingham Forest,1,0,40,Liverpool
+868072,1666530000,41,Southampton,1,1,42,Arsenal
+868073,1666539000,47,Tottenham,1,2,34,Newcastle
+868074,1666638000,48,West Ham,2,0,35,Bournemouth
+868075,1666530000,39,Wolves,0,4,46,Leicester
+868076,1667052000,35,Bournemouth,2,3,47,Tottenham
+868077,1667138400,42,Arsenal,5,0,65,Nottingham Forest
+868078,1667052000,55,Brentford,1,1,39,Wolves
+868079,1667052000,51,Brighton,4,1,49,Chelsea
+868080,1667052000,52,Crystal Palace,1,0,41,Southampton
+868081,1667061000,36,Fulham,0,0,45,Everton
+868082,1667043000,46,Leicester,0,1,50,Manchester City
+868083,1667069100,40,Liverpool,1,2,63,Leeds
+868084,1667146500,33,Manchester United,1,0,48,West Ham
+868085,1667052000,34,Newcastle,4,0,66,Aston Villa
+868086,1667743200,66,Aston Villa,3,1,33,Manchester United
+868087,1667736000,49,Chelsea,0,1,42,Arsenal
+868088,1667669400,45,Everton,0,2,46,Leicester
+868089,1667660400,63,Leeds,4,3,35,Bournemouth
+868090,1667660400,50,Manchester City,2,1,36,Fulham
+868091,1667660400,65,Nottingham Forest,2,2,55,Brentford
+868092,1667743200,41,Southampton,1,4,34,Newcastle
+868093,1667752200,47,Tottenham,1,2,40,Liverpool
+868094,1667743200,48,West Ham,1,2,52,Crystal Palace
+868095,1667660400,39,Wolves,2,3,51,Brighton
+868096,1668265200,35,Bournemouth,3,0,45,Everton
+868097,1668348000,51,Brighton,1,2,66,Aston Villa
+868098,1668357000,36,Fulham,1,2,33,Manchester United
+868099,1668265200,40,Liverpool,3,1,41,Southampton
+868100,1668256200,50,Manchester City,1,2,55,Brentford
+868101,1668274200,34,Newcastle,1,0,49,Chelsea
+868102,1668265200,65,Nottingham Forest,1,0,52,Crystal Palace
+868103,1668265200,47,Tottenham,4,3,63,Leeds
+868104,1668265200,48,West Ham,0,2,46,Leicester
+868105,1668282300,39,Wolves,0,2,42,Arsenal
+868106,1672084800,42,Arsenal,3,1,48,West Ham
+868107,1672075800,66,Aston Villa,1,3,40,Liverpool
+868108,1672057800,55,Brentford,2,2,47,Tottenham
+868109,1672162200,49,Chelsea,2,0,35,Bournemouth
+868110,1672066800,52,Crystal Palace,0,3,36,Fulham
+868111,1672066800,45,Everton,1,2,39,Wolves
+868112,1672257600,63,Leeds,1,3,50,Manchester City
+868113,1672066800,46,Leicester,0,3,34,Newcastle
+868114,1672171200,33,Manchester United,3,0,65,Nottingham Forest
+868115,1672066800,41,Southampton,1,3,51,Brighton
+868116,1672498800,35,Bournemouth,0,2,52,Crystal Palace
+868117,1672507800,51,Brighton,2,4,42,Arsenal
+868118,1672498800,36,Fulham,2,1,41,Southampton
+868119,1672430400,40,Liverpool,2,1,46,Leicester
+868120,1672498800,50,Manchester City,1,1,45,Everton
+868121,1672498800,34,Newcastle,0,0,63,Leeds
+868122,1672590600,65,Nottingham Forest,1,1,49,Chelsea
+868123,1672581600,47,Tottenham,0,2,66,Aston Villa
+868124,1672429500,48,West Ham,0,2,55,Brentford
+868125,1672489800,39,Wolves,0,1,33,Manchester United
+868126,1672775100,42,Arsenal,0,0,34,Newcastle
+868127,1672862400,66,Aston Villa,1,1,39,Wolves
+868128,1672680600,55,Brentford,3,1,40,Liverpool
+868129,1672948800,49,Chelsea,0,1,50,Manchester City
+868130,1672862400,52,Crystal Palace,0,4,47,Tottenham
+868131,1672775100,45,Everton,1,4,51,Brighton
+868132,1672861500,63,Leeds,2,2,48,West Ham
+868133,1672775100,46,Leicester,0,1,36,Fulham
+868134,1672776000,33,Manchester United,3,0,35,Bournemouth
+868135,1672860600,41,Southampton,0,1,65,Nottingham Forest
+868136,1673640000,66,Aston Villa,2,1,63,Leeds
+868137,1673717400,55,Brentford,2,0,35,Bournemouth
+868138,1673708400,51,Brighton,3,0,40,Liverpool
+868139,1673791200,49,Chelsea,1,0,52,Crystal Palace
+868140,1673708400,45,Everton,1,2,41,Southampton
+868141,1673699400,33,Manchester United,2,1,50,Manchester City
+868142,1673791200,34,Newcastle,1,0,36,Fulham
+868143,1673708400,65,Nottingham Forest,2,0,46,Leicester
+868144,1673800200,47,Tottenham,0,2,42,Arsenal
+868145,1673708400,39,Wolves,1,0,48,West Ham
+868146,1674313200,35,Bournemouth,1,1,65,Nottingham Forest
+868147,1674405000,42,Arsenal,3,2,33,Manchester United
+868148,1674322200,52,Crystal Palace,0,0,34,Newcastle
+868149,1674504000,36,Fulham,0,1,47,Tottenham
+868150,1674396000,63,Leeds,0,0,55,Brentford
+868151,1674313200,46,Leicester,2,2,51,Brighton
+868152,1674304200,40,Liverpool,0,0,49,Chelsea
+868153,1674396000,50,Manchester City,3,0,39,Wolves
+868154,1674313200,41,Southampton,0,1,66,Aston Villa
+868155,1674313200,48,West Ham,2,0,45,Everton
+868156,1675522800,66,Aston Villa,2,4,46,Leicester
+868157,1675522800,55,Brentford,3,0,41,Southampton
+868158,1675522800,51,Brighton,1,0,35,Bournemouth
+868159,1675454400,49,Chelsea,0,0,36,Fulham
+868160,1675513800,45,Everton,1,0,42,Arsenal
+868161,1675522800,33,Manchester United,2,1,52,Crystal Palace
+868162,1675531800,34,Newcastle,1,1,48,West Ham
+868163,1675605600,65,Nottingham Forest,1,0,63,Leeds
+868164,1675614600,47,Tottenham,1,0,50,Manchester City
+868165,1675522800,39,Wolves,3,0,40,Liverpool
+868166,1676136600,35,Bournemouth,1,1,34,Newcastle
+868167,1676127600,42,Arsenal,1,1,55,Brentford
+868168,1676127600,52,Crystal Palace,1,1,51,Brighton
+868169,1676127600,36,Fulham,2,0,65,Nottingham Forest
+868170,1676210400,63,Leeds,0,2,33,Manchester United
+868171,1676127600,46,Leicester,4,1,47,Tottenham
+868172,1676318400,40,Liverpool,2,0,45,Everton
+868173,1676219400,50,Manchester City,3,1,66,Aston Villa
+868174,1676127600,41,Southampton,1,2,39,Wolves
+868175,1676118600,48,West Ham,1,1,49,Chelsea
+868176,1676723400,66,Aston Villa,2,4,42,Arsenal
+868177,1676732400,55,Brentford,1,1,52,Crystal Palace
+868178,1676732400,51,Brighton,0,1,36,Fulham
+868179,1676732400,49,Chelsea,0,1,41,Southampton
+868180,1676732400,45,Everton,1,0,63,Leeds
+868181,1676815200,33,Manchester United,3,0,46,Leicester
+868182,1676741400,34,Newcastle,0,2,40,Liverpool
+868183,1676732400,65,Nottingham Forest,1,1,50,Manchester City
+868184,1676824200,47,Tottenham,2,0,48,West Ham
+868185,1676732400,39,Wolves,0,1,35,Bournemouth
+868186,1677346200,35,Bournemouth,1,4,50,Manchester City
+868187,1677354300,52,Crystal Palace,0,0,40,Liverpool
+868188,1677337200,45,Everton,0,2,66,Aston Villa
+868189,1677268800,36,Fulham,1,1,39,Wolves
+868190,1677337200,63,Leeds,1,0,41,Southampton
+868191,1677337200,46,Leicester,0,1,42,Arsenal
+868192,1680721200,33,Manchester United,1,0,55,Brentford
+868193,1684434600,34,Newcastle,4,1,51,Brighton
+868194,1677418200,47,Tottenham,2,0,49,Chelsea
+868195,1677337200,48,West Ham,4,0,65,Nottingham Forest
+868196,1677942000,42,Arsenal,3,2,35,Bournemouth
+868197,1677942000,66,Aston Villa,1,0,52,Crystal Palace
+868198,1678132800,55,Brentford,3,2,36,Fulham
+868199,1677942000,51,Brighton,4,0,48,West Ham
+868200,1677942000,49,Chelsea,1,0,63,Leeds
+868201,1678033800,40,Liverpool,7,0,33,Manchester United
+868202,1677933000,50,Manchester City,2,0,34,Newcastle
+868203,1678024800,65,Nottingham Forest,2,2,45,Everton
+868204,1677951000,41,Southampton,1,0,46,Leicester
+868205,1677942000,39,Wolves,1,0,47,Tottenham
+868206,1678537800,35,Bournemouth,1,0,40,Liverpool
+868207,1678555800,52,Crystal Palace,0,1,50,Manchester City
+868208,1678546800,45,Everton,1,0,55,Brentford
+868209,1678629600,36,Fulham,0,3,42,Arsenal
+868210,1678546800,63,Leeds,2,2,51,Brighton
+868211,1678546800,46,Leicester,1,3,49,Chelsea
+868212,1678629600,33,Manchester United,0,0,41,Southampton
+868213,1678638600,34,Newcastle,2,1,39,Wolves
+868214,1678546800,47,Tottenham,3,1,65,Nottingham Forest
+868215,1678629600,48,West Ham,1,1,66,Aston Villa
+868216,1679234400,42,Arsenal,4,1,52,Crystal Palace
+868217,1679151600,66,Aston Villa,3,0,35,Bournemouth
+868218,1679151600,55,Brentford,1,1,46,Leicester
+868219,1683226800,51,Brighton,1,0,33,Manchester United
+868220,1679160600,49,Chelsea,2,2,45,Everton
+868221,1683140400,40,Liverpool,1,0,36,Fulham
+868222,1683140400,50,Manchester City,3,0,48,West Ham
+868223,1679083200,65,Nottingham Forest,1,2,34,Newcastle
+868224,1679151600,41,Southampton,3,3,47,Tottenham
+868225,1679151600,39,Wolves,2,4,63,Leeds
+868226,1680357600,35,Bournemouth,2,1,36,Fulham
+868227,1680357600,42,Arsenal,4,1,63,Leeds
+868228,1680357600,51,Brighton,3,3,55,Brentford
+868229,1680366600,49,Chelsea,0,2,66,Aston Villa
+868230,1680357600,52,Crystal Palace,2,1,46,Leicester
+868231,1680548400,45,Everton,1,1,47,Tottenham
+868232,1680348600,50,Manchester City,4,1,40,Liverpool
+868233,1680449400,34,Newcastle,2,0,33,Manchester United
+868234,1680357600,65,Nottingham Forest,1,1,39,Wolves
+868235,1680440400,48,West Ham,1,0,41,Southampton
+868236,1680962400,66,Aston Villa,2,0,65,Nottingham Forest
+868237,1680962400,55,Brentford,1,2,34,Newcastle
+868238,1680962400,36,Fulham,0,1,48,West Ham
+868239,1681045200,63,Leeds,1,5,52,Crystal Palace
+868240,1680962400,46,Leicester,0,1,35,Bournemouth
+868241,1681054200,40,Liverpool,2,2,42,Arsenal
+868242,1680953400,33,Manchester United,2,0,45,Everton
+868243,1680971400,41,Southampton,1,4,50,Manchester City
+868244,1680962400,47,Tottenham,2,1,51,Brighton
+868245,1680962400,39,Wolves,1,0,49,Chelsea
+868246,1681558200,66,Aston Villa,3,0,34,Newcastle
+868247,1681567200,49,Chelsea,1,2,51,Brighton
+868248,1681567200,45,Everton,1,3,36,Fulham
+868249,1681758000,63,Leeds,1,6,40,Liverpool
+868250,1681576200,50,Manchester City,3,1,46,Leicester
+868251,1681659000,65,Nottingham Forest,0,2,33,Manchester United
+868252,1681567200,41,Southampton,0,2,52,Crystal Palace
+868253,1681568100,47,Tottenham,2,3,35,Bournemouth
+868254,1681650000,48,West Ham,2,2,42,Arsenal
+868255,1681567200,39,Wolves,2,0,55,Brentford
+868256,1682254800,35,Bournemouth,0,4,48,West Ham
+868257,1682103600,42,Arsenal,3,3,41,Southampton
+868258,1682172000,55,Brentford,1,1,66,Aston Villa
+868259,1684954800,51,Brighton,1,1,50,Manchester City
+868260,1682172000,52,Crystal Palace,0,0,45,Everton
+868261,1682163000,36,Fulham,2,1,63,Leeds
+868262,1682172000,46,Leicester,2,1,39,Wolves
+868263,1682172000,40,Liverpool,3,2,65,Nottingham Forest
+868264,1685041200,33,Manchester United,4,1,49,Chelsea
+868265,1682254800,34,Newcastle,6,1,47,Tottenham
+868266,1682621100,45,Everton,1,4,34,Newcastle
+868267,1682449200,63,Leeds,1,1,46,Leicester
+868268,1682533800,65,Nottingham Forest,3,1,51,Brighton
+868269,1682622900,47,Tottenham,2,2,33,Manchester United
+868270,1682534700,48,West Ham,1,2,40,Liverpool
+868271,1682447400,39,Wolves,2,0,52,Crystal Palace
+868272,1682448300,66,Aston Villa,1,0,36,Fulham
+868273,1682534700,49,Chelsea,0,2,55,Brentford
+868274,1682621100,41,Southampton,0,1,35,Bournemouth
+868275,1682535600,50,Manchester City,4,1,42,Arsenal
+868276,1682859600,35,Bournemouth,4,1,63,Leeds
+868277,1683054000,42,Arsenal,3,1,49,Chelsea
+868278,1682776800,55,Brentford,2,1,65,Nottingham Forest
+868279,1682776800,51,Brighton,6,0,39,Wolves
+868280,1682767800,52,Crystal Palace,4,3,48,West Ham
+868281,1682859600,36,Fulham,1,2,50,Manchester City
+868282,1682967600,46,Leicester,2,2,45,Everton
+868283,1682868600,40,Liverpool,4,3,47,Tottenham
+868284,1682859600,33,Manchester United,1,0,66,Aston Villa
+868285,1682859600,34,Newcastle,3,1,41,Southampton
+868286,1683381600,35,Bournemouth,1,3,49,Chelsea
+868287,1683563400,51,Brighton,1,5,45,Everton
+868288,1683554400,36,Fulham,5,3,46,Leicester
+868289,1683390600,40,Liverpool,1,0,55,Brentford
+868290,1683381600,50,Manchester City,2,1,63,Leeds
+868291,1683473400,34,Newcastle,0,2,42,Arsenal
+868292,1683572400,65,Nottingham Forest,4,3,41,Southampton
+868293,1683381600,47,Tottenham,1,0,52,Crystal Palace
+868294,1683482400,48,West Ham,1,0,33,Manchester United
+868295,1683381600,39,Wolves,1,0,66,Aston Villa
+868296,1684078200,42,Arsenal,0,3,51,Brighton
+868297,1683986400,66,Aston Villa,2,1,47,Tottenham
+868298,1684069200,55,Brentford,2,0,48,West Ham
+868299,1683986400,49,Chelsea,2,2,65,Nottingham Forest
+868300,1683986400,52,Crystal Palace,2,0,35,Bournemouth
+868301,1684069200,45,Everton,0,3,50,Manchester City
+868302,1683977400,63,Leeds,2,2,34,Newcastle
+868303,1684177200,46,Leicester,0,3,40,Liverpool
+868304,1683986400,33,Manchester United,2,0,39,Wolves
+868305,1683986400,41,Southampton,0,2,36,Fulham
+868306,1684591200,35,Bournemouth,0,1,33,Manchester United
+868307,1684674000,51,Brighton,3,1,41,Southampton
+868308,1684591200,36,Fulham,2,2,52,Crystal Palace
+868309,1684591200,40,Liverpool,1,1,66,Aston Villa
+868310,1684681200,50,Manchester City,1,0,49,Chelsea
+868311,1684782000,34,Newcastle,0,0,46,Leicester
+868312,1684600200,65,Nottingham Forest,1,0,42,Arsenal
+868313,1684582200,47,Tottenham,1,3,55,Brentford
+868314,1684672200,48,West Ham,3,1,63,Leeds
+868315,1684591200,39,Wolves,1,1,45,Everton
+868316,1685287800,42,Arsenal,5,0,39,Wolves
+868317,1685287800,66,Aston Villa,2,1,51,Brighton
+868318,1685287800,55,Brentford,1,0,50,Manchester City
+868319,1685287800,49,Chelsea,1,1,34,Newcastle
+868320,1685287800,52,Crystal Palace,1,1,65,Nottingham Forest
+868321,1685287800,45,Everton,1,0,35,Bournemouth
+868322,1685287800,63,Leeds,1,4,47,Tottenham
+868323,1685287800,46,Leicester,2,1,48,West Ham
+868324,1685287800,33,Manchester United,2,1,36,Fulham
+868325,1685287800,41,Southampton,4,4,40,Liverpool

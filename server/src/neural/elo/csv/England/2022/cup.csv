@@ -1,0 +1,890 @@
+fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+910636,1661004000,7634,Coleshill Town,1,2,7626,Chasetown
+910637,1661083200,7618,Biggleswade,3,2,7218,Cambridge City
+910638,1661004000,7205,AFC Sudbury,1,1,8957,Stowmarket Town
+910639,1661004000,7216,Brentwood Town,1,1,7646,Harlow Town
+910640,1661004000,7214,Berkhamsted,1,0,7678,Ware
+910641,1660995000,7657,Marlow,3,1,7675,Thame United
+910642,1661004000,4696,Leatherhead,3,0,7647,Haywards Heath Town
+910643,1661004000,7612,AFC Totton,3,0,7241,Melksham Town
+910644,1659794400,8882,North Shields,2,1,8841,Knaresborough Town
+910645,1659794400,8789,Garforth Town,0,1,7247,Pontefract Collieries
+910646,1659794400,8876,Newcastle Benfield,2,0,11968,Crook Town AFC
+910647,1659794400,8792,Goole,4,1,8752,Consett
+910648,1659794400,8959,Sunderland RCA,3,1,8822,Hebburn Town
+910649,1659724200,16994,Redcar Athletic,1,2,8923,Seaham Red Star
+910650,1659873600,8996,Whickham,2,1,7643,Frickley Athletic
+910651,1659794400,8719,Bridlington Town,3,1,8999,Whitley Bay
+910652,1659794400,8970,Thornaby,1,3,7237,Kendal Town
+910653,1659794400,7674,Tadcaster Albion,1,1,12116,Tow Law Town
+910654,1659794400,8686,Ashington AFC,3,2,8880,Newton Aycliffe
+910655,1659794400,16992,North Ferriby,3,0,8883,Northallerton Town
+910656,1659794400,8799,Guisborough Town,0,1,8708,Bishop Auckland
+910657,1659794400,8896,Penrith AFC,0,2,12041,West Allotment Celtic
+910658,1659794400,11986,Heaton Stannington,1,0,7246,Pickering Town
+910659,1659794400,8967,Thackley,1,1,7664,Ramsbottom United
+910660,1659794400,9012,Yorkshire Amateur,2,2,8736,Charnock Richard
+910661,1659794400,8936,Silsden,1,0,8730,Burscough
+910662,1659794400,8997,Whitchurch Alport,2,0,8981,Vauxhall Motors
+910663,1659794400,16998,Wythenshawe Town,0,2,1380,Macclesfield
+910664,1659794400,7635,Colne,2,1,8666,1874 Northwich
+910665,1659880800,8804,Hallam,0,0,17021,Bury AFC
+910666,1659794400,7227,Glossop North End,1,0,11936,AFC Emley
+910667,1659794400,8937,Skelmersdale United,2,1,8892,Padiham
+910668,1659794400,8859,Longridge Town,0,1,8993,West Didsbury & Chorlton
+910669,1659794400,7662,Ossett United,2,0,12006,New Mills
+910670,1659794400,16993,Prestwich Heys,1,1,8851,Litherland Remyca
+910671,1659794400,7677,Trafford,6,0,8669,AFC Liverpool
+910672,1659794400,9003,Winsford United,1,1,7681,Widnes
+910673,1659794400,8835,Irlam,0,4,8690,Avro
+910674,1659794400,8698,Barnoldswick Town,1,1,8677,Albion Sports
+910675,1659794400,7252,Stocksbridge Park Steels,3,0,17044,Golcar United
+910676,1659794400,8862,Lower Breck,0,2,8895,Penistone Church
+910677,1659794400,8771,Eccleshill United,0,4,7667,Sheffield
+910678,1659794400,7663,Prescot Cables,1,1,8687,Ashton Athletic
+910679,1659794400,8946,Squires Gate,1,2,8885,Northwich Victoria
+910680,1659794400,8674,Abbey Hey,0,4,8751,Congleton Town
+910681,1659880800,8866,Lye Town,4,1,8821,Heather St Johns
+910682,1659794400,8870,Malvern Town,2,1,9010,Worcester City
+910683,1659794400,8754,Coventry Sphinx,0,1,7213,Bedworth United
+910684,1659794400,8689,Atherstone Town,2,1,8796,Gresley
+910685,1659794400,16986,Hereford Lads Club,1,5,8810,Hanley Town
+910686,1659794400,8728,Bugbrooke St Michaels,3,0,12000,Long Buckby
+910687,1659794400,8904,Racing Club Warwick,2,1,12052,Bewdley Town
+910688,1659794400,8673,AFC Wulfrunians,1,2,7242,Newcastle Town
+910689,1659794400,8820,Heanor Town,1,5,12078,Studley
+910690,1659794400,8912,Romulus,2,0,7253,Sutton Coldfield Town
+910691,1659794400,7640,Evesham United,1,2,8845,Leicester Road
+910692,1659725100,7240,Market Drayton Town,2,1,12149,Shifnal Town FC
+910693,1659794400,8755,Coventry United,2,2,14429,Highgate United
+910694,1659794400,4712,Westfields,2,2,8915,Rugby Town
+910695,1659794400,8711,Boldmere St. Michaels,1,0,8983,Walsall Wood
+910696,1659794400,11965,Cogenhoe United,1,1,8954,Stone Old Alleynians
+910697,1659880800,11989,Hinckley AFC,1,3,9006,Wolverhampton Casuals
+910698,1659794400,8861,Loughborough University,5,1,14418,Newark Flowserve
+910699,1659794400,7671,Spalding United,2,1,8763,Deeping Rangers
+910700,1659794400,16995,Skegness Town,2,0,7653,Loughborough Dynamo
+910701,1659794400,8872,Melton Town,2,2,8898,Pinchbeck United
+910702,1659794400,8844,Leicester Nirvana,1,1,8925,Selston
+910703,1659794400,8681,Anstey Nomads,1,1,8905,Radford
+910704,1659794400,8929,Shepshed Dynamo,0,0,9005,Winterton Rangers
+910705,1659794400,8797,Grimsby Borough,2,3,7652,Lincoln United
+910706,1659794400,8713,Bottesford Town,1,1,8699,Barton Town Old Boys
+910707,1659794400,8931,Sherwood Colliery,2,2,8856,Long Eaton United
+910708,1659794400,8869,Maltby Main,0,1,8903,Quorn
+910709,1659794400,8809,Handsworth Parramore,1,0,8938,Sleaford Town
+910710,1659794400,8146,Boston United,0,0,8812,Harborough Town
+910711,1659794400,7221,Corby Town,0,1,8670,AFC Mansfield
+910712,1659794400,8801,Hadleigh United,0,1,8873,Mildenhall Town
+910713,1659794400,7611,AFC Kempston Rovers,2,0,8857,Long Melford
+910714,1659794400,8793,Gorleston,4,0,8705,Biggleswade United
+910715,1659794400,8764,Desborough Town,0,0,7234,Histon
+910716,1659725100,9011,Wroxham,1,2,7638,Dereham Town
+910717,1659726000,8984,Walsham Le Willows,1,6,7672,St Neots Town
+910718,1659794400,7683,Wisbech Town,5,1,8774,Ely City
+910719,1659794400,8791,Godmanchester Rovers,3,0,8913,Rothwell Corinthians
+910720,1659794400,8819,Haverhill Rovers,0,0,8875,Mulbarton Wanderers
+910721,1659725100,8969,Thetford Town,2,2,7670,Soham Town Rangers
+910722,1659794400,8779,Eynesbury Rovers,1,3,8878,Newmarket Town
+910723,1659794400,8839,Kirkley & Pakefield,1,2,8781,Fakenham Town
+910724,1659794400,16989,Lakenheath,0,4,7622,Bury Town
+910725,1659794400,9000,Whitton United,3,2,8989,Wellingborough Town
+910726,1659794400,11996,Ipswich Wanderers,1,0,7267,Yaxley
+910727,1659794400,8887,Norwich United,2,3,8901,Potton United
+910728,1659794400,7633,Coggeshall Town,0,0,7209,Barking
+910729,1659725100,8949,Stansted,1,0,8802,Hadley
+910730,1659794400,8846,Leighton Town,9,2,8694,Baldock Town
+910731,1659794400,8717,Brantham Athletic,3,0,7211,Basildon United
+910732,1659794400,8955,Stotfold,2,2,8879,Newport Pagnell Town
+910733,1659794400,8854,London Colney,0,5,7264,Witham Town
+910734,1659794400,8847,Leverstock Green,3,0,8806,Halstead Town
+910735,1659880800,7225,FC Romania,2,0,12104,London Lions
+910736,1659794400,8908,Redbridge,1,2,8965,Takeley
+910737,1659794400,4693,Heybridge Swifts,4,0,8744,Clapton
+910738,1659794400,14414,Little Oakley,1,2,8742,Clacton
+910739,1659794400,8814,Harpenden Town,2,1,14417,New Salamis
+910740,1659794400,8942,Southend Manor,1,0,8747,Cockfosters
+910741,1659794400,16990,Milton Keynes Irish,2,4,7255,Tilbury
+910742,1659873600,8772,Edgware Town,2,1,8826,Hoddesdon Town
+910743,1659794400,8998,White Ensign,1,2,16996,St. Panteleimon
+910744,1659794400,8994,West Essex,2,1,8758,Crawley Green
+910745,1659794400,8775,Enfield 1893,3,1,7649,Hullbridge Sports
+910746,1659794400,7614,Barton Rovers,1,1,8683,Arlesey Town
+910747,1659794400,7648,Hertford Town,1,1,8750,Colney Heath
+910748,1659794400,7259,Waltham Abbey,4,1,9009,Woodford Town
+910749,1659794400,8766,Dunstable Town,2,0,7229,Great Wakering Rovers
+910750,1659794400,7248,Romford,5,2,8919,Saffron Walden Town
+910751,1659794400,8834,Ilford,4,1,8922,Sawbridgeworth Town
+910752,1659794400,11942,Ashton & Backwell United,0,2,7208,Aylesbury United
+910753,1659794400,8785,Flackwell Heath,4,0,8837,Keynsham Town
+910754,1659794400,8722,Brimscombe & Thrupp,2,1,8780,Fairford Town
+910755,1659794400,8682,Ardley United,3,2,12157,Wokingham & Emmbrook
+910756,1659794400,8858,Longlevens,2,3,8691,Aylesbury Vale Dynamos
+910757,1659794400,12021,Risborough Rangers,0,1,11993,Holyport
+910758,1659794400,7233,Highworth Town,0,2,8907,Reading City
+910759,1659794400,8976,Tuffley Rovers,1,2,7669,Slimbridge
+910760,1659725100,8685,Ascot United,2,1,8759,Cribbs
+910761,1659794400,8745,Clevedon Town,2,1,7625,Chalfont St Peter
+910762,1659794400,8729,Burnham,1,1,8767,Easington Sports
+910763,1659794400,8971,Thornbury Town,1,3,8740,Chipping Sodbury Town
+910764,1659794400,8914,Royal Wootton,1,1,9002,Windsor
+910765,1659794400,8710,Bitton,1,3,7220,Cinderford Town
+910766,1659794400,8732,Cadbury Heath,2,2,7655,Mangotsfield United
+910767,1659725100,8709,Bishop's Cleeve,4,1,7260,Wantage Town
+910768,1659794400,8910,Roman Glass St George,3,1,8975,Tring Athletic
+910769,1659794400,8865,Lydney Town,2,4,7650,Kidlington
+910770,1659794400,7222,Didcot Town,1,1,8935,Shrivenham
+910771,1659794400,8735,Canterbury City,1,1,8877,Newhaven
+910772,1659794400,8906,Raynes Park Vale,1,1,8776,Erith & Belvedere
+910773,1659794400,8917,Rusthall,3,2,8863,Loxwood
+910774,1659794400,8790,Glebe,4,3,11991,Holmesdale
+910775,1659794400,8832,Horsham YMCA,0,3,8702,Beckenham Town
+910776,1659880800,14424,Stansfeld,4,1,8991,Wembley
+910777,1659794400,4713,Whitehawk,0,0,8836,K Sports
+910778,1659794400,8927,Sheerwater,1,0,8696,Banstead Athletic
+910779,1659794400,8941,Southall,0,0,8909,Redhill
+910780,1659794400,8813,Harefield United,3,2,8860,Lordswood
+910781,1659794400,8893,Pagham,0,4,8777,Erith Town
+910782,1659794400,7219,Chipstead,1,2,8977,Tunbridge Wells
+910783,1659794400,8902,Punjab United,2,1,8695,Balham
+910784,1659794400,14405,Alfold,1,4,8840,Knaphill
+910785,1659794400,7224,East Grinstead Town,1,0,8828,Hollands & Blair
+910786,1659794400,8842,Lancing,4,0,19265,Roffey
+910787,1659794400,8891,Oxhey Jets,1,3,7245,Phoenix Sports
+910788,1659794400,8762,Deal Town,2,2,8773,Egham Town
+910789,1659794400,8817,Hassocks,1,0,8850,Lingfield
+910790,1659794400,8725,Broadfields United,1,2,8798,Guildford City
+910791,1659794400,8961,Sutton Athletic,1,0,8988,Welling Town
+910792,1659794400,8769,Eastbourne Town,2,1,8952,Steyning Town
+910793,1659794400,8760,Crowborough Athletic,2,3,8757,Crawley Down Gatwick
+910794,1659880800,8852,Little Common,1,2,8737,Chatham Town
+910795,1659794400,7641,Faversham Town,0,1,8749,Colliers Wood United
+910796,1659794400,8830,Horley Town,0,5,7249,Sevenoaks Town
+910797,1659794400,7261,Westfield (Surrey),2,0,8770,Eastbourne United
+910798,1659794400,8894,Peacehaven & Telscombe,2,2,8667,AFC Croydon Athletic
+910799,1659794400,7676,Three Bridges,3,0,7680,Whitstable Town
+910800,1659794400,7628,Chichester City,4,0,8788,Frimley Green
+910801,1660070700,16983,Athletic Newham,3,3,8928,Sheppey United
+910802,1659794400,7243,Northwood,2,1,7251,South Park
+910803,1659794400,8921,Saltdean United,0,8,7613,Ashford Town (Middlesex)
+910804,1659794400,8986,Walton & Hersham,2,2,14413,Kennington
+910805,1659794400,11998,Littlehampton Town,3,1,8724,Broadbridge Heath
+910806,1659794400,8746,Cobham,0,3,7256,Tooting & Mitcham United
+910807,1659794400,8675,Abbey Rangers,0,3,8811,Hanworth Villa
+910808,1659794400,8784,Fisher,0,0,8962,Sutton Common Rovers
+910809,1659794400,8704,Bexhill United,2,3,8881,North Greenford United
+910810,1659794400,8701,Bearsted,3,3,8943,Spelthorne Sports
+910811,1659794400,8980,Varndeanians,0,1,7235,Hythe Town
+910812,1659794400,8716,Bradford Town,0,4,8808,Hamworthy United
+910813,1659794400,8782,Fareham Town,3,1,8833,Hythe & Dibden
+910814,1659794400,8692,Badshot Lea,4,0,8726,Brockenhurst
+910815,1659794400,8867,Lymington Town,2,0,8900,Portland United
+910816,1659725100,8693,Baffins Milton Rovers,4,1,12049,Alton Town
+910817,1659794400,12040,Welton Rovers,0,1,8979,United Services
+910818,1659794400,7254,Thatcham Town,2,3,8831,Horndean
+910819,1659794400,12057,Corsham Town,0,2,8671,AFC Portchester
+910820,1660070700,8926,Shaftesbury Town,2,2,8733,Camberley Town
+910821,1659794400,7238,Larkhall Athletic,4,1,11977,Folland Sports
+910822,1659794400,8995,Westbury United,2,1,8714,Bournemouth FC
+910823,1659794400,8756,Cowes Sports,1,0,8807,Hamble Club
+910824,1659794400,8786,Fleet Town,1,3,12008,Newport Isle of Wight FC
+910825,1659794400,8741,Christchurch,2,3,7702,Blackfield & Langley
+910826,1659794400,8964,Tadley Calleva,2,6,12044,Wincanton Town
+910827,1659794400,7659,Moneyfields,5,0,8703,Bemerton Heath Harleq.
+910828,1659794400,8672,AFC Stoneham,2,1,8700,Bashley
+910829,1659794400,8958,Street,1,2,14412,Helston Athletic
+910830,1659794400,8727,Buckland Athletic,2,1,8778,Exmouth
+910831,1659794400,7263,Willand Rovers,2,1,8990,Wellington AFC
+910832,1659794400,12080,Torpoint Athletic,1,1,14416,Millbrook
+910833,1659794400,8966,Tavistock,2,3,16984,Brixham
+910834,1659794400,7215,Bideford,1,0,8718,Bridgwater Town
+910835,1659794400,12026,Sherborne Town,1,1,12065,Ilfracombe Town
+910836,1659794400,7210,Barnstaple Town,1,1,16991,Mousehole
+910837,1659794400,8992,West Auckland Town,1,2,19550,Carlisle City
+910838,1659794400,7637,Daventry Town,2,2,19560,Worcester Raiders
+910839,1659794400,19551,Darlaston Town,0,4,8972,Tividale
+910840,1659880800,19548,Belper United,0,3,8849,Lichfield City
+910841,1659794400,19553,Hereford Pegasus,0,6,8956,Stourport Swifts
+910842,1659794400,19555,Kimberley Miners Welfare,5,1,8864,Lutterworth Town
+910843,1659794400,19558,Shefford Town & Campton,4,1,8950,Stanway Rovers
+910844,1659794400,19549,Buckhurst Hill,2,1,8985,Walthamstow
+910845,1659794400,8982,Virginia Water,1,0,19554,Hilltop
+910846,1659794400,8978,Uckfield Town,1,4,19557,Midhurst & Easebourne
+910847,1659794400,8678,Alresford Town,2,2,19556,Laverstock & Ford
+910848,1659794400,19559,Warminster Town,0,2,8680,Andover New Street
+910849,1659794400,19552,Falmouth Town,2,1,8920,Saltash United
+931285,1661004000,7638,Dereham Town,2,0,7642,Felixstowe & Walton Utd
+931286,1660070700,7670,Soham Town Rangers,2,0,8969,Thetford Town
+931442,1659794400,19834,Liskeard Athletic,1,4,8930,Shepton Mallet
+931443,1659794400,8871,March Town United,1,2,19835,Sheringham
+932181,1661004000,8953,Stockton Town,2,3,7247,Pontefract Collieries
+932182,1661004000,12041,West Allotment Celtic,0,7,7265,Workington
+932183,1661004000,8876,Newcastle Benfield,1,1,8932,Shildon AFC
+932184,1661004000,19550,Carlisle City,2,3,8792,Goole
+932185,1661004000,8708,Bishop Auckland,5,2,7237,Kendal Town
+932186,1661004000,8882,North Shields,2,0,8923,Seaham Red Star
+932187,1661004000,8719,Bridlington Town,0,3,7639,Dunston UTS
+932188,1661004000,11986,Heaton Stannington,4,1,16992,North Ferriby
+932189,1661004000,7660,Mossley,2,4,1380,Macclesfield
+932190,1661004000,7677,Trafford,1,2,7666,Runcorn Linnets
+932191,1661004000,8751,Congleton Town,0,0,8712,Bootle
+932192,1661004000,7632,Clitheroe,2,0,7635,Colne
+932193,1661004000,7667,Sheffield,0,1,7227,Glossop North End
+932194,1661004000,7620,Brighouse Town,1,2,8895,Penistone Church
+932195,1661004000,7662,Ossett United,1,2,8997,Whitchurch Alport
+932196,1660934700,8885,Northwich Victoria,2,3,8993,West Didsbury & Chorlton
+932197,1661004000,8810,Hanley Town,1,0,8845,Leicester Road
+932198,1661004000,7239,Leek Town,1,5,8689,Atherstone Town
+932199,1661004000,8912,Romulus,3,0,7644,Halesowen Town
+932200,1661004000,7760,Witton Albion,4,1,8972,Tividale
+932201,1661004000,8945,Sporting Khalsa,0,1,8711,Boldmere St. Michaels
+932202,1661004000,7242,Newcastle Town,1,1,7213,Bedworth United
+932203,1661004000,8956,Stourport Swifts,1,0,8904,Racing Club Warwick
+932204,1661004000,7624,Carlton Town,0,1,8861,Loughborough University
+932205,1661004000,8670,AFC Mansfield,0,3,7266,Worksop Town
+932206,1661004000,7671,Spalding United,0,1,4709,Stamford
+932207,1661004000,7652,Lincoln United,0,0,7718,Grantham Town
+932208,1661004000,7631,Cleethorpes Town,1,1,8809,Handsworth Parramore
+932209,1661004000,11996,Ipswich Wanderers,3,0,8793,Gorleston
+932210,1661004000,7622,Bury Town,3,0,8878,Newmarket Town
+932211,1661004000,7611,AFC Kempston Rovers,2,0,7683,Wisbech Town
+932212,1661004000,7672,St Neots Town,3,0,8791,Godmanchester Rovers
+932213,1661004000,8781,Fakenham Town,0,0,19835,Sheringham
+932214,1661004000,7700,Biggleswade Town,4,1,9000,Whitton United
+932215,1661004000,7259,Waltham Abbey,3,0,7255,Tilbury
+932216,1661090400,7248,Romford,1,1,8965,Takeley
+932217,1661004000,7654,Maldon & Tiptree,2,0,8814,Harpenden Town
+932218,1661004000,8847,Leverstock Green,2,2,16996,St. Panteleimon
+932219,1661090400,8766,Dunstable Town,2,1,8994,West Essex
+932220,1660934700,8949,Stansted,1,1,19549,Buckhurst Hill
+932221,1661004000,8942,Southend Manor,1,1,19558,Shefford Town & Campton
+932222,1661004000,8742,Clacton,0,1,7713,East Thurrock United
+932223,1661004000,8834,Ilford,0,3,8775,Enfield 1893
+932224,1661004000,8717,Brantham Athletic,0,1,7264,Witham Town
+932225,1661004000,8709,Bishop's Cleeve,2,0,8722,Brimscombe & Thrupp
+932226,1661004000,7220,Cinderford Town,0,0,8740,Chipping Sodbury Town
+932227,1661004000,7650,Kidlington,0,3,8707,Binfield
+932228,1661004000,8785,Flackwell Heath,0,1,7669,Slimbridge
+932229,1661004000,11993,Holyport,2,1,8685,Ascot United
+932230,1660934700,7208,Aylesbury United,1,0,8682,Ardley United
+932231,1661004000,8691,Aylesbury Vale Dynamos,3,1,7621,Bristol Manor Farm
+932232,1661004000,7629,Cirencester Town,1,1,8745,Clevedon Town
+932233,1661004000,8881,North Greenford United,2,1,8927,Sheerwater
+932234,1661004000,8817,Hassocks,1,3,7257,Uxbridge
+932235,1661004000,19557,Midhurst & Easebourne,2,1,8813,Harefield United
+932236,1661004000,8753,Corinthian,3,0,8798,Guildford City
+932237,1661004000,8982,Virginia Water,1,1,8769,Eastbourne Town
+932238,1661004000,8902,Punjab United,1,2,7261,Westfield (Surrey)
+932239,1661004000,7613,Ashford Town (Middlesex),2,2,7243,Northwood
+932240,1661004000,4706,Merstham,1,1,7249,Sevenoaks Town
+932241,1661004000,7628,Chichester City,2,0,8840,Knaphill
+932242,1661004000,8961,Sutton Athletic,1,2,7206,Ashford United
+932243,1661004000,8777,Erith Town,2,1,7212,Bedfont Sports
+932244,1661004000,8977,Tunbridge Wells,0,1,7245,Phoenix Sports
+932245,1661004000,8842,Lancing,1,4,7224,East Grinstead Town
+932246,1661004000,8790,Glebe,0,3,7636,Cray Valley PM
+932247,1661004000,8811,Hanworth Villa,2,1,7627,Chertsey Town
+932248,1661004000,8917,Rusthall,2,1,7665,Ramsgate
+932249,1661004000,7256,Tooting & Mitcham United,1,2,7258,VCD Athletic
+932250,1661004000,7702,Blackfield & Langley,2,1,8782,Fareham Town
+932251,1661004000,8756,Cowes Sports,1,1,7238,Larkhall Athletic
+932252,1661004000,7659,Moneyfields,1,3,7758,Wimborne Town
+932253,1661004000,8693,Baffins Milton Rovers,3,0,8831,Horndean
+932254,1661004000,8808,Hamworthy United,3,2,8692,Badshot Lea
+932255,1661004000,8995,Westbury United,5,1,8680,Andover New Street
+932256,1661004000,8867,Lymington Town,0,6,7615,Basingstoke Town
+932257,1660934700,7668,Sholing,2,1,8671,AFC Portchester
+932258,1661004000,8672,AFC Stoneham,2,0,12008,Newport Isle of Wight FC
+932259,1661004000,14412,Helston Athletic,2,1,19552,Falmouth Town
+932260,1661004000,8930,Shepton Mallet,4,0,16984,Brixham
+932261,1661004000,7244,Paulton Rovers,5,2,7215,Bideford
+932262,1661004000,8727,Buckland Athletic,0,3,7226,Frome Town
+932263,1660069800,12065,Ilfracombe Town,2,0,12026,Sherborne Town
+932264,1660070700,14416,Millbrook,0,1,12080,Torpoint Athletic
+932265,1660069800,8767,Easington Sports,0,0,8729,Burnham
+932266,1660070700,16991,Mousehole,3,2,7210,Barnstaple Town
+932267,1660070700,12116,Tow Law Town,2,0,7674,Tadcaster Albion
+932268,1660070700,7664,Ramsbottom United,2,0,8967,Thackley
+932269,1660070700,8736,Charnock Richard,2,0,9012,Yorkshire Amateur
+932270,1660070700,8687,Ashton Athletic,1,2,7663,Prescot Cables
+932271,1660157100,8851,Litherland Remyca,3,4,16993,Prestwich Heys
+932272,1660070700,7681,Widnes,2,0,9003,Winsford United
+932273,1660070700,19556,Laverstock & Ford,4,0,8678,Alresford Town
+932274,1660070700,8915,Rugby Town,1,0,4712,Westfields
+932275,1660070700,8943,Spelthorne Sports,3,1,8701,Bearsted
+932276,1660070700,14429,Highgate United,4,0,8755,Coventry United
+932277,1660070700,8954,Stone Old Alleynians,2,1,11965,Cogenhoe United
+932278,1660070700,8925,Selston,1,2,8844,Leicester Nirvana
+932279,1660070700,8905,Radford,1,3,8681,Anstey Nomads
+932280,1660070700,8812,Harborough Town,3,0,8146,Boston United
+932281,1660070700,8699,Barton Town Old Boys,3,3,8713,Bottesford Town
+932282,1660070700,8856,Long Eaton United,3,0,8931,Sherwood Colliery
+932283,1660070700,7234,Histon,4,0,8764,Desborough Town
+932284,1660070700,14413,Kennington,0,4,8986,Walton & Hersham
+932285,1660070700,8667,AFC Croydon Athletic,0,3,8894,Peacehaven & Telscombe
+932286,1660070700,8875,Mulbarton Wanderers,3,2,8819,Haverhill Rovers
+932287,1660070700,7209,Barking,2,1,7633,Coggeshall Town
+932288,1660070700,8879,Newport Pagnell Town,1,2,8955,Stotfold
+932289,1660070700,8773,Egham Town,0,1,8762,Deal Town
+932290,1660070700,8909,Redhill,1,3,8941,Southall
+932291,1660157100,8836,K Sports,3,2,4713,Whitehawk
+932292,1660070700,8776,Erith & Belvedere,2,3,8906,Raynes Park Vale
+932293,1660156200,8877,Newhaven,10,0,8735,Canterbury City
+932294,1660070700,8935,Shrivenham,3,4,7222,Didcot Town
+932295,1660070700,7655,Mangotsfield United,2,5,8732,Cadbury Heath
+932296,1660070700,9002,Windsor,0,2,8914,Royal Wootton
+932297,1660070700,8683,Arlesey Town,0,3,7614,Barton Rovers
+932298,1660070700,8750,Colney Heath,1,6,7648,Hertford Town
+932299,1660157100,8677,Albion Sports,2,2,8698,Barnoldswick Town
+932300,1660157100,19560,Worcester Raiders,4,2,7637,Daventry Town
+932301,1660157100,8962,Sutton Common Rovers,0,1,8784,Fisher
+932302,1660157100,9005,Winterton Rangers,1,3,8929,Shepshed Dynamo
+932303,1660157100,8898,Pinchbeck United,3,2,8872,Melton Town
+932867,1661004000,12116,Tow Law Town,1,2,8686,Ashington AFC
+932868,1661079600,8996,Whickham,4,0,8959,Sunderland RCA
+932869,1661004000,7664,Ramsbottom United,0,0,7630,City of Liverpool
+932870,1661004000,8936,Silsden,1,5,8736,Charnock Richard
+932871,1661004000,8937,Skelmersdale United,1,3,7663,Prescot Cables
+932872,1661004000,7240,Market Drayton Town,1,2,14429,Highgate United
+932873,1661004000,8866,Lye Town,1,1,7651,Kidsgrove Athletic
+932874,1661004000,8849,Lichfield City,2,0,8728,Bugbrooke St Michaels
+932875,1661004000,9006,Wolverhampton Casuals,3,3,8954,Stone Old Alleynians
+932876,1661004000,12078,Studley,1,2,8915,Rugby Town
+932877,1661004000,8856,Long Eaton United,4,1,8903,Quorn
+932878,1661004000,8681,Anstey Nomads,5,2,16995,Skegness Town
+932879,1661004000,8812,Harborough Town,6,1,8713,Bottesford Town
+932880,1661004000,19555,Kimberley Miners Welfare,2,0,8844,Leicester Nirvana
+932881,1661004000,8873,Mildenhall Town,2,1,7234,Histon
+932882,1661004000,7670,Soham Town Rangers,1,1,8901,Potton United
+932883,1661885100,7729,Lowestoft Town,3,0,8819,Haverhill Rovers
+932884,1661090400,7225,FC Romania,0,2,4693,Heybridge Swifts
+932885,1661004000,7614,Barton Rovers,0,3,14411,Hashtag United
+932886,1661004000,7610,AFC Dunstable,2,2,8772,Edgware Town
+932887,1661004000,7679,Welwyn Garden City,1,2,7648,Hertford Town
+932888,1661004000,8955,Stotfold,2,2,7228,Grays Athletic
+932889,1661004000,7209,Barking,0,0,8846,Leighton Town
+932890,1661004000,8767,Easington Sports,0,0,8910,Roman Glass St George
+932891,1661004000,8914,Royal Wootton,3,1,8907,Reading City
+932892,1661004000,7222,Didcot Town,4,0,8732,Cadbury Heath
+932893,1661004000,8986,Walton & Hersham,3,2,11998,Littlehampton Town
+932894,1661004000,7217,Burgess Hill Town,3,1,14424,Stansfeld
+932895,1661004000,8749,Colliers Wood United,0,2,8737,Chatham Town
+932896,1661004000,8757,Crawley Down Gatwick,2,3,8943,Spelthorne Sports
+932897,1660934700,8941,Southall,0,1,8894,Peacehaven & Telscombe
+932898,1661004000,7676,Three Bridges,3,2,8762,Deal Town
+932899,1661004000,8906,Raynes Park Vale,2,2,7235,Hythe Town
+932900,1661004000,19556,Laverstock & Ford,2,0,8979,United Services
+932901,1661004000,7263,Willand Rovers,2,1,12065,Ilfracombe Town
+932902,1661004000,12080,Torpoint Athletic,3,2,16991,Mousehole
+932903,1660157100,17021,Bury AFC,1,0,8804,Hallam
+933662,1661004000,8690,Avro,0,0,8677,Albion Sports
+933663,1661090400,17021,Bury AFC,2,0,7681,Widnes
+933664,1661004000,16993,Prestwich Heys,2,2,7252,Stocksbridge Park Steels
+933665,1661004000,8870,Malvern Town,3,3,19560,Worcester Raiders
+933666,1661004000,8929,Shepshed Dynamo,3,2,8898,Pinchbeck United
+933667,1661004000,8702,Beckenham Town,3,2,8836,K Sports
+933668,1661004000,8784,Fisher,2,2,7250,Sittingbourne
+933669,1660675500,8928,Sheppey United,6,0,16983,Athletic Newham
+933670,1660761900,8733,Camberley Town,2,1,8926,Shaftesbury Town
+941603,1661004000,8928,Sheppey United,0,0,8877,Newhaven
+941604,1661004000,8733,Camberley Town,1,1,12044,Wincanton Town
+943333,1661280300,19549,Buckhurst Hill,3,0,8949,Stansted
+944083,1661279400,8932,Shildon AFC,4,2,8876,Newcastle Benfield
+944084,1661279400,8769,Eastbourne Town,2,2,8982,Virginia Water
+944085,1661280300,8712,Bootle,1,4,8751,Congleton Town
+944086,1661280300,7213,Bedworth United,0,1,7242,Newcastle Town
+944087,1661280300,8954,Stone Old Alleynians,2,1,9006,Wolverhampton Casuals
+944088,1661280300,7718,Grantham Town,5,1,7652,Lincoln United
+944089,1661280300,8901,Potton United,3,1,7670,Soham Town Rangers
+944090,1661280300,19835,Sheringham,3,0,8781,Fakenham Town
+944091,1661280300,8957,Stowmarket Town,2,3,7205,AFC Sudbury
+944092,1661280300,7646,Harlow Town,1,1,7216,Brentwood Town
+944093,1661280300,7252,Stocksbridge Park Steels,2,1,16993,Prestwich Heys
+944094,1661280300,7651,Kidsgrove Athletic,1,2,8866,Lye Town
+944095,1661280300,8844,Leicester Nirvana,,,19555,Kimberley Miners Welfare
+944096,1661280300,8772,Edgware Town,1,0,7610,AFC Dunstable
+944097,1661280300,19558,Shefford Town & Campton,3,2,8942,Southend Manor
+944098,1661280300,8740,Chipping Sodbury Town,0,5,7220,Cinderford Town
+944099,1661280300,8877,Newhaven,1,2,8928,Sheppey United
+944100,1661280300,7250,Sittingbourne,0,1,8784,Fisher
+944101,1661280300,7243,Northwood,1,3,7613,Ashford Town (Middlesex)
+944102,1661280300,7235,Hythe Town,5,4,8906,Raynes Park Vale
+944103,1661280300,8846,Leighton Town,1,1,7209,Barking
+944104,1661366700,7630,City of Liverpool,4,3,7664,Ramsbottom United
+944105,1661365800,8745,Clevedon Town,1,2,7629,Cirencester Town
+944106,1661365800,7249,Sevenoaks Town,2,0,4706,Merstham
+944107,1661365800,7238,Larkhall Athletic,4,2,8756,Cowes Sports
+944108,1661366700,8677,Albion Sports,0,0,8690,Avro
+944109,1661366700,19560,Worcester Raiders,4,0,8870,Malvern Town
+944110,1661366700,8809,Handsworth Parramore,1,5,7631,Cleethorpes Town
+944111,1661366700,16996,St. Panteleimon,3,3,8847,Leverstock Green
+944112,1661366700,12044,Wincanton Town,3,0,8733,Camberley Town
+944113,1661366700,7228,Grays Athletic,3,2,8955,Stotfold
+944114,1661366700,8910,Roman Glass St George,3,2,8767,Easington Sports
+944115,1661366700,8965,Takeley,2,3,7248,Romford
+944784,1662213600,7734,Morpeth Town,2,2,7756,Warrington Town
+944785,1662213600,7746,South Shields,3,2,7265,Workington
+944786,1662213600,7693,Ashton United,0,0,8686,Ashington AFC
+944787,1662213600,7749,Stalybridge Celtic,0,0,7726,Lancaster City
+944788,1662213600,8918,Rylands,0,4,4694,Hyde United
+944789,1662204600,17021,Bury AFC,2,1,8882,North Shields
+944790,1662213600,7760,Witton Albion,0,1,7754,United of Manchester
+944791,1662213600,7632,Clitheroe,1,1,11986,Heaton Stannington
+944792,1662213600,8736,Charnock Richard,2,2,7247,Pontefract Collieries
+944793,1662213600,8993,West Didsbury & Chorlton,0,1,1380,Macclesfield
+944794,1662213600,8792,Goole,0,1,7663,Prescot Cables
+944795,1662213600,7658,Marske United,2,1,7666,Runcorn Linnets
+944796,1662213600,7695,Bamber Bridge,1,0,8996,Whickham
+944797,1662213600,7757,Whitby Town,5,0,8708,Bishop Auckland
+944798,1662213600,8853,Liversedge,2,1,7227,Glossop North End
+944799,1662215400,7656,Marine,2,1,7740,Radcliffe
+944800,1662213600,7743,Rushall Olympic,1,4,7741,Redditch United
+944801,1662213600,7733,Mickleover Sports,2,3,7692,Alvechurch
+944802,1662213600,10159,Nuneaton Town,3,1,7617,Belper Town
+944803,1662213600,7697,Barwell,1,1,14429,Highgate United
+944804,1662144300,4710,Stourbridge,2,2,8810,Hanley Town
+944805,1662213600,8929,Shepshed Dynamo,1,1,7709,Coalville Town
+944806,1662213600,8681,Anstey Nomads,3,1,8997,Whitchurch Alport
+944807,1662213600,7721,Hednesford Town,1,3,8856,Long Eaton United
+944808,1662213600,8689,Atherstone Town,3,1,19555,Kimberley Miners Welfare
+944809,1662213600,4691,Gainsborough Trinity,3,1,8861,Loughborough University
+944810,1662213600,7752,Tamworth,6,0,8711,Boldmere St. Michaels
+944811,1662213600,7698,Basford United,5,0,8912,Romulus
+944812,1662213600,8849,Lichfield City,2,2,8956,Stourport Swifts
+944813,1662213600,7705,Bromsgrove Sporting,4,3,4709,Stamford
+944814,1662213600,7731,Matlock Town,0,2,7236,Ilkeston Town
+944815,1662213600,7214,Berkhamsted,2,1,7264,Witham Town
+944816,1662213600,4682,Hitchin Town,0,3,4693,Heybridge Swifts
+944817,1662213600,7648,Hertford Town,0,3,7742,Royston Town
+944818,1662213600,7704,Brightlingsea Regent,3,0,8873,Mildenhall Town
+944819,1662292800,8775,Enfield 1893,2,1,7691,AFC Rushden & Diamonds
+944820,1662213600,7207,Aveley,1,1,7739,Potters Bar Town
+944821,1662213600,7611,AFC Kempston Rovers,1,2,7616,Bedford Town
+944822,1662213600,7701,Bishop's Stortford,0,2,7672,St Neots Town
+944823,1662213600,7623,Canvey Island,5,1,7714,Enfield Town
+944824,1662213600,7735,Needham Market,3,1,7727,Leiston
+944825,1662213600,7638,Dereham Town,0,1,7700,Biggleswade Town
+944826,1662213600,7654,Maldon & Tiptree,2,1,4681,Haringey Borough
+944827,1662213600,7759,Wingate & Finchley,1,0,7764,Bowers & Pitsea
+944828,1662213600,11996,Ipswich Wanderers,1,3,7690,AFC Hornchurch
+944829,1662213600,7713,East Thurrock United,2,1,7618,Biggleswade
+944830,1662213600,7707,Carshalton Athletic,5,1,7258,VCD Athletic
+944831,1662144300,7676,Three Bridges,2,1,8777,Erith Town
+944832,1662213600,4696,Leatherhead,1,2,7628,Chichester City
+944833,1662213600,7245,Phoenix Sports,4,1,8917,Rusthall
+944834,1662213600,4683,Metropolitan Police,2,2,8753,Corinthian
+944835,1662213600,7716,Folkestone Invicta,3,1,8881,North Greenford United
+944836,1662213600,7636,Cray Valley PM,3,0,7231,Hastings United
+944837,1662213600,7619,Bracknell Town,4,1,4705,Harrow Borough
+944838,1662213600,8986,Walton & Hersham,2,2,7699,Beaconsfield Town
+944839,1662213600,7710,Corinthian-Casuals,1,2,7217,Burgess Hill Town
+944840,1662213600,7232,Herne Bay,2,1,7723,Horsham
+944841,1662296400,11993,Holyport,0,1,8707,Binfield
+944842,1662213600,7703,Bognor Regis Town,2,2,7711,Cray Wanderers
+944843,1662213600,19557,Midhurst & Easebourne,0,6,8737,Chatham Town
+944844,1662213600,7206,Ashford United,2,1,8811,Hanworth Villa
+944845,1662144300,7208,Aylesbury United,0,1,7730,Margate
+944846,1662213600,4702,Chesham United,5,2,8894,Peacehaven & Telscombe
+944847,1662213600,7657,Marlow,0,1,7257,Uxbridge
+944848,1662213600,7224,East Grinstead Town,2,2,8702,Beckenham Town
+944849,1662144300,8693,Baffins Milton Rovers,1,5,7682,Winchester City
+944850,1662213600,7615,Basingstoke Town,2,4,4687,Weston-super-Mare
+944851,1662213600,7222,Didcot Town,1,1,8899,Plymouth Parkway
+944852,1662213600,7738,Poole Town,0,2,7744,Salisbury
+944853,1662213600,7263,Willand Rovers,1,1,7751,Swindon Supermarine
+944854,1662213600,7661,North Leigh,2,2,8672,AFC Stoneham
+944855,1662213600,7226,Frome Town,0,1,7753,Tiverton Town
+944856,1662213600,7702,Blackfield & Langley,0,0,8930,Shepton Mallet
+944857,1662213600,12080,Torpoint Athletic,1,2,14412,Helston Athletic
+944858,1662213600,8709,Bishop's Cleeve,3,1,8995,Westbury United
+944859,1662213600,7762,Yate Town,4,3,8691,Aylesbury Vale Dynamos
+944860,1662213600,8914,Royal Wootton,2,4,7244,Paulton Rovers
+944861,1662213600,7669,Slimbridge,0,0,7668,Sholing
+944862,1662213600,8808,Hamworthy United,0,0,7717,Gosport Borough
+944863,1662213600,7732,Merthyr Town,5,2,4699,Truro City
+944864,1662213600,7758,Wimborne Town,0,0,7712,Dorchester Town
+945634,1662213600,8932,Shildon AFC,2,1,8895,Penistone Church
+945635,1662213600,1824,Guiseley AFC,2,1,8690,Avro
+945636,1662213600,4697,Nantwich Town,0,2,8751,Congleton Town
+945637,1662213600,7639,Dunston UTS,3,0,7630,City of Liverpool
+945638,1662213600,7252,Stocksbridge Park Steels,2,1,7694,Atherton Collieries
+945639,1662213600,8866,Lye Town,1,2,8812,Harborough Town
+945640,1662213600,8954,Stone Old Alleynians,0,1,7626,Chasetown
+945641,1662213600,7266,Worksop Town,5,0,19560,Worcester Raiders
+945642,1662213600,7748,Stafford Rangers,0,2,7242,Newcastle Town
+945643,1662213600,7718,Grantham Town,3,3,8915,Rugby Town
+945644,1662213600,7631,Cleethorpes Town,0,4,7750,Stratford Town
+945645,1662213600,7248,Romford,3,2,14411,Hashtag United
+945646,1662213600,7747,St Ives Town,4,0,7209,Barking
+945647,1662213600,8766,Dunstable Town,0,2,19558,Shefford Town & Campton
+945648,1662213600,8901,Potton United,1,5,7722,Hendon
+945649,1662213600,7259,Waltham Abbey,7,2,19549,Buckhurst Hill
+945650,1662213600,7646,Harlow Town,0,2,7724,Kings Langley
+945651,1662213600,8772,Edgware Town,1,4,7228,Grays Athletic
+945652,1662213600,4678,Billericay Town,4,1,8847,Leverstock Green
+945653,1662213600,7622,Bury Town,0,3,7205,AFC Sudbury
+945654,1662213600,7613,Ashford Town (Middlesex),2,4,7261,Westfield (Surrey)
+945655,1662213600,8928,Sheppey United,2,2,7728,Lewes
+945656,1662213600,7235,Hythe Town,0,2,7720,Hayes & Yeading United
+945657,1662213600,8769,Eastbourne Town,0,2,7645,Hanwell Town
+945658,1662213600,8784,Fisher,1,1,8943,Spelthorne Sports
+945659,1662213600,7249,Sevenoaks Town,2,1,7725,Kingstonian
+945660,1662213600,7220,Cinderford Town,2,3,19556,Laverstock & Ford
+945661,1662213600,7238,Larkhall Athletic,0,2,7629,Cirencester Town
+945662,1662213600,8910,Roman Glass St George,0,4,7719,Hartley Wintney
+945663,1662213600,12044,Wincanton Town,2,9,7612,AFC Totton
+948691,1662213600,7729,Lowestoft Town,0,1,19835,Sheringham
+953396,1662489900,8810,Hanley Town,2,1,4710,Stourbridge
+958282,1662403500,7699,Beaconsfield Town,0,1,8986,Walton & Hersham
+958283,1662489000,8930,Shepton Mallet,3,2,7702,Blackfield & Langley
+958284,1662489900,8899,Plymouth Parkway,3,2,7222,Didcot Town
+958285,1662576300,7751,Swindon Supermarine,1,0,7263,Willand Rovers
+958286,1662489900,8943,Spelthorne Sports,0,4,8784,Fisher
+958287,1662489900,7668,Sholing,5,2,7669,Slimbridge
+958288,1662489900,7712,Dorchester Town,1,0,7758,Wimborne Town
+958289,1662489900,8672,AFC Stoneham,1,3,7661,North Leigh
+958290,1662489900,7756,Warrington Town,2,1,7734,Morpeth Town
+958291,1662489900,7726,Lancaster City,1,0,7749,Stalybridge Celtic
+958292,1662489900,8686,Ashington AFC,3,0,7693,Ashton United
+958293,1662489900,7247,Pontefract Collieries,2,1,8736,Charnock Richard
+958294,1662489900,14429,Highgate United,0,3,7697,Barwell
+958295,1662489900,7709,Coalville Town,2,0,8929,Shepshed Dynamo
+958296,1662489900,8915,Rugby Town,1,0,7718,Grantham Town
+958297,1662489900,8956,Stourport Swifts,0,1,8849,Lichfield City
+958298,1662489900,8702,Beckenham Town,3,1,7224,East Grinstead Town
+958299,1662489900,7739,Potters Bar Town,2,1,7207,Aveley
+958300,1662489900,8753,Corinthian,1,2,4683,Metropolitan Police
+958301,1662489900,7728,Lewes,8,0,8928,Sheppey United
+958302,1662576300,7711,Cray Wanderers,0,4,7703,Bognor Regis Town
+958303,1662576300,7717,Gosport Borough,4,0,8808,Hamworthy United
+958304,1662576300,11986,Heaton Stannington,1,2,7632,Clitheroe
+958535,1663423200,7663,Prescot Cables,1,2,7695,Bamber Bridge
+958536,1663423200,8853,Liversedge,1,1,4679,Chorley
+958537,1663423200,8932,Shildon AFC,0,5,7746,South Shields
+958538,1663423200,7252,Stocksbridge Park Steels,2,1,7656,Marine
+958539,1663423200,7745,Scarborough Athletic,3,2,7639,Dunston UTS
+958540,1663423200,1839,AFC Fylde,1,1,10158,Farsley Celtic FC
+958541,1663423200,7757,Whitby Town,0,1,7658,Marske United
+958542,1663423200,8650,Blyth Spartans,2,0,1824,Guiseley AFC
+958543,1663423200,10157,Darlington 1883,3,2,1826,Southport
+958544,1663423200,7754,United of Manchester,2,3,4703,Curzon Ashton
+958545,1663423200,4688,AFC Telford United,2,4,7626,Chasetown
+958546,1663423200,8856,Long Eaton United,1,1,4691,Gainsborough Trinity
+958547,1663423200,8656,Leamington,0,1,10159,Nuneaton Town
+958548,1663423200,7692,Alvechurch,4,0,8812,Harborough Town
+958549,1663699500,7750,Stratford Town,0,1,7696,Banbury United
+958550,1663423200,4701,Brackley Town,0,2,7266,Worksop Town
+958551,1663423200,4692,Hereford,1,0,7705,Bromsgrove Sporting
+958552,1663423200,7741,Redditch United,2,2,7737,Peterborough Sports
+958553,1663423200,7706,Buxton,2,1,4677,Alfreton Town
+958554,1663423200,7242,Newcastle Town,1,1,8751,Congleton Town
+958555,1663423200,8681,Anstey Nomads,1,1,7236,Ilkeston Town
+958556,1663423200,4695,Kidderminster Harriers,1,0,7752,Tamworth
+958557,1663423200,7713,East Thurrock United,0,3,7700,Biggleswade Town
+958558,1663423200,4708,St Albans City,1,1,7205,AFC Sudbury
+958559,1663423200,7654,Maldon & Tiptree,0,3,7690,AFC Hornchurch
+958560,1663423200,7623,Canvey Island,0,3,7747,St Ives Town
+958561,1663423200,7214,Berkhamsted,2,0,8658,Concord Rangers
+958562,1663423200,4689,Chelmsford City,6,1,7724,Kings Langley
+958563,1663423200,7708,Cheshunt,3,1,7672,St Neots Town
+958564,1663423200,4693,Heybridge Swifts,1,1,1831,Braintree
+958565,1663423200,8660,Hemel Hempstead Town,3,0,7742,Royston Town
+958566,1663423200,7722,Hendon,3,1,7759,Wingate & Finchley
+958567,1663423200,7735,Needham Market,2,0,19835,Sheringham
+958568,1663423200,8655,King's Lynn Town,1,1,7616,Bedford Town
+958569,1663423200,7259,Waltham Abbey,2,3,7704,Brightlingsea Regent
+958570,1663423200,8775,Enfield 1893,0,4,4678,Billericay Town
+958571,1663423200,7228,Grays Athletic,1,3,19558,Shefford Town & Campton
+958572,1663353900,4702,Chesham United,2,2,7619,Bracknell Town
+958573,1663423200,7715,Farnborough,1,1,7720,Hayes & Yeading United
+958574,1663423200,8149,Dulwich Hamlet,2,1,7730,Margate
+958575,1663509600,7232,Herne Bay,2,0,7206,Ashford United
+958576,1663423200,7261,Westfield (Surrey),1,2,7707,Carshalton Athletic
+958577,1663423200,1840,Ebbsfleet United,2,0,1829,Dover
+958578,1663423200,7636,Cray Valley PM,1,2,7645,Hanwell Town
+958579,1663423200,4704,Eastbourne Borough,2,0,7257,Uxbridge
+958580,1663423200,7716,Folkestone Invicta,3,0,7628,Chichester City
+958581,1663423200,8707,Binfield,4,0,8662,Tonbridge Angels
+958582,1663423200,4685,Slough Town,1,3,7761,Worthing
+958583,1663423200,7245,Phoenix Sports,0,1,7249,Sevenoaks Town
+958584,1663423200,1843,Havant & Wville,1,0,7612,AFC Totton
+958585,1663423200,4711,Taunton Town,1,0,19556,Laverstock & Ford
+958586,1663423200,7732,Merthyr Town,1,1,7629,Cirencester Town
+958587,1663423200,8657,Bath City,2,2,7719,Hartley Wintney
+958588,1663423200,7762,Yate Town,2,1,7753,Tiverton Town
+958589,1663423200,7682,Winchester City,1,3,8665,Weymouth
+958590,1663423200,8709,Bishop's Cleeve,3,3,14412,Helston Athletic
+958591,1663423200,8661,Hungerford Town,1,3,8653,Gloucester City
+958592,1663423200,7744,Salisbury,1,2,4684,Oxford City
+958593,1663415100,8986,Walton & Hersham,2,2,8737,Chatham Town
+958812,1663423200,7726,Lancaster City,1,1,17021,Bury AFC
+958813,1663423200,1820,Chester,2,0,7247,Pontefract Collieries
+958814,1663423200,8686,Ashington AFC,2,1,8651,Bradford (Park Avenue)
+958815,1663423200,4694,Hyde United,1,0,7756,Warrington Town
+958816,1663423200,8849,Lichfield City,0,4,8146,Boston United
+958817,1663423200,7698,Basford United,2,0,8915,Rugby Town
+958818,1663423200,7709,Coalville Town,1,0,1380,Macclesfield
+958819,1663423200,7697,Barwell,1,4,8654,Kettering Town
+958820,1663423200,8810,Hanley Town,4,1,8689,Atherstone Town
+958821,1663423200,7739,Potters Bar Town,1,2,7248,Romford
+958822,1663423200,4690,Dartford,1,2,8702,Beckenham Town
+958823,1663423200,8664,Welling United,0,0,8784,Fisher
+958824,1663423200,7728,Lewes,1,1,7676,Three Bridges
+958825,1663423200,4683,Metropolitan Police,3,1,7217,Burgess Hill Town
+958826,1663423200,4687,Weston-super-Mare,1,0,8930,Shepton Mallet
+958827,1663423200,7661,North Leigh,2,3,8899,Plymouth Parkway
+958828,1663423200,8147,Chippenham Town,3,0,7668,Sholing
+959521,1663423200,7632,Clitheroe,2,0,4707,Spennymoor Town
+959522,1663423200,7703,Bognor Regis Town,0,2,4680,Hampton & Richmond
+959523,1663423200,7717,Gosport Borough,1,1,7244,Paulton Rovers
+959524,1663423200,7751,Swindon Supermarine,1,0,7712,Dorchester Town
+961504,1663698600,7619,Bracknell Town,3,0,4702,Chesham United
+961891,1663698600,7719,Hartley Wintney,0,1,8657,Bath City
+961892,1663699500,4679,Chorley,9,0,8853,Liversedge
+961893,1663699500,10158,Farsley Celtic FC,0,3,1839,AFC Fylde
+961894,1663699500,4691,Gainsborough Trinity,4,2,8856,Long Eaton United
+961895,1663699500,7737,Peterborough Sports,1,0,7741,Redditch United
+961896,1663699500,8751,Congleton Town,3,2,7242,Newcastle Town
+961897,1663699500,7236,Ilkeston Town,3,3,8681,Anstey Nomads
+961898,1663699500,7205,AFC Sudbury,2,1,4708,St Albans City
+961899,1663699500,1831,Braintree,2,1,4693,Heybridge Swifts
+961900,1663699500,7616,Bedford Town,0,3,8655,King's Lynn Town
+961901,1663699500,7720,Hayes & Yeading United,0,2,7715,Farnborough
+961902,1663699500,8784,Fisher,0,3,8664,Welling United
+961903,1663699500,7676,Three Bridges,4,0,7728,Lewes
+961904,1663699500,8737,Chatham Town,1,3,8986,Walton & Hersham
+961905,1663699500,7629,Cirencester Town,1,2,7732,Merthyr Town
+961906,1663699500,14412,Helston Athletic,4,3,8709,Bishop's Cleeve
+961907,1663785900,17021,Bury AFC,5,3,7726,Lancaster City
+961908,1663785000,7244,Paulton Rovers,2,1,7717,Gosport Borough
+962287,1664632800,4691,Gainsborough Trinity,0,1,7266,Worksop Town
+962288,1664632800,7695,Bamber Bridge,0,3,7706,Buxton
+962289,1664632800,7746,South Shields,5,2,7658,Marske United
+962290,1664632800,4694,Hyde United,1,0,10157,Darlington 1883
+962291,1664632800,1820,Chester,0,0,8810,Hanley Town
+962292,1664632800,7745,Scarborough Athletic,2,2,4703,Curzon Ashton
+962293,1664632800,4679,Chorley,0,1,8650,Blyth Spartans
+962294,1664623800,8751,Congleton Town,1,1,1839,AFC Fylde
+962295,1664632800,7252,Stocksbridge Park Steels,2,2,8686,Ashington AFC
+962296,1664632800,7737,Peterborough Sports,3,1,8660,Hemel Hempstead Town
+962297,1664632800,7708,Cheshunt,1,2,4695,Kidderminster Harriers
+962298,1664632800,7690,AFC Hornchurch,3,0,1831,Braintree
+962299,1664632800,7709,Coalville Town,3,0,7205,AFC Sudbury
+962300,1664632800,4678,Billericay Town,3,3,7700,Biggleswade Town
+962301,1664632800,7692,Alvechurch,4,0,10159,Nuneaton Town
+962302,1664632800,8655,King's Lynn Town,6,1,8654,Kettering Town
+962303,1664564400,7735,Needham Market,2,0,7704,Brightlingsea Regent
+962304,1664632800,7248,Romford,0,5,4689,Chelmsford City
+962305,1664632800,7698,Basford United,1,1,8146,Boston United
+962306,1664629200,8681,Anstey Nomads,5,0,19558,Shefford Town & Campton
+962307,1664632800,7696,Banbury United,2,0,7214,Berkhamsted
+962308,1664632800,7747,St Ives Town,3,1,7626,Chasetown
+962309,1664632800,4711,Taunton Town,1,0,8986,Walton & Hersham
+962310,1664632800,8149,Dulwich Hamlet,0,1,7716,Folkestone Invicta
+962311,1664632800,7722,Hendon,3,2,7232,Herne Bay
+962312,1664632800,4687,Weston-super-Mare,7,2,14412,Helston Athletic
+962313,1664632800,7707,Carshalton Athletic,0,2,1843,Havant & Wville
+962314,1664632800,4683,Metropolitan Police,1,2,8147,Chippenham Town
+962315,1664632800,8665,Weymouth,3,0,8664,Welling United
+962316,1664632800,4684,Oxford City,1,1,8899,Plymouth Parkway
+962317,1664632800,8653,Gloucester City,0,1,7732,Merthyr Town
+962318,1664632800,7761,Worthing,1,2,4704,Eastbourne Borough
+962319,1664632800,7676,Three Bridges,0,3,4692,Hereford
+962320,1664632800,8657,Bath City,0,1,7249,Sevenoaks Town
+962321,1664632800,8702,Beckenham Town,5,3,8707,Binfield
+962322,1664632800,7762,Yate Town,0,3,7619,Bracknell Town
+962323,1664632800,7751,Swindon Supermarine,1,5,7715,Farnborough
+962324,1664632800,7645,Hanwell Town,1,2,1840,Ebbsfleet United
+962508,1664632800,7632,Clitheroe,1,1,17021,Bury AFC
+962509,1664632800,4680,Hampton & Richmond,6,1,7244,Paulton Rovers
+963749,1664909100,1839,AFC Fylde,5,1,8751,Congleton Town
+963750,1664909100,8810,Hanley Town,0,4,1820,Chester
+963751,1664909100,4703,Curzon Ashton,3,2,7745,Scarborough Athletic
+963752,1664909100,8686,Ashington AFC,3,0,7252,Stocksbridge Park Steels
+963753,1664909100,7700,Biggleswade Town,3,0,4678,Billericay Town
+963754,1664909100,8146,Boston United,3,3,7698,Basford United
+963755,1664909100,8899,Plymouth Parkway,1,3,4684,Oxford City
+963756,1664995500,17021,Bury AFC,2,0,7632,Clitheroe
+963951,1665842400,1349,Oldham,1,1,1820,Chester
+963952,1665842400,4695,Kidderminster Harriers,2,2,1839,AFC Fylde
+963953,1665842400,8655,King's Lynn Town,3,1,8686,Ashington AFC
+963954,1665842400,7746,South Shields,1,0,1340,Scunthorpe
+963955,1665842400,1834,Solihull Moors,1,0,7698,Basford United
+963956,1665842400,7737,Peterborough Sports,0,1,4703,Curzon Ashton
+963957,1665835200,8650,Blyth Spartans,1,1,1837,Wrexham
+963958,1665842400,4700,Altrincham,2,2,1823,Gateshead
+963959,1665833400,8681,Anstey Nomads,0,3,1345,Chesterfield
+963960,1665842400,7692,Alvechurch,3,2,7266,Worksop Town
+963961,1665842400,7706,Buxton,2,1,4694,Hyde United
+963962,1665842400,1376,Notts County,2,3,7709,Coalville Town
+963963,1665842400,7747,St Ives Town,0,3,1841,FC Halifax Town
+963964,1665842400,1832,Bromley,1,2,4692,Hereford
+963965,1665842400,1827,Torquay,2,2,4680,Hampton & Richmond
+963966,1665842400,1377,Yeovil Town,0,0,4711,Taunton Town
+963967,1665842400,1838,Maidenhead,2,1,4704,Eastbourne Borough
+963968,1665842400,8659,Dorking Wanderers,1,3,1822,Eastleigh
+963969,1665842400,1840,Ebbsfleet United,2,0,7249,Sevenoaks Town
+963970,1665842400,1836,Woking,2,1,1341,Southend
+963971,1665842400,8702,Beckenham Town,0,7,1821,Dagenham & Redbridge
+963972,1665842400,7722,Hendon,2,2,8147,Chippenham Town
+963973,1665842400,1843,Havant & Wville,1,2,8665,Weymouth
+963974,1665842400,7690,AFC Hornchurch,1,4,4684,Oxford City
+963975,1665842400,7619,Bracknell Town,2,1,7696,Banbury United
+963976,1665842400,1830,Boreham Wood,5,3,8663,Wealdstone
+963977,1665842400,1369,Barnet,3,0,4687,Weston-super-Mare
+963978,1665842400,7735,Needham Market,1,0,1825,Maidstone Utd
+963979,1665842400,4689,Chelmsford City,2,0,1818,Aldershot Town
+963980,1665842400,7732,Merthyr Town,2,1,7716,Folkestone Invicta
+963981,1665842400,7715,Farnborough,7,0,7700,Biggleswade Town
+964228,1665842400,17021,Bury AFC,1,2,1828,York
+966928,1666119600,1837,Wrexham,3,2,8650,Blyth Spartans
+966929,1666118700,1820,Chester,2,2,1349,Oldham
+966930,1666118700,8147,Chippenham Town,1,0,7722,Hendon
+966931,1666118700,1823,Gateshead,2,1,4700,Altrincham
+966932,1666118700,4711,Taunton Town,1,0,1377,Yeovil Town
+966933,1666118700,1839,AFC Fylde,2,0,4695,Kidderminster Harriers
+966934,1666118700,4680,Hampton & Richmond,1,2,1827,Torquay
+966972,1667649600,7746,South Shields,0,2,1378,Forest Green
+966973,1667656800,68,Bolton,1,2,747,Barnsley
+966974,1667660400,1830,Boreham Wood,3,1,1822,Eastleigh
+966975,1667660400,1838,Maidenhead,0,1,1821,Dagenham & Redbridge
+966976,1667660400,1362,Crawley Town,1,4,1360,Accrington ST
+966977,1667660400,1834,Solihull Moors,2,2,1366,Hartlepool
+966978,1667660400,1350,Peterborough,0,0,1844,Salford City
+966979,1667660400,1835,Sutton Utd,0,2,7715,Farnborough
+966980,1667660400,1365,Grimsby,5,1,1357,Plymouth
+966981,1667660400,1840,Ebbsfleet United,2,1,1841,FC Halifax Town
+966982,1667660400,1371,Carlisle,2,1,1381,Tranmere
+966983,1667591100,74,Sheffield Wednesday,2,0,1375,Morecambe
+966984,1667591700,4692,Hereford,1,3,1355,Portsmouth
+966985,1667660400,1352,Shrewsbury,2,1,1828,York
+966986,1667660400,7706,Buxton,2,0,7732,Merthyr Town
+966987,1667660400,1335,Charlton,4,1,7709,Coalville Town
+966988,1667660400,8665,Weymouth,1,1,1333,AFC Wimbledon
+966989,1667660400,4686,Stockport County,4,0,1353,Swindon Town
+966990,1667660400,1354,Doncaster,0,1,8655,King's Lynn Town
+966991,1667660400,1336,Fleetwood Town,3,1,4684,Oxford City
+966992,1667660400,748,Burton Albion,2,0,7735,Needham Market
+966993,1667651400,1343,Bradford,0,1,1842,Harrogate Town
+966994,1667660400,1351,Port Vale,2,3,1364,Exeter City
+966995,1667660400,1334,Bristol Rovers,1,0,1339,Rochdale
+966996,1667660400,1358,Wycombe,0,2,1342,Walsall
+966997,1667660400,1363,Crewe,1,0,1373,Leyton Orient
+966998,1667660400,1369,Barnet,1,1,4689,Chelmsford City
+966999,1668627900,1836,Woking,1,2,1338,Oxford United
+967000,1667660400,1345,Chesterfield,1,0,1337,Northampton
+967001,1667660400,1372,Cheltenham,1,2,7692,Alvechurch
+967002,1667660400,1819,Barrow,0,1,1374,Mansfield Town
+967003,1667743200,4703,Curzon Ashton,0,0,1370,Cambridge United
+967004,1667850300,7619,Bracknell Town,0,3,57,Ipswich
+967005,1667660400,1367,Newport County,2,0,1361,Colchester
+968060,1667660400,8147,Chippenham Town,1,0,1379,Lincoln
+968061,1667660400,1823,Gateshead,2,3,1368,Stevenage
+968062,1667660400,1839,AFC Fylde,1,1,1347,Gillingham
+968063,1667660400,1348,Milton Keynes Dons,6,0,4711,Taunton Town
+968064,1667737800,1837,Wrexham,3,0,1349,Oldham
+968065,1667746800,1827,Torquay,2,2,69,Derby
+971177,1668455100,4689,Chelmsford City,0,1,1369,Barnet
+971178,1668627900,1844,Salford City,0,3,1350,Peterborough
+971179,1668541500,1366,Hartlepool,1,1,1834,Solihull Moors
+971180,1668541500,1347,Gillingham,1,0,1839,AFC Fylde
+971181,1668541500,1333,AFC Wimbledon,3,1,8665,Weymouth
+971859,1669475700,1837,Wrexham,4,1,7715,Farnborough
+971860,1669552200,1840,Ebbsfleet United,0,1,1336,Fleetwood Town
+971861,1669568400,57,Ipswich,4,0,7706,Buxton
+971862,1669474800,747,Barnsley,3,0,1363,Crewe
+971863,1669474800,1378,Forest Green,2,1,7692,Alvechurch
+971864,1669474800,1355,Portsmouth,3,2,1348,Milton Keynes Dons
+971865,1669466700,8655,King's Lynn Town,0,3,1368,Stevenage
+971866,1669474800,1335,Charlton,2,2,4686,Stockport County
+971867,1669557600,1334,Bristol Rovers,0,2,1830,Boreham Wood
+971868,1669474800,74,Sheffield Wednesday,2,1,1374,Mansfield Town
+971869,1669557600,748,Burton Albion,6,1,8147,Chippenham Town
+971870,1669474800,1342,Walsall,2,1,1371,Carlisle
+971871,1668541500,1370,Cambridge United,0,0,4703,Curzon Ashton
+971872,1668541500,69,Derby,5,0,1827,Torquay
+973271,1669474800,1360,Accrington ST,1,0,1369,Barnet
+973272,1669482000,1821,Dagenham & Redbridge,1,1,1347,Gillingham
+973273,1669474800,1333,AFC Wimbledon,0,2,1345,Chesterfield
+973274,1669474800,1370,Cambridge United,1,2,1365,Grimsby
+973275,1669562100,1367,Newport County,1,2,69,Derby
+973725,1669474800,1352,Shrewsbury,3,1,1350,Peterborough
+973726,1669474800,1366,Hartlepool,3,1,1842,Harrogate Town
+973727,1669474800,1338,Oxford United,4,1,1364,Exeter City
+976461,1673094600,59,Preston,3,1,37,Huddersfield
+976462,1673103600,70,Middlesbrough,1,5,51,Brighton
+976463,1673103600,1345,Chesterfield,3,3,60,West Brom
+976464,1673195400,50,Manchester City,4,0,49,Chelsea
+976465,1673103600,1830,Boreham Wood,1,1,1360,Accrington ST
+976466,1673094600,47,Tottenham,1,0,1355,Portsmouth
+976467,1673181000,69,Derby,3,0,747,Barnsley
+976468,1673186400,43,Cardiff,2,2,63,Leeds
+976469,1673112600,55,Brentford,0,1,48,West Ham
+976470,1673103600,35,Bournemouth,2,4,44,Burnley
+976471,1673112600,1346,Coventry,3,4,1837,Wrexham
+976472,1673186400,71,Norwich,0,1,67,Blackburn
+976473,1673195400,66,Aston Villa,1,2,1368,Stevenage
+976474,1673112600,1359,Luton,1,1,61,Wigan
+976475,1673294400,1338,Oxford United,0,3,42,Arsenal
+976476,1673103600,1336,Fleetwood Town,2,1,72,QPR
+976477,1673121600,40,Liverpool,2,2,39,Wolves
+976478,1673112600,1365,Grimsby,1,0,748,Burton Albion
+976479,1673103600,1356,Blackpool,4,1,65,Nottingham Forest
+976480,1673984700,1378,Forest Green,1,2,54,Birmingham
+976481,1673181000,56,Bristol City,1,1,76,Swansea
+976482,1673186400,1366,Hartlepool,0,3,75,Stoke City
+976483,1673103600,64,Hull City,0,2,36,Fulham
+976484,1673094600,52,Crystal Palace,1,2,41,Southampton
+976485,1673103600,58,Millwall,0,2,62,Sheffield Utd
+976486,1673103600,1352,Shrewsbury,1,2,746,Sunderland
+976487,1673114400,74,Sheffield Wednesday,2,1,34,Newcastle
+976488,1673035200,33,Manchester United,3,1,45,Everton
+976489,1673094600,53,Reading,2,0,38,Watford
+976490,1673103600,57,Ipswich,4,1,73,Rotherham
+976491,1670442300,4686,Stockport County,3,1,1335,Charlton
+976492,1670526900,1347,Gillingham,3,2,1821,Dagenham & Redbridge
+981448,1673094600,1347,Gillingham,0,1,46,Leicester
+981449,1673186400,4686,Stockport County,1,2,1342,Walsall
+986106,1674918000,41,Southampton,2,1,1356,Blackpool
+986107,1675009800,1837,Wrexham,3,3,62,Sheffield Utd
+986108,1674928800,59,Preston,0,3,47,Tottenham
+986109,1674918000,57,Ipswich,0,0,44,Burnley
+986110,1674936000,33,Manchester United,3,1,53,Reading
+986111,1675107900,69,Derby,0,2,48,West Ham
+986112,1674909000,1342,Walsall,0,1,46,Leicester
+986113,1674918000,74,Sheffield Wednesday,1,1,1336,Fleetwood Town
+986114,1674918000,36,Fulham,1,1,746,Sunderland
+986115,1675000800,75,Stoke City,3,1,1368,Stevenage
+986116,1673985600,60,West Brom,4,0,1345,Chesterfield
+986117,1674589500,1360,Accrington ST,1,0,1830,Boreham Wood
+986118,1673984700,61,Wigan,1,2,1359,Luton
+986119,1673984700,39,Wolves,0,1,40,Liverpool
+986120,1674071100,63,Leeds,5,2,43,Cardiff
+986121,1673984700,76,Swansea,1,2,56,Bristol City
+986497,1674849600,50,Manchester City,1,0,42,Arsenal
+990832,1674918000,1359,Luton,2,2,1365,Grimsby
+990833,1674918000,56,Bristol City,3,0,60,West Brom
+990834,1674918000,67,Blackburn,2,2,54,Birmingham
+990835,1674999000,51,Brighton,2,1,40,Liverpool
+994591,1674909000,1360,Accrington ST,1,3,63,Leeds
+997624,1677611700,75,Stoke City,0,1,51,Brighton
+997625,1677614400,56,Bristol City,0,3,50,Manchester City
+997626,1677699900,33,Manchester United,3,1,48,West Ham
+997627,1675194300,54,Birmingham,0,1,67,Blackburn
+997628,1675799100,44,Burnley,2,1,57,Ipswich
+997629,1675799100,1365,Grimsby,3,0,1359,Luton
+997630,1675799100,1336,Fleetwood Town,1,0,74,Sheffield Wednesday
+997631,1675885500,746,Sunderland,2,3,36,Fulham
+997632,1675799100,62,Sheffield Utd,3,1,1837,Wrexham
+997988,1677612600,46,Leicester,1,2,67,Blackburn
+1004838,1677613500,36,Fulham,2,0,63,Leeds
+1004839,1677698100,41,Southampton,1,2,1365,Grimsby
+1004840,1677699000,44,Burnley,1,0,1336,Fleetwood Town
+1004841,1677700500,62,Sheffield Utd,1,0,47,Tottenham
+1011478,1679161500,50,Manchester City,6,0,44,Burnley
+1011479,1679243400,33,Manchester United,3,1,36,Fulham
+1011480,1679235300,51,Brighton,5,0,1365,Grimsby
+1011481,1679227200,62,Sheffield Utd,3,2,67,Blackburn
+1017111,1682263800,51,Brighton,0,0,33,Manchester United
+1017112,1682178300,50,Manchester City,3,0,62,Sheffield Utd
+1023277,1685800800,50,Manchester City,2,1,33,Manchester United
