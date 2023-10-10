@@ -13,7 +13,7 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1035048,1692644400,52,Crystal Palace,0,1,42,Arsenal
 1035049,1692453600,36,Fulham,0,3,55,Brentford
 1035050,1692453600,40,Liverpool,3,1,35,Bournemouth
-1035051,1696357800,1359,Luton,,,44,Burnley
+1035051,1696357800,1359,Luton,1,2,44,Burnley
 1035052,1692471600,50,Manchester City,1,0,34,Newcastle
 1035053,1692384300,65,Nottingham Forest,2,1,62,Sheffield Utd
 1035054,1692462600,47,Tottenham,2,0,33,Manchester United
@@ -69,3 +69,13 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1035104,1696091400,47,Tottenham,2,1,40,Liverpool
 1035105,1696082400,48,West Ham,2,0,62,Sheffield Utd
 1035106,1696082400,39,Wolves,2,1,50,Manchester City
+1035107,1696779000,42,Arsenal,1,0,50,Manchester City
+1035108,1696770000,51,Brighton,2,2,40,Liverpool
+1035109,1696687200,44,Burnley,1,4,49,Chelsea
+1035110,1696696200,52,Crystal Palace,0,0,65,Nottingham Forest
+1035111,1696687200,45,Everton,3,0,35,Bournemouth
+1035112,1696687200,36,Fulham,3,1,62,Sheffield Utd
+1035113,1696678200,1359,Luton,0,1,47,Tottenham
+1035114,1696687200,33,Manchester United,2,1,55,Brentford
+1035115,1696770000,48,West Ham,2,2,34,Newcastle
+1035116,1696770000,39,Wolves,1,1,66,Aston Villa

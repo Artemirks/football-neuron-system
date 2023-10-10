@@ -78,4 +78,12 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1042091,1696080600,1083,Rubin,0,2,621,Krasnodar
 1042092,1696158000,1993,Fakel Voronezh,2,0,2012,PFC Sochi
 1042093,1696064400,1080,Orenburg,3,1,596,Zenit Saint Petersburg
+1042094,1696780800,558,Spartak Moscow,2,2,555,CSKA Moscow
+1042095,1696694400,621,Krasnodar,3,2,779,FC Rostov
+1042096,1696771800,1088,Dinamo Moscow,0,0,1993,Fakel Voronezh
+1042097,1696780800,1085,Akhmat Grozny,0,1,1083,Rubin
+1042098,1696676400,2012,PFC Sochi,0,2,596,Zenit Saint Petersburg
+1042099,1696685400,2006,Baltika,1,0,1080,Orenburg
+1042100,1696762800,2011,Nizhny Novgorod,2,0,1079,Krylya Sovetov
+1042101,1696669200,1084,Ural,2,2,597,Lokomotiv Moscow
 1042198,1694880000,558,Spartak Moscow,1,0,2012,PFC Sochi

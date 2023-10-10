@@ -31,9 +31,14 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1060670,1695219300,1085,Akhmat Grozny,3,3,596,Zenit Saint Petersburg
 1060671,1695124800,621,Krasnodar,1,1,1088,Dinamo Moscow
 1060672,1695132900,2011,Nizhny Novgorod,0,3,558,Spartak Moscow
-1060675,1696342500,597,Lokomotiv Moscow,,,779,FC Rostov
-1060676,1696334400,1084,Ural,,,1083,Rubin
-1060677,1696342500,596,Zenit Saint Petersburg,,,2006,Baltika
+1060673,1696419000,1993,Fakel Voronezh,1,1,555,CSKA Moscow
+1060674,1696420800,2012,PFC Sochi,1,2,1080,Orenburg
+1060675,1696342500,597,Lokomotiv Moscow,3,1,779,FC Rostov
+1060676,1696334400,1084,Ural,2,0,1083,Rubin
+1060677,1696342500,596,Zenit Saint Petersburg,2,1,2006,Baltika
+1060678,1696411800,1079,Krylya Sovetov,0,3,1085,Akhmat Grozny
+1060679,1696427100,1088,Dinamo Moscow,3,0,558,Spartak Moscow
+1060680,1696428900,621,Krasnodar,3,0,2011,Nizhny Novgorod
 1081913,1692712800,21540,Astrakhan,0,1,2010,Rotor Volgograd
 1081914,1692795600,6810,Legion Dynamo,1,0,22171,Pobeda
 1081915,1692802800,6796,Dinamo Stavropol,0,0,2002,Spartak Nalchik

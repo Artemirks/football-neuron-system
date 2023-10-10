@@ -683,8 +683,9 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1134869,1696082400,1831,Braintree,3,2,4701,Brackley Town
 1134870,1696082400,7665,Ramsgate,2,1,7226,Frome Town
 1136670,1696271400,4689,Chelmsford City,3,0,7705,Bromsgrove Sporting
-1136671,1696358700,7690,AFC Hornchurch,,,7207,Aveley
-1136672,1696358700,4685,Slough Town,,,7744,Salisbury
-1136673,1696358700,7735,Needham Market,,,7737,Peterborough Sports
-1136674,1696358700,7636,Cray Valley PM,,,7707,Carshalton Athletic
-1136675,1696358700,7266,Worksop Town,,,8650,Blyth Spartans
+1136671,1696358700,7690,AFC Hornchurch,1,2,7207,Aveley
+1136672,1696358700,4685,Slough Town,3,0,7744,Salisbury
+1136673,1696358700,7735,Needham Market,3,0,7737,Peterborough Sports
+1136674,1696358700,7636,Cray Valley PM,2,1,7707,Carshalton Athletic
+1136675,1696358700,7266,Worksop Town,5,0,8650,Blyth Spartans
+1136676,1696445100,8664,Welling United,4,2,7717,Gosport Borough

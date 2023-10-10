@@ -107,9 +107,27 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1047539,1696014000,74,Sheffield Wednesday,0,3,746,Sunderland
 1047540,1696073400,41,Southampton,3,1,63,Leeds
 1047541,1696082400,38,Watford,2,3,70,Middlesbrough
-1047542,1696358700,54,Birmingham,,,37,Huddersfield
-1047543,1696358700,57,Ipswich,,,64,Hull City
-1047544,1696358700,70,Middlesbrough,,,43,Cardiff
-1047545,1696358700,1357,Plymouth,,,58,Millwall
-1047546,1696359600,75,Stoke City,,,41,Southampton
-1047547,1696359600,60,West Brom,,,74,Sheffield Wednesday
+1047542,1696358700,54,Birmingham,4,1,37,Huddersfield
+1047543,1696358700,57,Ipswich,3,0,64,Hull City
+1047544,1696358700,70,Middlesbrough,2,0,43,Cardiff
+1047545,1696358700,1357,Plymouth,0,2,58,Millwall
+1047546,1696359600,75,Stoke City,0,1,41,Southampton
+1047547,1696359600,60,West Brom,1,0,74,Sheffield Wednesday
+1047548,1696445100,1346,Coventry,1,0,67,Blackburn
+1047549,1696445100,63,Leeds,1,0,72,QPR
+1047550,1696445100,46,Leicester,3,0,59,Preston
+1047551,1696446000,73,Rotherham,1,2,56,Bristol City
+1047552,1696445100,746,Sunderland,2,0,38,Watford
+1047553,1696445100,76,Swansea,2,1,71,Norwich
+1047554,1696618800,54,Birmingham,3,1,60,West Brom
+1047555,1696687200,1346,Coventry,1,1,71,Norwich
+1047556,1696687200,57,Ipswich,4,2,59,Preston
+1047557,1696687200,63,Leeds,2,1,56,Bristol City
+1047558,1696687200,46,Leicester,2,0,75,Stoke City
+1047559,1696687200,58,Millwall,2,2,64,Hull City
+1047560,1696687200,1357,Plymouth,1,3,76,Swansea
+1047561,1696687200,72,QPR,0,4,67,Blackburn
+1047562,1696687200,74,Sheffield Wednesday,0,0,37,Huddersfield
+1047563,1696687200,41,Southampton,1,1,73,Rotherham
+1047564,1696678200,746,Sunderland,0,4,70,Middlesbrough
+1052667,1696687200,43,Cardiff,1,1,38,Watford
