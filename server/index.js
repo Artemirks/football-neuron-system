@@ -71,7 +71,7 @@ app.get('/epl/next', async (req, res) => {
 
 async function getMatches(leagueID) {
     await leageController.setTrueStagePred(leagueID, false);
-    /* const lastMatches = await matchesController.getListMatches(leagueID, 'Прогноз');
+    const lastMatches = await matchesController.getListMatches(leagueID, 'Прогноз');
     let count = 0;
     for (const match in lastMatches) {
         count++;
@@ -86,15 +86,15 @@ async function getMatches(leagueID) {
         await teamDataController.updateMatchRecency(lastMatches[match].Away_team_ID, 'middle', 'near');
         await teamDataController.updateMatchRecency(lastMatches[match].Away_team_ID, 'long', 'middle');
         await teamDataController.deleteLastMatch(lastMatches[match].Away_team_ID);
-    } */
+    }
     await updatePred(leagueID);
     //await updatePredWithNewXG(leagueID);
     console.log('Готово');
 }
 
 async function updatePred(leagueId) {
-    /* await matchesController.deleteOldMatches(leagueId);
-    await matchesController.setLastStatus(leagueId); */
+    await matchesController.deleteOldMatches(leagueId);
+    await matchesController.setLastStatus(leagueId);
     try {
         const result = await predinction.getPredictionForTeams(leagueId);
 
