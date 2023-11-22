@@ -66,6 +66,7 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1092786,1693666800,6787,Alaniya Vladikavkaz,2,1,1089,Enisey
 1092787,1693845000,6822,Rodina Moskva,2,0,3985,Torpedo Moskva
 1092788,1693738800,1998,Shinnik Yaroslavl,1,0,2001,FK Neftekhimik
+1092789,1699794000,6813,Makhachkala,2,0,1087,Ska-khabarovsk
 1092790,1693742400,6786,Akron,0,0,6791,Chernomorets
 1092791,1693749600,6801,KAMAZ,1,1,6811,Leningradets
 1092792,1693663200,2004,Volgar Astrakhan,1,2,1995,FK Sokol Saratov
@@ -115,4 +116,57 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1092836,1696775400,6831,Urozhay,1,0,6822,Rodina Moskva
 1092837,1696777200,6811,Leningradets,0,1,6791,Chernomorets
 1092838,1696858200,2000,Tyumen,0,0,3985,Torpedo Moskva
+1092839,1697295600,1994,Khimki,1,0,1089,Enisey
+1092840,1697292000,6787,Alaniya Vladikavkaz,1,0,6811,Leningradets
+1092841,1697302800,6822,Rodina Moskva,0,1,6786,Akron
+1092842,1697288400,6813,Makhachkala,1,0,6791,Chernomorets
+1092843,1697272200,1087,Ska-khabarovsk,1,1,1077,Arsenal Tula
+1092844,1697281200,6801,KAMAZ,4,0,1998,Shinnik Yaroslavl
+1092845,1697293800,6831,Urozhay,2,1,3985,Torpedo Moskva
+1092846,1697288400,2000,Tyumen,1,0,2004,Volgar Astrakhan
+1092847,1697281200,1995,FK Sokol Saratov,2,2,2001,FK Neftekhimik
+1092848,1697992200,3985,Torpedo Moskva,2,0,1087,Ska-khabarovsk
+1092849,1697958000,1089,Enisey,5,3,1995,FK Sokol Saratov
+1092850,1698078600,6822,Rodina Moskva,0,0,6813,Makhachkala
+1092851,1698067800,6786,Akron,3,1,1998,Shinnik Yaroslavl
+1092852,1697979600,6801,KAMAZ,2,2,1994,Khimki
+1092853,1697979600,2004,Volgar Astrakhan,1,0,6787,Alaniya Vladikavkaz
+1092854,1697986800,1077,Arsenal Tula,3,1,6831,Urozhay
+1092855,1697983200,6791,Chernomorets,0,1,2000,Tyumen
+1092856,1697986800,6811,Leningradets,1,2,2001,FK Neftekhimik
+1092857,1698505200,1994,Khimki,1,0,6813,Makhachkala
+1092858,1698413400,6787,Alaniya Vladikavkaz,1,1,1077,Arsenal Tula
+1092859,1698481800,1089,Enisey,2,0,6801,KAMAZ
+1092860,1698501600,2001,FK Neftekhimik,0,2,2000,Tyumen
+1092861,1698498000,1998,Shinnik Yaroslavl,1,1,3985,Torpedo Moskva
+1092862,1698465600,1087,Ska-khabarovsk,2,1,6811,Leningradets
+1092863,1698498000,2004,Volgar Astrakhan,0,4,6822,Rodina Moskva
+1092864,1698499800,6831,Urozhay,2,2,6791,Chernomorets
+1092865,1698490800,1995,FK Sokol Saratov,0,1,6786,Akron
+1092866,1699279200,3985,Torpedo Moskva,0,3,2004,Volgar Astrakhan
+1092867,1699275600,1998,Shinnik Yaroslavl,3,3,6787,Alaniya Vladikavkaz
+1092868,1699189200,6813,Makhachkala,1,0,2001,FK Neftekhimik
+1092869,1699272000,6786,Akron,3,1,1089,Enisey
+1092870,1699284600,6801,KAMAZ,1,0,1087,Ska-khabarovsk
+1092871,1699196400,1077,Arsenal Tula,1,0,6822,Rodina Moskva
+1092872,1699189200,6791,Chernomorets,1,3,1994,Khimki
+1092873,1699196400,6811,Leningradets,0,1,6831,Urozhay
+1092874,1699173000,2000,Tyumen,2,0,1995,FK Sokol Saratov
+1092875,1699801200,1994,Khimki,2,2,6786,Akron
+1092876,1699772400,1089,Enisey,4,1,1998,Shinnik Yaroslavl
+1092877,1699804800,6822,Rodina Moskva,4,0,6791,Chernomorets
+1092878,1699797600,2001,FK Neftekhimik,0,0,3985,Torpedo Moskva
 1092879,1693724400,1087,Ska-khabarovsk,0,2,6813,Makhachkala
+1092880,1699797600,6801,KAMAZ,1,1,6787,Alaniya Vladikavkaz
+1092881,1699707600,2004,Volgar Astrakhan,1,2,6811,Leningradets
+1092882,1699794000,2000,Tyumen,3,0,6831,Urozhay
+1092883,1699889400,1995,FK Sokol Saratov,0,3,1077,Arsenal Tula
+1092884,1700497800,3985,Torpedo Moskva,1,1,6822,Rodina Moskva
+1092885,1700488800,6787,Alaniya Vladikavkaz,1,4,1994,Khimki
+1092886,1700377200,1089,Enisey,0,2,1077,Arsenal Tula
+1092887,1700402400,2001,FK Neftekhimik,0,0,1995,FK Sokol Saratov
+1092888,1700305200,1998,Shinnik Yaroslavl,2,2,6801,KAMAZ
+1092889,1700312400,6813,Makhachkala,3,1,2000,Tyumen
+1092890,1700308800,6786,Akron,0,1,2004,Volgar Astrakhan
+1092891,1700397000,6831,Urozhay,1,1,1087,Ska-khabarovsk
+1092892,1700402400,6791,Chernomorets,0,1,6811,Leningradets

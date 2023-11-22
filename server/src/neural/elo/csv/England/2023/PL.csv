@@ -79,3 +79,43 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1035114,1696687200,33,Manchester United,2,1,55,Brentford
 1035115,1696770000,48,West Ham,2,2,34,Newcastle
 1035116,1696770000,39,Wolves,1,1,66,Aston Villa
+1035117,1697896800,35,Bournemouth,1,2,39,Wolves
+1035118,1697988600,66,Aston Villa,4,1,48,West Ham
+1035119,1697896800,55,Brentford,3,0,44,Burnley
+1035120,1697905800,49,Chelsea,2,2,42,Arsenal
+1035121,1697887800,40,Liverpool,2,0,45,Everton
+1035122,1697896800,50,Manchester City,2,1,51,Brighton
+1035123,1697896800,34,Newcastle,4,0,52,Crystal Palace
+1035124,1697896800,65,Nottingham Forest,2,2,1359,Luton
+1035125,1697914800,62,Sheffield Utd,1,2,33,Manchester United
+1035126,1698087600,47,Tottenham,2,0,36,Fulham
+1035127,1698501600,35,Bournemouth,2,1,44,Burnley
+1035128,1698501600,42,Arsenal,5,0,62,Sheffield Utd
+1035129,1698588000,66,Aston Villa,3,1,1359,Luton
+1035130,1698588000,51,Brighton,1,1,36,Fulham
+1035131,1698492600,49,Chelsea,0,2,55,Brentford
+1035132,1698433200,52,Crystal Palace,1,2,47,Tottenham
+1035133,1698588000,40,Liverpool,3,0,65,Nottingham Forest
+1035134,1698593400,33,Manchester United,0,3,50,Manchester City
+1035135,1698584400,48,West Ham,0,1,45,Everton
+1035136,1698510600,39,Wolves,2,2,34,Newcastle
+1035137,1699110000,55,Brentford,3,2,48,West Ham
+1035138,1699110000,44,Burnley,0,2,52,Crystal Palace
+1035139,1699110000,45,Everton,1,1,51,Brighton
+1035140,1699101000,36,Fulham,0,1,33,Manchester United
+1035141,1699201800,1359,Luton,1,1,40,Liverpool
+1035142,1699110000,50,Manchester City,6,1,35,Bournemouth
+1035143,1699119000,34,Newcastle,1,0,42,Arsenal
+1035144,1699192800,65,Nottingham Forest,2,0,66,Aston Villa
+1035145,1699110000,62,Sheffield Utd,2,1,39,Wolves
+1035146,1699300800,47,Tottenham,1,4,49,Chelsea
+1035147,1699723800,35,Bournemouth,2,0,34,Newcastle
+1035148,1699714800,42,Arsenal,3,1,44,Burnley
+1035149,1699797600,66,Aston Villa,3,1,36,Fulham
+1035150,1699797600,51,Brighton,1,1,62,Sheffield Utd
+1035151,1699806600,49,Chelsea,4,4,50,Manchester City
+1035152,1699714800,52,Crystal Palace,2,3,45,Everton
+1035153,1699797600,40,Liverpool,3,0,55,Brentford
+1035154,1699714800,33,Manchester United,1,0,1359,Luton
+1035155,1699797600,48,West Ham,3,2,65,Nottingham Forest
+1035156,1699705800,39,Wolves,2,1,47,Tottenham

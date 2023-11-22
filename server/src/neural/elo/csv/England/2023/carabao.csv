@@ -75,3 +75,11 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1125711,1695840300,40,Liverpool,3,1,46,Leicester
 1125712,1695841200,34,Newcastle,1,0,50,Manchester City
 1125713,1695753900,1374,Mansfield Town,2,2,1350,Peterborough
+1136337,1698781500,1374,Mansfield Town,0,1,1351,Port Vale
+1136338,1698867900,57,Ipswich,1,3,36,Fulham
+1136339,1698869700,33,Manchester United,0,3,34,Newcastle
+1136340,1698867900,35,Bournemouth,1,2,40,Liverpool
+1136341,1698867900,49,Chelsea,2,0,67,Blackburn
+1136342,1698867000,48,West Ham,3,1,42,Arsenal
+1136343,1698867900,45,Everton,3,0,44,Burnley
+1136344,1698781500,1364,Exeter City,2,3,70,Middlesbrough

@@ -39,6 +39,14 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1060678,1696411800,1079,Krylya Sovetov,0,3,1085,Akhmat Grozny
 1060679,1696427100,1088,Dinamo Moscow,3,0,558,Spartak Moscow
 1060680,1696428900,621,Krasnodar,3,0,2011,Nizhny Novgorod
+1060681,1698939000,555,CSKA Moscow,3,1,1080,Orenburg
+1060682,1698852600,2012,PFC Sochi,2,0,1993,Fakel Voronezh
+1060683,1698947100,779,FC Rostov,2,1,1084,Ural
+1060684,1698852600,597,Lokomotiv Moscow,3,0,1083,Rubin
+1060685,1698769800,596,Zenit Saint Petersburg,1,0,1079,Krylya Sovetov
+1060686,1698773400,2006,Baltika,4,1,1085,Akhmat Grozny
+1060687,1698947100,1088,Dinamo Moscow,2,1,2011,Nizhny Novgorod
+1060688,1698860700,558,Spartak Moscow,2,3,621,Krasnodar
 1081913,1692712800,21540,Astrakhan,0,1,2010,Rotor Volgograd
 1081914,1692795600,6810,Legion Dynamo,1,0,22171,Pobeda
 1081915,1692802800,6796,Dinamo Stavropol,0,0,2002,Spartak Nalchik
@@ -115,3 +123,15 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1133520,1695830400,3984,Tekstilshchik,1,3,6822,Rodina Moskva
 1133521,1695807000,1087,Ska-khabarovsk,1,1,1995,FK Sokol Saratov
 1133522,1695808800,6823,Ryazan,1,6,6786,Akron
+1136441,1697644800,1994,Khimki,1,0,1078,FC UFA
+1136442,1697619600,16856,Dinamo Vladivostok,1,0,2010,Rotor Volgograd
+1136443,1697634000,2004,Volgar Astrakhan,1,0,1089,Enisey
+1136444,1697722200,6786,Akron,3,0,1998,Shinnik Yaroslavl
+1136445,1697637600,2001,FK Neftekhimik,0,2,14116,Forte Taganrog
+1136446,1697731200,1077,Arsenal Tula,1,2,6822,Rodina Moskva
+1136447,1697533200,1087,Ska-khabarovsk,2,0,1076,Amkar
+1136448,1697644800,6791,Chernomorets,0,0,6801,KAMAZ
+1139470,1698840000,6822,Rodina Moskva,3,0,6791,Chernomorets
+1139471,1698930000,6786,Akron,0,1,2004,Volgar Astrakhan
+1139472,1698843600,1994,Khimki,4,0,16856,Dinamo Vladivostok
+1139473,1698836400,14116,Forte Taganrog,0,2,1087,Ska-khabarovsk
