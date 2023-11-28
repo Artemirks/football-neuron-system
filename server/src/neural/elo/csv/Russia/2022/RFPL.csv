@@ -239,7 +239,3 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 880104,1685800800,1080,Orenburg,3,0,1088,Dinamo Moscow
 880105,1685800800,2011,Nizhny Novgorod,2,0,1994,Khimki
 880106,1685800800,1084,Ural,1,0,2012,PFC Sochi
-1030797,1686139200,1089,Enisey,0,1,1993,Fakel Voronezh
-1030798,1686407400,1993,Fakel Voronezh,2,0,1089,Enisey
-1030799,1686150000,6822,Rodina Moskva,0,3,2011,Nizhny Novgorod
-1030800,1686396600,2011,Nizhny Novgorod,0,2,6822,Rodina Moskva
