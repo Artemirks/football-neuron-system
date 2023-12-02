@@ -1,0 +1,309 @@
+fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+872862,1657909800,745,FC Kaiserslautern,2,1,166,Hannover 96
+872863,1657969200,178,SpVgg Greuther Furth,2,2,191,Holstein Kiel
+872864,1657969200,186,FC St. Pauli,3,2,171,FC Nurnberg
+872865,1658057400,185,SC Paderborn 07,5,0,785,Karlsruher SC
+872866,1658057400,1321,Hansa Rostock,0,1,180,FC Heidenheim
+872867,1657969200,189,SV Sandhausen,2,1,188,Arminia Bielefeld
+872868,1657969200,177,Jahn Regensburg,2,0,181,SV Darmstadt 98
+872869,1657996200,179,FC Magdeburg,1,2,158,Fortuna Dusseldorf
+872870,1658057400,744,Eintracht Braunschweig,0,2,175,Hamburger SV
+872871,1658662200,188,Arminia Bielefeld,0,3,177,Jahn Regensburg
+872872,1658662200,175,Hamburger SV,0,1,1321,Hansa Rostock
+872873,1658507400,181,SV Darmstadt 98,2,1,189,SV Sandhausen
+872874,1658574000,180,FC Heidenheim,3,0,744,Eintracht Braunschweig
+872875,1658574000,171,FC Nurnberg,2,0,178,SpVgg Greuther Furth
+872876,1658574000,191,Holstein Kiel,2,2,745,FC Kaiserslautern
+872877,1658507400,158,Fortuna Dusseldorf,2,1,185,SC Paderborn 07
+872878,1658601000,166,Hannover 96,2,2,186,FC St. Pauli
+872879,1658662200,785,Karlsruher SC,2,3,179,FC Magdeburg
+872880,1659717000,178,SpVgg Greuther Furth,1,1,785,Karlsruher SC
+872881,1659783600,175,Hamburger SV,1,0,180,FC Heidenheim
+872882,1659783600,185,SC Paderborn 07,4,2,166,Hannover 96
+872883,1659810600,1321,Hansa Rostock,2,1,188,Arminia Bielefeld
+872884,1659717000,189,SV Sandhausen,1,0,158,Fortuna Dusseldorf
+872885,1659783600,177,Jahn Regensburg,0,0,171,FC Nurnberg
+872886,1659871800,179,FC Magdeburg,1,2,191,Holstein Kiel
+872887,1659871800,744,Eintracht Braunschweig,0,1,181,SV Darmstadt 98
+872888,1659871800,745,FC Kaiserslautern,2,1,186,FC St. Pauli
+872889,1660388400,188,Arminia Bielefeld,0,2,175,Hamburger SV
+872890,1660415400,181,SV Darmstadt 98,4,0,1321,Hansa Rostock
+872891,1660476600,186,FC St. Pauli,3,0,179,FC Magdeburg
+872892,1660321800,171,FC Nurnberg,0,3,180,FC Heidenheim
+872893,1660388400,191,Holstein Kiel,3,0,744,Eintracht Braunschweig
+872894,1660476600,158,Fortuna Dusseldorf,2,2,178,SpVgg Greuther Furth
+872895,1660476600,166,Hannover 96,1,0,177,Jahn Regensburg
+872896,1660388400,785,Karlsruher SC,3,2,189,SV Sandhausen
+872897,1660321800,745,FC Kaiserslautern,0,1,185,SC Paderborn 07
+872898,1661081400,178,SpVgg Greuther Furth,1,3,745,FC Kaiserslautern
+872899,1660926600,175,Hamburger SV,1,2,181,SV Darmstadt 98
+872900,1661081400,180,FC Heidenheim,1,1,188,Arminia Bielefeld
+872901,1660993200,185,SC Paderborn 07,7,2,191,Holstein Kiel
+872902,1661081400,1321,Hansa Rostock,2,0,186,FC St. Pauli
+872903,1660993200,189,SV Sandhausen,1,2,171,FC Nurnberg
+872904,1660993200,177,Jahn Regensburg,0,6,785,Karlsruher SC
+872905,1660926600,179,FC Magdeburg,0,4,166,Hannover 96
+872906,1661020200,744,Eintracht Braunschweig,2,2,158,Fortuna Dusseldorf
+872907,1661531400,188,Arminia Bielefeld,4,1,744,Eintracht Braunschweig
+872908,1661598000,181,SV Darmstadt 98,2,2,180,FC Heidenheim
+872909,1661598000,186,FC St. Pauli,2,2,185,SC Paderborn 07
+872910,1661625000,171,FC Nurnberg,0,2,175,Hamburger SV
+872911,1661686200,191,Holstein Kiel,1,0,189,SV Sandhausen
+872912,1661531400,158,Fortuna Dusseldorf,4,0,177,Jahn Regensburg
+872913,1661686200,166,Hannover 96,2,1,178,SpVgg Greuther Furth
+872914,1661598000,785,Karlsruher SC,2,0,1321,Hansa Rostock
+872915,1661686200,745,FC Kaiserslautern,4,4,179,FC Magdeburg
+872916,1662202800,178,SpVgg Greuther Furth,2,2,186,FC St. Pauli
+872917,1662229800,175,Hamburger SV,1,0,785,Karlsruher SC
+872918,1662291000,181,SV Darmstadt 98,1,1,188,Arminia Bielefeld
+872919,1662136200,180,FC Heidenheim,2,1,158,Fortuna Dusseldorf
+872920,1662202800,185,SC Paderborn 07,1,0,179,FC Magdeburg
+872921,1662291000,1321,Hansa Rostock,0,1,166,Hannover 96
+872922,1662291000,189,SV Sandhausen,0,0,745,FC Kaiserslautern
+872923,1662202800,177,Jahn Regensburg,0,0,191,Holstein Kiel
+872924,1662136200,744,Eintracht Braunschweig,4,2,171,FC Nurnberg
+872925,1662895800,186,FC St. Pauli,1,1,189,SV Sandhausen
+872926,1662807600,185,SC Paderborn 07,3,0,177,Jahn Regensburg
+872927,1662741000,171,FC Nurnberg,1,0,188,Arminia Bielefeld
+872928,1662741000,191,Holstein Kiel,2,3,175,Hamburger SV
+872929,1662834600,158,Fortuna Dusseldorf,3,1,1321,Hansa Rostock
+872930,1662807600,166,Hannover 96,1,1,744,Eintracht Braunschweig
+872931,1662807600,785,Karlsruher SC,0,0,180,FC Heidenheim
+872932,1662895800,179,FC Magdeburg,2,1,178,SpVgg Greuther Furth
+872933,1662895800,745,FC Kaiserslautern,3,3,181,SV Darmstadt 98
+872934,1663412400,188,Arminia Bielefeld,4,2,191,Holstein Kiel
+872935,1663500600,178,SpVgg Greuther Furth,2,1,185,SC Paderborn 07
+872936,1663439400,175,Hamburger SV,2,0,158,Fortuna Dusseldorf
+872937,1663412400,181,SV Darmstadt 98,2,0,171,FC Nurnberg
+872938,1663500600,180,FC Heidenheim,2,2,745,FC Kaiserslautern
+872939,1663412400,1321,Hansa Rostock,3,1,179,FC Magdeburg
+872940,1663345800,189,SV Sandhausen,2,3,166,Hannover 96
+872941,1663500600,177,Jahn Regensburg,2,0,186,FC St. Pauli
+872942,1663345800,744,Eintracht Braunschweig,2,1,785,Karlsruher SC
+872943,1664622000,178,SpVgg Greuther Furth,1,1,189,SV Sandhausen
+872944,1664649000,186,FC St. Pauli,0,0,180,FC Heidenheim
+872945,1664555400,185,SC Paderborn 07,1,2,181,SV Darmstadt 98
+872946,1664622000,191,Holstein Kiel,1,1,1321,Hansa Rostock
+872947,1664622000,158,Fortuna Dusseldorf,4,1,188,Arminia Bielefeld
+872948,1664555400,166,Hannover 96,1,2,175,Hamburger SV
+872949,1664710200,785,Karlsruher SC,3,0,171,FC Nurnberg
+872950,1664710200,179,FC Magdeburg,1,0,177,Jahn Regensburg
+872951,1664710200,745,FC Kaiserslautern,1,1,744,Eintracht Braunschweig
+872952,1665160200,188,Arminia Bielefeld,1,2,785,Karlsruher SC
+872953,1665253800,175,Hamburger SV,1,1,745,FC Kaiserslautern
+872954,1665226800,181,SV Darmstadt 98,1,0,158,Fortuna Dusseldorf
+872955,1665315000,180,FC Heidenheim,2,1,166,Hannover 96
+872956,1665315000,171,FC Nurnberg,2,3,191,Holstein Kiel
+872957,1665226800,1321,Hansa Rostock,0,3,185,SC Paderborn 07
+872958,1665315000,189,SV Sandhausen,1,0,179,FC Magdeburg
+872959,1665160200,177,Jahn Regensburg,2,2,178,SpVgg Greuther Furth
+872960,1665226800,744,Eintracht Braunschweig,2,1,186,FC St. Pauli
+872961,1665765000,178,SpVgg Greuther Furth,2,2,1321,Hansa Rostock
+872962,1665765000,186,FC St. Pauli,3,0,175,Hamburger SV
+872963,1665919800,185,SC Paderborn 07,3,0,189,SV Sandhausen
+872964,1665919800,191,Holstein Kiel,3,1,180,FC Heidenheim
+872965,1665831600,158,Fortuna Dusseldorf,0,1,171,FC Nurnberg
+872966,1665858600,166,Hannover 96,2,0,188,Arminia Bielefeld
+872967,1665831600,785,Karlsruher SC,1,2,181,SV Darmstadt 98
+872968,1665831600,179,FC Magdeburg,0,2,744,Eintracht Braunschweig
+872969,1665919800,745,FC Kaiserslautern,0,3,177,Jahn Regensburg
+872970,1666463400,188,Arminia Bielefeld,2,0,186,FC St. Pauli
+872971,1666524600,175,Hamburger SV,2,3,179,FC Magdeburg
+872972,1666369800,181,SV Darmstadt 98,1,1,191,Holstein Kiel
+872973,1666524600,180,FC Heidenheim,3,1,178,SpVgg Greuther Furth
+872974,1666436400,171,FC Nurnberg,0,0,166,Hannover 96
+872975,1666524600,785,Karlsruher SC,0,2,158,Fortuna Dusseldorf
+872976,1666369800,1321,Hansa Rostock,0,2,745,FC Kaiserslautern
+872977,1666436400,177,Jahn Regensburg,2,1,189,SV Sandhausen
+872978,1666436400,744,Eintracht Braunschweig,0,0,185,SC Paderborn 07
+872979,1666974600,178,SpVgg Greuther Furth,1,0,188,Arminia Bielefeld
+872980,1667068200,186,FC St. Pauli,1,1,181,SV Darmstadt 98
+872981,1667133000,185,SC Paderborn 07,2,3,175,Hamburger SV
+872982,1667041200,191,Holstein Kiel,1,2,158,Fortuna Dusseldorf
+872983,1667133000,166,Hannover 96,1,0,785,Karlsruher SC
+872984,1667133000,189,SV Sandhausen,2,2,744,Eintracht Braunschweig
+872985,1667041200,177,Jahn Regensburg,0,3,1321,Hansa Rostock
+872986,1666974600,179,FC Magdeburg,1,1,180,FC Heidenheim
+872987,1667041200,745,FC Kaiserslautern,0,0,171,FC Nurnberg
+872988,1667676600,188,Arminia Bielefeld,2,3,745,FC Kaiserslautern
+872989,1667737800,175,Hamburger SV,3,1,177,Jahn Regensburg
+872990,1667583000,181,SV Darmstadt 98,1,0,166,Hannover 96
+872991,1667649600,180,FC Heidenheim,3,0,185,SC Paderborn 07
+872992,1667737800,171,FC Nurnberg,1,2,179,FC Magdeburg
+872993,1667649600,158,Fortuna Dusseldorf,1,0,186,FC St. Pauli
+872994,1667649600,785,Karlsruher SC,1,4,191,Holstein Kiel
+872995,1667583000,1321,Hansa Rostock,0,1,189,SV Sandhausen
+872996,1667737800,744,Eintracht Braunschweig,0,1,178,SpVgg Greuther Furth
+872997,1668015000,178,SpVgg Greuther Furth,1,0,175,Hamburger SV
+872998,1667928600,186,FC St. Pauli,0,0,191,Holstein Kiel
+872999,1667928600,185,SC Paderborn 07,0,2,188,Arminia Bielefeld
+873000,1667928600,166,Hannover 96,2,0,158,Fortuna Dusseldorf
+873001,1668015000,1321,Hansa Rostock,1,1,171,FC Nurnberg
+873002,1668015000,189,SV Sandhausen,3,4,180,FC Heidenheim
+873003,1668015000,177,Jahn Regensburg,1,1,744,Eintracht Braunschweig
+873004,1668108600,179,FC Magdeburg,0,1,181,SV Darmstadt 98
+873005,1667928600,745,FC Kaiserslautern,2,0,785,Karlsruher SC
+873006,1668342600,188,Arminia Bielefeld,3,1,179,FC Magdeburg
+873007,1668254400,175,Hamburger SV,4,2,189,SV Sandhausen
+873008,1668342600,181,SV Darmstadt 98,1,1,178,SpVgg Greuther Furth
+873009,1668254400,180,FC Heidenheim,5,4,177,Jahn Regensburg
+873010,1668342600,171,FC Nurnberg,2,1,185,SC Paderborn 07
+873011,1668187800,191,Holstein Kiel,1,1,166,Hannover 96
+873012,1668187800,158,Fortuna Dusseldorf,1,2,745,FC Kaiserslautern
+873013,1668254400,785,Karlsruher SC,4,4,186,FC St. Pauli
+873014,1668281400,744,Eintracht Braunschweig,0,1,1321,Hansa Rostock
+873015,1674995400,188,Arminia Bielefeld,1,2,189,SV Sandhausen
+873016,1674995400,175,Hamburger SV,4,2,744,Eintracht Braunschweig
+873017,1674907200,181,SV Darmstadt 98,2,0,177,Jahn Regensburg
+873018,1674907200,180,FC Heidenheim,2,0,1321,Hansa Rostock
+873019,1674995400,171,FC Nurnberg,0,1,186,FC St. Pauli
+873020,1674907200,191,Holstein Kiel,2,1,178,SpVgg Greuther Furth
+873021,1674840600,158,Fortuna Dusseldorf,3,2,179,FC Magdeburg
+873022,1674934200,166,Hannover 96,1,3,745,FC Kaiserslautern
+873023,1674840600,785,Karlsruher SC,0,1,185,SC Paderborn 07
+873024,1675539000,178,SpVgg Greuther Furth,1,0,171,FC Nurnberg
+873025,1675600200,186,FC St. Pauli,2,0,166,Hannover 96
+873026,1675445400,185,SC Paderborn 07,4,1,158,Fortuna Dusseldorf
+873027,1675600200,1321,Hansa Rostock,0,2,175,Hamburger SV
+873028,1675445400,189,SV Sandhausen,0,4,181,SV Darmstadt 98
+873029,1675512000,177,Jahn Regensburg,1,3,188,Arminia Bielefeld
+873030,1675600200,179,FC Magdeburg,1,1,785,Karlsruher SC
+873031,1675512000,744,Eintracht Braunschweig,2,0,180,FC Heidenheim
+873032,1675512000,745,FC Kaiserslautern,2,1,191,Holstein Kiel
+873033,1676050200,188,Arminia Bielefeld,0,1,1321,Hansa Rostock
+873034,1676205000,181,SV Darmstadt 98,2,1,744,Eintracht Braunschweig
+873035,1676205000,186,FC St. Pauli,1,0,745,FC Kaiserslautern
+873036,1676143800,180,FC Heidenheim,3,3,175,Hamburger SV
+873037,1676116800,171,FC Nurnberg,1,0,177,Jahn Regensburg
+873038,1676116800,191,Holstein Kiel,2,3,179,FC Magdeburg
+873039,1676205000,158,Fortuna Dusseldorf,2,0,189,SV Sandhausen
+873040,1676116800,166,Hannover 96,3,4,185,SC Paderborn 07
+873041,1676050200,785,Karlsruher SC,2,1,178,SpVgg Greuther Furth
+873042,1676721600,178,SpVgg Greuther Furth,2,1,158,Fortuna Dusseldorf
+873043,1676809800,175,Hamburger SV,2,1,188,Arminia Bielefeld
+873044,1676809800,180,FC Heidenheim,5,0,171,FC Nurnberg
+873045,1676655000,185,SC Paderborn 07,1,0,745,FC Kaiserslautern
+873046,1676748600,1321,Hansa Rostock,0,1,181,SV Darmstadt 98
+873047,1676809800,189,SV Sandhausen,0,3,785,Karlsruher SC
+873048,1676721600,177,Jahn Regensburg,1,1,166,Hannover 96
+873049,1676721600,179,FC Magdeburg,1,2,186,FC St. Pauli
+873050,1676655000,744,Eintracht Braunschweig,2,3,191,Holstein Kiel
+873051,1677414600,188,Arminia Bielefeld,0,1,180,FC Heidenheim
+873052,1677353400,181,SV Darmstadt 98,1,1,175,Hamburger SV
+873053,1677414600,186,FC St. Pauli,1,0,1321,Hansa Rostock
+873054,1677326400,171,FC Nurnberg,1,0,189,SV Sandhausen
+873055,1677326400,191,Holstein Kiel,1,1,185,SC Paderborn 07
+873056,1677259800,158,Fortuna Dusseldorf,3,1,744,Eintracht Braunschweig
+873057,1677414600,166,Hannover 96,1,2,179,FC Magdeburg
+873058,1677259800,785,Karlsruher SC,1,0,177,Jahn Regensburg
+873059,1677326400,745,FC Kaiserslautern,3,1,178,SpVgg Greuther Furth
+873060,1678019400,178,SpVgg Greuther Furth,1,1,166,Hannover 96
+873061,1677931200,175,Hamburger SV,3,0,171,FC Nurnberg
+873062,1677958200,180,FC Heidenheim,1,0,181,SV Darmstadt 98
+873063,1677864600,185,SC Paderborn 07,1,2,186,FC St. Pauli
+873064,1678019400,1321,Hansa Rostock,0,2,785,Karlsruher SC
+873065,1677931200,189,SV Sandhausen,1,1,191,Holstein Kiel
+873066,1677931200,177,Jahn Regensburg,0,1,158,Fortuna Dusseldorf
+873067,1677864600,179,FC Magdeburg,2,0,745,FC Kaiserslautern
+873068,1678019400,744,Eintracht Braunschweig,3,3,188,Arminia Bielefeld
+873069,1678536000,188,Arminia Bielefeld,3,1,181,SV Darmstadt 98
+873070,1678536000,186,FC St. Pauli,2,1,178,SpVgg Greuther Furth
+873071,1678469400,171,FC Nurnberg,2,0,744,Eintracht Braunschweig
+873072,1678624200,191,Holstein Kiel,1,2,177,Jahn Regensburg
+873073,1678563000,158,Fortuna Dusseldorf,1,1,180,FC Heidenheim
+873074,1678624200,166,Hannover 96,1,1,1321,Hansa Rostock
+873075,1678624200,785,Karlsruher SC,4,2,175,Hamburger SV
+873076,1678536000,179,FC Magdeburg,0,0,185,SC Paderborn 07
+873077,1678469400,745,FC Kaiserslautern,2,2,189,SV Sandhausen
+873078,1679074200,188,Arminia Bielefeld,2,2,171,FC Nurnberg
+873079,1679140800,178,SpVgg Greuther Furth,3,0,179,FC Magdeburg
+873080,1679140800,175,Hamburger SV,0,0,191,Holstein Kiel
+873081,1679167800,181,SV Darmstadt 98,2,0,745,FC Kaiserslautern
+873082,1679074200,180,FC Heidenheim,5,2,785,Karlsruher SC
+873083,1679229000,1321,Hansa Rostock,2,5,158,Fortuna Dusseldorf
+873084,1679229000,189,SV Sandhausen,0,5,186,FC St. Pauli
+873085,1679140800,177,Jahn Regensburg,1,0,185,SC Paderborn 07
+873086,1679229000,744,Eintracht Braunschweig,1,0,166,Hannover 96
+873087,1680346800,186,FC St. Pauli,1,0,177,Jahn Regensburg
+873088,1680435000,185,SC Paderborn 07,3,2,178,SpVgg Greuther Furth
+873089,1680280200,171,FC Nurnberg,0,1,181,SV Darmstadt 98
+873090,1680435000,191,Holstein Kiel,2,3,188,Arminia Bielefeld
+873091,1680280200,158,Fortuna Dusseldorf,2,2,175,Hamburger SV
+873092,1680346800,166,Hannover 96,3,1,189,SV Sandhausen
+873093,1680346800,785,Karlsruher SC,1,1,744,Eintracht Braunschweig
+873094,1680435000,179,FC Magdeburg,3,0,1321,Hansa Rostock
+873095,1680373800,745,FC Kaiserslautern,2,2,180,FC Heidenheim
+873096,1681039800,188,Arminia Bielefeld,2,2,158,Fortuna Dusseldorf
+873097,1680951600,175,Hamburger SV,6,1,166,Hannover 96
+873098,1681039800,181,SV Darmstadt 98,2,1,185,SC Paderborn 07
+873099,1680978600,180,FC Heidenheim,0,1,186,FC St. Pauli
+873100,1680951600,171,FC Nurnberg,1,1,785,Karlsruher SC
+873101,1681039800,1321,Hansa Rostock,2,3,191,Holstein Kiel
+873102,1681039800,189,SV Sandhausen,0,2,178,SpVgg Greuther Furth
+873103,1681039800,177,Jahn Regensburg,2,2,179,FC Magdeburg
+873104,1680951600,744,Eintracht Braunschweig,1,0,745,FC Kaiserslautern
+873105,1681489800,178,SpVgg Greuther Furth,2,1,177,Jahn Regensburg
+873106,1681644600,186,FC St. Pauli,1,2,744,Eintracht Braunschweig
+873107,1681556400,185,SC Paderborn 07,3,0,1321,Hansa Rostock
+873108,1681556400,191,Holstein Kiel,2,1,171,FC Nurnberg
+873109,1681644600,158,Fortuna Dusseldorf,1,0,181,SV Darmstadt 98
+873110,1681489800,166,Hannover 96,0,3,180,FC Heidenheim
+873111,1681644600,785,Karlsruher SC,4,2,188,Arminia Bielefeld
+873112,1681556400,179,FC Magdeburg,1,2,189,SV Sandhausen
+873113,1681583400,745,FC Kaiserslautern,2,0,175,Hamburger SV
+873114,1682161200,188,Arminia Bielefeld,1,3,166,Hannover 96
+873115,1682094600,175,Hamburger SV,4,3,186,FC St. Pauli
+873116,1682094600,181,SV Darmstadt 98,2,1,785,Karlsruher SC
+873117,1682249400,180,FC Heidenheim,3,0,191,Holstein Kiel
+873118,1682161200,171,FC Nurnberg,2,0,158,Fortuna Dusseldorf
+873119,1682161200,1321,Hansa Rostock,2,0,178,SpVgg Greuther Furth
+873120,1682249400,189,SV Sandhausen,2,2,185,SC Paderborn 07
+873121,1682249400,177,Jahn Regensburg,0,0,745,FC Kaiserslautern
+873122,1682188200,744,Eintracht Braunschweig,1,2,179,FC Magdeburg
+873123,1682699400,178,SpVgg Greuther Furth,0,2,180,FC Heidenheim
+873124,1682766000,186,FC St. Pauli,2,1,188,Arminia Bielefeld
+873125,1682699400,185,SC Paderborn 07,5,1,744,Eintracht Braunschweig
+873126,1682854200,191,Holstein Kiel,0,3,181,SV Darmstadt 98
+873127,1682854200,158,Fortuna Dusseldorf,3,2,785,Karlsruher SC
+873128,1682793000,166,Hannover 96,3,0,171,FC Nurnberg
+873129,1682854200,189,SV Sandhausen,2,1,177,Jahn Regensburg
+873130,1682766000,179,FC Magdeburg,3,2,175,Hamburger SV
+873131,1682766000,745,FC Kaiserslautern,0,1,1321,Hansa Rostock
+873132,1683304200,188,Arminia Bielefeld,1,1,178,SpVgg Greuther Furth
+873133,1683304200,175,Hamburger SV,2,2,185,SC Paderborn 07
+873134,1683397800,181,SV Darmstadt 98,0,3,186,FC St. Pauli
+873135,1683459000,180,FC Heidenheim,0,0,179,FC Magdeburg
+873136,1683459000,171,FC Nurnberg,3,3,745,FC Kaiserslautern
+873137,1683370800,158,Fortuna Dusseldorf,3,0,191,Holstein Kiel
+873138,1683370800,785,Karlsruher SC,2,1,166,Hannover 96
+873139,1683370800,1321,Hansa Rostock,2,0,177,Jahn Regensburg
+873140,1683459000,744,Eintracht Braunschweig,2,1,189,SV Sandhausen
+873141,1683975600,178,SpVgg Greuther Furth,2,2,744,Eintracht Braunschweig
+873142,1684002600,186,FC St. Pauli,0,0,158,Fortuna Dusseldorf
+873143,1684063800,185,SC Paderborn 07,3,2,180,FC Heidenheim
+873144,1683975600,191,Holstein Kiel,2,1,785,Karlsruher SC
+873145,1684063800,166,Hannover 96,2,1,181,SV Darmstadt 98
+873146,1683909000,189,SV Sandhausen,1,2,1321,Hansa Rostock
+873147,1684063800,177,Jahn Regensburg,1,5,175,Hamburger SV
+873148,1683909000,179,FC Magdeburg,2,2,171,FC Nurnberg
+873149,1683975600,745,FC Kaiserslautern,1,2,188,Arminia Bielefeld
+873150,1684580400,188,Arminia Bielefeld,2,2,185,SC Paderborn 07
+873151,1684607400,175,Hamburger SV,2,1,178,SpVgg Greuther Furth
+873152,1684513800,181,SV Darmstadt 98,1,0,179,FC Magdeburg
+873153,1684580400,180,FC Heidenheim,1,0,189,SV Sandhausen
+873154,1684668600,171,FC Nurnberg,0,0,1321,Hansa Rostock
+873155,1684513800,191,Holstein Kiel,3,4,186,FC St. Pauli
+873156,1684668600,158,Fortuna Dusseldorf,3,3,166,Hannover 96
+873157,1684668600,785,Karlsruher SC,2,0,745,FC Kaiserslautern
+873158,1684580400,744,Eintracht Braunschweig,1,2,177,Jahn Regensburg
+873159,1685280600,178,SpVgg Greuther Furth,4,0,181,SV Darmstadt 98
+873160,1685280600,186,FC St. Pauli,1,1,785,Karlsruher SC
+873161,1685280600,185,SC Paderborn 07,0,1,171,FC Nurnberg
+873162,1685280600,166,Hannover 96,1,5,191,Holstein Kiel
+873163,1685280600,1321,Hansa Rostock,2,1,744,Eintracht Braunschweig
+873164,1685280600,189,SV Sandhausen,0,1,175,Hamburger SV
+873165,1685280600,177,Jahn Regensburg,2,3,180,FC Heidenheim
+873166,1685280600,179,FC Magdeburg,4,0,188,Arminia Bielefeld
+873167,1685280600,745,FC Kaiserslautern,0,3,158,Fortuna Dusseldorf
+1029216,1685731500,1319,SV Wehen,4,0,188,Arminia Bielefeld
+1029217,1686077100,188,Arminia Bielefeld,1,2,1319,SV Wehen

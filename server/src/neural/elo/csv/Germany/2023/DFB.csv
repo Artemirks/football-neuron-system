@@ -1,0 +1,49 @@
+fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+1036568,1692028800,1634,FC 08 Homburg,3,0,181,SV Darmstadt 98
+1036569,1691856000,1316,Hallescher FC,0,1,178,SpVgg Greuther Furth
+1036570,1691769600,189,SV Sandhausen,3,3,166,Hannover 96
+1036571,1692038700,1324,VfL Osnabruck,1,3,192,FC Koln
+1036572,1691847000,4260,Atlas Delmenhorst,0,5,186,FC St. Pauli
+1036573,1691933400,9330,Illertissen,1,3,158,Fortuna Dusseldorf
+1036574,1691933400,14722,Makkabi,0,6,161,VfL Wolfsburg
+1036575,1691933400,1657,TuS RW Koblenz,0,5,745,FC Kaiserslautern
+1036576,1691933400,1314,SpVgg Unterhaching,2,0,170,FC Augsburg
+1036577,1691924400,14762,Rostocker FC,0,8,180,FC Heidenheim
+1036578,1692028800,177,Jahn Regensburg,1,2,179,FC Magdeburg
+1036579,1691942400,1320,Energie Cottbus,0,7,185,SC Paderborn 07
+1036580,1691847000,4263,Oberneuland,1,9,171,FC Nurnberg
+1036581,1692028800,1625,VfB Lubeck,1,4,167,1899 Hoffenheim
+1036582,1691838000,9360,Balingen,0,4,172,VfB Stuttgart
+1036583,1691847000,14524,Schott Mainz,1,6,165,Borussia Dortmund
+1036584,1691924400,1621,Rot-weiss Essen,3,4,175,Hamburger SV
+1036585,1691856000,1660,SV Elversberg,0,1,164,FSV Mainz 05
+1036586,1691933400,9355,Lokomotive Leipzig,0,7,169,Eintracht Frankfurt
+1036587,1691942400,1626,FC Astoria Walldorf,0,4,182,Union Berlin
+1036588,1691847000,1620,FC Viktoria Koln,3,2,162,Werder Bremen
+1036589,1691942400,1332,FSV Frankfurt,1,1,1321,Hansa Rostock
+1036590,1691847000,12878,Teutonia Ottensen,0,8,168,Bayer Leverkusen
+1036591,1691838000,1325,Carl Zeiss Jena,0,5,159,Hertha Berlin
+1036592,1691769600,1639,FC Saarbrücken,2,1,785,Karlsruher SC
+1036593,1691847000,14485,FC Gutersloh,0,2,191,Holstein Kiel
+1036594,1691933400,12822,Oberachern,0,2,160,SC Freiburg
+1036595,1691769600,14635,Bersenbrück,0,7,163,Borussia Monchengladbach
+1036596,1691856000,188,Arminia Bielefeld,2,2,176,VfL BOCHUM
+1036597,1691779500,744,Eintracht Braunschweig,1,3,174,FC Schalke 04
+1036598,1695753900,1313,Preussen Munster,0,4,157,Bayern Munich
+1036599,1695840300,1319,SV Wehen,2,3,173,RB Leipzig
+1136756,1698867900,1620,FC Viktoria Koln,0,2,169,Eintracht Frankfurt
+1136757,1698781500,188,Arminia Bielefeld,1,1,175,Hamburger SV
+1136758,1698771600,1634,FC 08 Homburg,2,1,178,SpVgg Greuther Furth
+1136759,1698781500,1314,SpVgg Unterhaching,3,6,158,Fortuna Dusseldorf
+1136760,1698858000,189,SV Sandhausen,2,5,168,Bayer Leverkusen
+1136761,1698867900,1639,FC Saarbrücken,2,1,157,Bayern Munich
+1136762,1698771600,186,FC St. Pauli,2,1,174,FC Schalke 04
+1136763,1698867900,171,FC Nurnberg,3,2,1321,Hansa Rostock
+1136764,1698781500,163,Borussia Monchengladbach,3,1,180,FC Heidenheim
+1136765,1698858000,191,Holstein Kiel,3,3,179,FC Magdeburg
+1136766,1698858000,160,SC Freiburg,1,3,185,SC Paderborn 07
+1136767,1698771600,172,VfB Stuttgart,1,0,182,Union Berlin
+1136768,1698867900,159,Hertha Berlin,3,0,164,FSV Mainz 05
+1136769,1698858000,165,Borussia Dortmund,1,0,167,1899 Hoffenheim
+1136770,1698771600,161,VfL Wolfsburg,1,0,173,RB Leipzig
+1136771,1698781500,745,FC Kaiserslautern,3,2,192,FC Koln

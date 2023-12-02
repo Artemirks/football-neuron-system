@@ -1,0 +1,64 @@
+fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+864317,1659187860,177,Jahn Regensburg,2,2,192,FC Koln
+864318,1659274260,12767,FV Engers 07,1,7,188,Arminia Bielefeld
+864319,1659187860,1625,VfB Lubeck,1,0,1321,Hansa Rostock
+864320,1659110400,12799,Kaan-Marienborn,0,2,171,FC Nurnberg
+864321,1659274260,14524,Schott Mainz,0,3,166,Hannover 96
+864322,1659110400,12820,Neustrelitz,0,8,785,Karlsruher SC
+864323,1661885160,12878,Teutonia Ottensen,0,8,173,RB Leipzig
+864324,1659110400,183,Dynamo Dresden,0,1,172,VfB Stuttgart
+864325,1659178860,4266,Viktoria Berlin,0,3,176,VfL BOCHUM
+864326,1659369660,1328,Chemnitzer FC,1,2,182,Union Berlin
+864327,1659187860,1660,SV Elversberg,4,3,168,Bayer Leverkusen
+864328,1659265260,9345,Schwarz-Weiß Rehden,0,4,189,SV Sandhausen
+864329,1659187860,17035,Einheit Wernigerode,0,10,185,SC Paderborn 07
+864330,1659274260,1650,SV Rodinghausen,0,2,167,1899 Hoffenheim
+864331,1659187860,9330,Illertissen,0,2,180,FC Heidenheim
+864332,1659196860,1628,Kickers Offenbach,1,4,158,Fortuna Dusseldorf
+864333,1659283260,744,Eintracht Braunschweig,4,4,159,Hertha Berlin
+864334,1659120300,786,TSV 1860 Munich,0,3,165,Borussia Dortmund
+864335,1659274260,745,FC Kaiserslautern,1,2,160,SC Freiburg
+864336,1659274260,12822,Oberachern,1,9,163,Borussia Monchengladbach
+864337,1659369660,184,FC Ingolstadt 04,0,3,181,SV Darmstadt 98
+864338,1659283260,4268,Waldhof Mannheim,0,0,191,Holstein Kiel
+864339,1659274260,14629,BW Lohne,0,4,170,FC Augsburg
+864340,1659178860,12862,Straelen,3,4,186,FC St. Pauli
+864341,1659187860,9325,Bayreuth,1,3,175,Hamburger SV
+864342,1659283260,190,Erzgebirge AUE,0,3,164,FSV Mainz 05
+864343,1659369660,1320,Energie Cottbus,1,2,162,Werder Bremen
+864344,1659265260,1630,Bremer Sv,0,5,174,FC Schalke 04
+864345,1659196860,1325,Carl Zeiss Jena,0,1,161,VfL Wolfsburg
+864346,1659196860,12868,Stuttgarter Kickers,2,0,178,SpVgg Greuther Furth
+864347,1661971560,1620,FC Viktoria Koln,0,5,157,Bayern Munich
+864348,1659379560,179,FC Magdeburg,0,4,169,Eintracht Frankfurt
+958518,1666108800,1625,VfB Lubeck,0,3,164,FSV Mainz 05
+958519,1666108800,12868,Stuttgarter Kickers,0,2,169,Eintracht Frankfurt
+958520,1666118700,1660,SV Elversberg,0,1,176,VfL BOCHUM
+958521,1666108800,4268,Waldhof Mannheim,0,1,171,FC Nurnberg
+958522,1666118700,744,Eintracht Braunschweig,1,2,161,VfL Wolfsburg
+958523,1666195200,166,Hannover 96,0,2,165,Borussia Dortmund
+958524,1666195200,160,SC Freiburg,2,1,186,FC St. Pauli
+958525,1666108800,173,RB Leipzig,4,0,175,Hamburger SV
+958526,1666205100,170,FC Augsburg,2,5,157,Bayern Munich
+958527,1666195200,189,SV Sandhausen,2,2,785,Karlsruher SC
+958528,1666118700,167,1899 Hoffenheim,5,1,174,FC Schalke 04
+958529,1666205100,172,VfB Stuttgart,6,0,188,Arminia Bielefeld
+958530,1666195200,185,SC Paderborn 07,2,2,162,Werder Bremen
+958531,1666205100,182,Union Berlin,2,0,180,FC Heidenheim
+958532,1666205100,177,Jahn Regensburg,0,3,158,Fortuna Dusseldorf
+958533,1666118700,181,SV Darmstadt 98,2,1,163,Borussia Monchengladbach
+968254,1675789200,189,SV Sandhausen,0,2,160,SC Freiburg
+968255,1675184400,185,SC Paderborn 07,1,2,172,VfB Stuttgart
+968256,1675194300,182,Union Berlin,2,1,161,VfL Wolfsburg
+968257,1675799100,169,Eintracht Frankfurt,4,2,181,SV Darmstadt 98
+968258,1675885500,176,VfL BOCHUM,1,2,165,Borussia Dortmund
+968259,1675280700,164,FSV Mainz 05,0,4,157,Bayern Munich
+968260,1675270800,173,RB Leipzig,3,1,167,1899 Hoffenheim
+968261,1675875600,171,FC Nurnberg,1,1,158,Fortuna Dusseldorf
+1008958,1680720300,173,RB Leipzig,2,0,165,Borussia Dortmund
+1008959,1680710400,171,FC Nurnberg,0,1,172,VfB Stuttgart
+1008960,1680624000,169,Eintracht Frankfurt,2,0,182,Union Berlin
+1008961,1680633900,157,Bayern Munich,1,2,160,SC Freiburg
+1021522,1683053100,160,SC Freiburg,1,5,173,RB Leipzig
+1021523,1683139500,172,VfB Stuttgart,2,3,169,Eintracht Frankfurt
+1025223,1685815200,173,RB Leipzig,2,0,169,Eintracht Frankfurt

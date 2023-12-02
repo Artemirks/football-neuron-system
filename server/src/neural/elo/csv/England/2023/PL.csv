@@ -119,3 +119,13 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1035154,1699714800,33,Manchester United,1,0,1359,Luton
 1035155,1699797600,48,West Ham,3,2,65,Nottingham Forest
 1035156,1699705800,39,Wolves,2,1,47,Tottenham
+1035294,1700933400,55,Brentford,0,1,42,Arsenal
+1035295,1700924400,44,Burnley,1,2,48,West Ham
+1035296,1701016200,45,Everton,0,3,33,Manchester United
+1035297,1701115200,36,Fulham,3,2,39,Wolves
+1035298,1700924400,1359,Luton,2,1,52,Crystal Palace
+1035299,1700915400,50,Manchester City,1,1,40,Liverpool
+1035300,1700924400,34,Newcastle,4,1,49,Chelsea
+1035301,1700924400,65,Nottingham Forest,2,3,51,Brighton
+1035302,1700924400,62,Sheffield Utd,1,3,35,Bournemouth
+1035303,1701007200,47,Tottenham,1,2,66,Aston Villa

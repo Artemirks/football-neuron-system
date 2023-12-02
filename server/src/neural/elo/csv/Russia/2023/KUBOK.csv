@@ -135,3 +135,7 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1139471,1698930000,6786,Akron,0,1,2004,Volgar Astrakhan
 1139472,1698843600,1994,Khimki,4,0,16856,Dinamo Vladivostok
 1139473,1698836400,14116,Forte Taganrog,0,2,1087,Ska-khabarovsk
+1141319,1701262800,1080,Orenburg,1,0,558,Spartak Moscow
+1141321,1701270900,1088,Dinamo Moscow,1,0,596,Zenit Saint Petersburg
+1141323,1701184500,2006,Baltika,2,2,597,Lokomotiv Moscow
+1141325,1701270900,779,FC Rostov,1,1,555,CSKA Moscow
