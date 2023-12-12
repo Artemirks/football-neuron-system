@@ -9,7 +9,7 @@ const pool = new Pool({
     password: process.env.DB_PASSWORD,
     host: 'localhost',
     port: 5432,
-    database: 'football',
+    database: 'new_football',
 });
 
 // Экспортируем пул соединений для использования в моделях

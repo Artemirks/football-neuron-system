@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 874671,1659121200,37,Huddersfield,0,1,44,Burnley
 874672,1659189600,67,Blackburn,1,0,72,QPR
 874673,1659189600,1356,Blackpool,1,0,53,Reading

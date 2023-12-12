@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 1048881,1692383400,162,Werder Bremen,0,4,157,Bayern Munich
 1048882,1692462600,165,Borussia Dortmund,1,0,192,FC Koln
 1048883,1692538200,182,Union Berlin,4,1,164,FSV Mainz 05
@@ -107,3 +107,20 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1048986,1701016200,167,1899 Hoffenheim,1,1,164,FSV Mainz 05
 1048987,1700922600,162,Werder Bremen,0,3,168,Bayer Leverkusen
 1048988,1701009000,180,FC Heidenheim,0,0,176,VfL BOCHUM
+1048990,1701527400,173,RB Leipzig,2,1,180,FC Heidenheim
+1048991,1701621000,168,Bayer Leverkusen,1,1,165,Borussia Dortmund
+1048992,1701613800,164,FSV Mainz 05,0,1,160,SC Freiburg
+1048993,1701527400,163,Borussia Monchengladbach,2,1,167,1899 Hoffenheim
+1048994,1701527400,176,VfL BOCHUM,3,1,161,VfL Wolfsburg
+1048995,1701628200,170,FC Augsburg,2,1,169,Eintracht Frankfurt
+1048996,1701538200,172,VfB Stuttgart,2,0,162,Werder Bremen
+1048997,1701459000,181,SV Darmstadt 98,0,1,192,FC Koln
+1048998,1702143000,165,Borussia Dortmund,2,3,173,RB Leipzig
+1048999,1702132200,182,Union Berlin,3,1,163,Borussia Monchengladbach
+1049000,1702132200,169,Eintracht Frankfurt,5,1,157,Bayern Munich
+1049001,1702132200,161,VfL Wolfsburg,0,1,160,SC Freiburg
+1049002,1702225800,192,FC Koln,0,0,164,FSV Mainz 05
+1049003,1702063800,167,1899 Hoffenheim,3,1,176,VfL BOCHUM
+1049004,1702132200,162,Werder Bremen,2,0,170,FC Augsburg
+1049005,1702218600,172,VfB Stuttgart,1,1,168,Bayer Leverkusen
+1049006,1702132200,180,FC Heidenheim,3,2,181,SV Darmstadt 98

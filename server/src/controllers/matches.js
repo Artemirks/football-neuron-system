@@ -12,9 +12,14 @@ const getAllMatches = async (req, res) => {
     }
 };
 
-const createMatch = async (id, matchDate, championID, homeTeamID, awayTeamID, predictedHomeTeamGoals, predictedAwayTeamGoals, matchStatus) => {
+const createMatch = async (item) => {
     try {
-        await matchModel.createMatchDate(id, matchDate, championID, homeTeamID, awayTeamID, predictedHomeTeamGoals, predictedAwayTeamGoals, matchStatus);
+        const item_todb = Object.fromEntries(
+            Object.entries(item).filter(([_, value]) => value !== null)
+        );
+        item_todb.time = new Date(item_todb.time * 1000)
+        await matchModel.createMatchDate(item_todb, 'Прогноз')
+        //await matchModel.createMatchDate(id, matchDate, championID, homeTeamID, awayTeamID, predictedHomeTeamGoals, predictedAwayTeamGoals, matchStatus);
     } catch (err) {
         console.error(err.message);
     }
@@ -61,6 +66,15 @@ const setLastStatus = async (leagueID) => {
     }
 };
 
+const getIDbyTeamIDAndLeague = async (teamId) => {
+    try {
+        const id = await matchModel.getIDbyTeamIDAndLeague(teamId)
+        return id
+    } catch (error) {
+        console.error(error.message)
+    }
+}
+
 module.exports = {
     getAllMatches,
     createMatch,
@@ -68,6 +82,7 @@ module.exports = {
     updateDataMatch,
     deleteOldMatches,
     setLastStatus,
-    updatePredWithNewXG
-    // другие методы CRUD
+    updatePredWithNewXG,
+    getIDbyTeamIDAndLeague
+
 };

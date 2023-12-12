@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 941560,1663167600,6815,Metallurg Lipetsk,1,2,2010,Rotor Volgograd
 941561,1661868000,2002,Spartak Nalchik,1,0,6814,Mashuk-KMV
 941562,1661959800,6791,Chernomorets,2,0,6798,Druzhba

@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 1099015,1691768700,512,Frosinone,1,0,801,Pisa
 1099016,1691780400,495,Genoa,4,3,899,Modena
 1099017,1691855100,511,Empoli,1,2,510,Cittadella
@@ -27,3 +27,5 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1119495,1698760800,520,Cremonese,2,1,510,Cittadella
 1119496,1698771600,514,Salernitana,4,0,498,Sampdoria
 1119497,1698955200,503,Torino,1,2,512,Frosinone
+1140932,1701806400,487,Lazio,1,0,495,Genoa
+1140933,1701892800,502,Fiorentina,2,2,523,Parma

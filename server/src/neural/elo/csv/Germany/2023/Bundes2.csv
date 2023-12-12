@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 1048575,1690569000,175,Hamburger SV,5,3,174,FC Schalke 04
 1048576,1690655400,158,Fortuna Dusseldorf,1,0,159,Hertha Berlin
 1048577,1690628400,745,FC Kaiserslautern,1,2,186,FC St. Pauli

@@ -32,7 +32,7 @@ const getNameTeamByID = async (teamId) => {
             name
         }]
     } = await pool.query(
-        'SELECT "name" from public."Teams" WHERE "ID" = $1', [teamId]
+        'SELECT t."name" from public."teams" as t JOIN public."leagues_teams" as lt on t."id" = lt."id_team" WHERE lt."id" = $1', [teamId]
     );
     return name;
 };

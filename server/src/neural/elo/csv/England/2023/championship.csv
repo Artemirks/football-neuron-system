@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 1047434,1691175600,74,Sheffield Wednesday,1,2,41,Southampton
 1047435,1691244000,67,Blackburn,2,1,60,West Brom
 1047436,1691244000,56,Bristol City,1,1,59,Preston

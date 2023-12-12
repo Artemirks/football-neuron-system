@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 1040366,1691520300,1357,Plymouth,2,0,1373,Leyton Orient
 1040367,1691520300,1378,Forest Green,1,3,1355,Portsmouth
 1040368,1691519400,76,Swansea,3,0,1337,Northampton

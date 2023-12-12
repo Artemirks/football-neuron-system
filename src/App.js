@@ -88,7 +88,7 @@ function App() {
             percentPred *= koefMatch;
           }
           const dateTimeString = team.date;
-          const regex = /(\d{2}-\d{2}-\d{4}) (\d{2}:\d{2})/;
+          const regex = /(\d{2}\/\d{2}\/\d{4}) (\d{2}:\d{2})/;
           const match = dateTimeString.match(regex);
 
           const date = match[1];
@@ -152,14 +152,30 @@ function App() {
                   <p>Вероятность победы хозяев - {(team.percentHome * 100).toFixed(0)}%</p>
                   <p>Вероятность ничьей - {(+(team.percentHome * 100).toFixed(0) + +(team.percentDraw * 100).toFixed(0) + +(team.percentAway * 100).toFixed(0) === 100) ? (team.percentDraw * 100).toFixed(0) : +(team.percentDraw * 100).toFixed(0) + 1}%</p>
                   <p>Вероятность победы гостей - {(team.percentAway * 100).toFixed(0)}%</p>
+                  <p><b>Обе забьют:</b></p>
+                  <ul>
+                    <li>Да - {(team.bothGoal * 100).toFixed(0)}%</li>
+                    <li>Нет - {((1 - team.bothGoal) * 100).toFixed(0)}%</li>
+                  </ul>
+                  <p><b>Тотал 2.5:</b></p>
+                  <ul>
+                    <li>Больше - {(team.totalMoreGoal * 100).toFixed(0)}%</li>
+                    <li>Нет - {((1 - team.totalMoreGoal) * 100).toFixed(0)}%</li>
+                  </ul>
+                  <p><b>Три наиболее вероятных исхода:</b></p>
+                  <ol>
+                    {team.mostProbableScores.map(item => (
+                      <li> {item.homeGoals}:{item.awayGoals}. Вероятность - {(item.probability * 100).toFixed(2)}%</li>
+                    ))}
+                  </ol>
                 </div>
               </WrapperInfo>
             </div>
           );
         })}
-      </main>
+      </main >
       <Footer></Footer>
-    </div>
+    </div >
   );
 }
 

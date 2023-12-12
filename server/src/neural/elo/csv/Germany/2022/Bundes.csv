@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 871164,1659724200,169,Eintracht Frankfurt,1,6,157,Bayern Munich
 871165,1659803400,165,Borussia Dortmund,1,0,168,Bayer Leverkusen
 871166,1659792600,182,Union Berlin,3,1,159,Hertha Berlin

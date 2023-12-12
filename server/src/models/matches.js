@@ -8,6 +8,13 @@ const getMatches = async () => {
     return rows;
 };
 
+const getIDbyTeamIDAndLeague = async (id) => {
+    const {
+        rows
+    } = await pool.query('SELECT id FROM leagues_teams WHERE id_team = $1', [id]);
+    return rows[0].id;
+}
+
 // Получение информации о конкретном матче
 const getMatchById = async (id) => {
     const {
@@ -17,10 +24,33 @@ const getMatchById = async (id) => {
 };
 
 //Создание записи о матче
-const createMatchDate = async (id, matchDate, championID, homeTeamID, awayTeamID, predictedHomeTeamGoals, predictedAwayTeamGoals, matchStatus) => {
+const createMatchDate = async (item, matchStatus) => {
+    console.log(item)
+    const {
+        time,
+        home_id,
+        away_id,
+        home_goals,
+        away_goals,
+        actual_home_goals,
+        actual_away_goals
+    } = item;
+
+    const values = [
+        time,
+        home_id,
+        away_id,
+        home_goals,
+        away_goals,
+        actual_home_goals,
+        actual_away_goals,
+        matchStatus
+    ];
+
+    const formattedValues = values.map((value) => (value !== undefined ? value : null));
     const {
         rows
-    } = await pool.query('INSERT INTO public."Matches"("ID", "Match_date", "Championship_ID", "Home_team_ID", "Away_team_ID", "Predicted_home_team_goals", "Predicted_away_team_goals", "Match_status") VALUES ($1, $2, $3, $4, $5, $6, $7, $8)', [id, matchDate, championID, homeTeamID, awayTeamID, predictedHomeTeamGoals, predictedAwayTeamGoals, matchStatus]);
+    } = await pool.query('INSERT INTO public."current_matches"("match_date", "id_league_team_home", "id_league_team_away", "pred_goals_home", "pred_goals_away", "actual_goals_home", "actual_goals_away", "match_type") VALUES ($1, $2, $3, $4, $5, $6, $7, $8)', formattedValues);
     return rows[0];
 };
 
@@ -29,7 +59,7 @@ const getListMatches = async (leagueId, status) => {
     const {
         rows
     } = await pool.query(
-        'SELECT "ID", "Home_team_ID", "Away_team_ID", "Predicted_home_team_goals", "Predicted_away_team_goals", "Actual_home_team_goals", "Actual_away_team_goals", "Match_date" FROM public."Matches" WHERE "Match_status" = $2 and "Championship_ID" = $1 ORDER BY "Match_date"', [leagueId, status]
+        'SELECT m."id", m."match_date", m."id_league_team_home", m."id_league_team_away", m."pred_goals_home", m."pred_goals_away", m."actual_goals_home", m."actual_goals_away" FROM public."current_matches" as m JOIN leagues_teams as lt ON m."id_league_team_home" = lt."id" WHERE m."match_type" = $2 and lt."id_league" = $1 ORDER BY m."match_date"', [leagueId, status]
     );
     return rows;
 };
@@ -75,5 +105,6 @@ module.exports = {
     updateDataMatch,
     deleteOldMatches,
     setLastStatus,
-    updatePredWithNewXG
+    updatePredWithNewXG,
+    getIDbyTeamIDAndLeague
 };

@@ -1,102 +1,132 @@
-# HN - Home Near
-# AN - Away Near
-# HM - Home Midle
-# AM - Away Midle
-# HL - Home Long
-# AL - Away Long
-import numpy as np
-import sys
+import pandas as pd
+from tensorflow.keras.models import load_model
+import joblib
+import http.client
 import json
+import re
+import sys
 
-def relu(x):
-    return (x > 0) * x
+def create_samples(data, match_data): #получение данных для прогнозирование
+    x = []
+    for _, row in data.iterrows():
+        new_line = []
+        team_data = match_data[(match_data['team_id'] == row['team_id']) & (match_data['time'] < row['time'])][-10::]
+        home_data = team_data[team_data['position'] == 'home']
+        away_data = team_data[team_data['position'] == 'away']
+        points_last = match_data[(match_data['team_id'] == row['team_id']) & (match_data['time'] < row['time'])][-5::]['points'].sum()
 
-def create_input_values(input_all):
-    inputHN = np.array([input_all[0], input_all[6], input_all[7]])
-    inputAN = np.array([input_all[1], input_all[8], input_all[9]])
-    inputHM = np.array([input_all[2], input_all[10], input_all[11]])
-    inputAM = np.array([input_all[3], input_all[12], input_all[13]])
-    inputHL = np.array([input_all[4], input_all[14], input_all[15]])
-    inputAL = np.array([input_all[5], input_all[16], input_all[17]])
-    return [inputHN, inputAN, inputHM, inputAM, inputHL, inputAL]
+        new_line.extend([row['team_id'], row['name'], row['time'], row['actual_goals'], home_data['goals'].mean(), away_data['goals'].mean(), home_data['shots'].mean(), away_data['shots'].mean(), home_data['xg'].mean(), away_data['xg'].mean(), points_last])
+        x.extend([new_line]) 
 
-def neural_network(input, weights):
-    predHN = input[0].dot(weights[0])
-    predHN = relu(predHN)
-    predAN = input[1].dot(weights[1])
-    predAN = relu(predAN)
-    predHM = input[2].dot(weights[2])
-    predHM = relu(predHM)
-    predAM = input[3].dot(weights[3])
-    predAM = relu(predAM)
-    predHL = input[4].dot(weights[4])
-    predHL = relu(predHL)
-    predAL = input[5].dot(weights[5])
-    predAL = relu(predAL)
-    inputH = np.array([predHN, predHM, predHL])
-    inputH = relu(inputH)
-    inputA = np.array([predAN, predAM, predAL])
-    inputA = relu(inputA)
-    predH = inputH.dot(weights[6])
-    predH = relu(predH)
-    predA = inputA.dot(weights[7])
-    predA = relu(predA)
-    input_output = np.array([predH, predA])
-    pred = input_output.dot(weights[8])
-    #return [pred, input[0], input[1], input[2], input[3], input[4], input[5], inputH, inputA, input_output]
-    return pred
+    return x
 
+def fetch_fixture_data(inputData, headers): #получние списка матчей
+    json_data = []
 
-def count_weght_deltas(pred, input_value, true):
-    delta = pred - true
-    weight_deltas = input_value * delta
-    return weight_deltas
+    for league in inputData:
+        conn.request("GET", f"/fixtures?next={league[1]}&league={league[0]}", headers=headers)
+        res = conn.getresponse()
+        data = res.read()
+        league_data = json.loads(data)
+        league_data = league_data['response']
+        json_data += league_data
 
+    return json_data
 
-alpha = 0.001
+def calculate_diff_elo(x_home, x_away): #расчет разницы рейтинга эло
+    x_home['diff_elo'] = x_home['elo'] - x_away['elo']
+    x_away['diff_elo'] = x_away['elo'] - x_home['elo']
 
-weightsHN_homePred = [0.23282660758672075, 0.4245848573082086, -1.4858826902068334]
-weightsAN_homePred = [1.2258061980842032, 0.032467239521939265, 0.5767377796155047]
-weightsHM_homePred = [-4.760811084494791, -18.27600401509888, -0.27146097953428666]
-weightsAM_homePred = [1.2420227347091422, -8.078193164411868, 0.7130687594824299]
-weightsHL_homePred = [0.9782926201272317, 0.16635788801282347, -0.566860603862889]
-weightsAL_homePred = [-1.1995726224061871, -1.5998495692675656, -0.7419907496237619]
+def preprocess_elo_data(elo_data, prev_elo_data):
+    elo_data.set_index('id', inplace=True)
+    elo_data['prev_elos'] = elo_data.apply(lambda row: prev_elo_data.loc[row.name]['prev_elos'] + row['prev_elos'] if row.name in prev_elo_data.index else row['prev_elos'], axis=1)
+    elo_data.reset_index(inplace=True)
 
-weightsH_homePred = [0.45751198809233806, 0.2714760297471356, 0.41124295783356507]
-weightsA_homePred = [0.9252870302859599, 0.3054738687878218, 0.03571850859258864]
+def process_row(row, all_elo): #получение рейтинга эло команды
+    return int(all_elo[all_elo['id'] == row['team_id']]['elo_rating'])
 
-weights_output_homePred = [0.7135045774949722, 0.5233457059475882]
+def add_column_elo(frame, all_elo):
+    frame['elo'] = frame.apply(lambda row: process_row(row, all_elo), axis=1)
 
-weightsHN_awayPred = [0.8864082891488735, 0.542127428091521, -0.10763368960425033]
-weightsAN_awayPred = [0.1669411279665469, 0.4935378626834588, -0.1595081315106861]
-weightsHM_awayPred = [-4.3911159431390505, 0.7624902028405541, -1.2604861245738745]
-weightsAM_awayPred = [-0.8974348753437569, 0.3076844382140544, -0.3504531072620219]
-weightsHL_awayPred = [-0.4793362622744427, 0.6489260789586443, -1.172283169906226]
-weightsAL_awayPred = [1.8170419008222127, -2.5241086835964333, 2.8301041155955686]
+match_data = pd.read_csv('server\\src\\neural\\match_data.csv',index_col='id')
+match_data['points'] = match_data.apply(lambda row: 3 if row['goals'] > match_data[(match_data['fixtureID'] == row['fixtureID']) & (match_data['team_id'] != row['team_id'])]['goals'].max() else (0 if row['goals'] < match_data[(match_data['fixtureID'] == row['fixtureID']) & (match_data['team_id'] != row['team_id'])]['goals'].max() else 1), axis=1)
 
-weightsH_awayPred = [0.5686061901531032, 0.37038827316778467, 0.5719774828963071]
-weightsA_awayPred = [0.2601509505461398, 0.4261148016600683, 0.3979576122191299]
+#inputData = json.loads(sys.stdin.read())
+inputData = [[235, 8], [39, 10], [135, 10], [78, 9]]
+conn = http.client.HTTPSConnection("v3.football.api-sports.io")
 
-weights_output_awayPred = [0.37012083354086944, 0.6828810541605319]
+headers = {
+    'x-rapidapi-host': "v3.football.api-sports.io",
+    'x-rapidapi-key': "55d8d0822bdb3026f52b479e85e3a447"
+}
 
-true_output_home = [1, 1, 2, 2, 4, 1, 3, 1, 0.3, 1, 1.4, 2, 1.3, 2, 0]
-true_output_away = [0.3, 1, 2, 1, 3, 2, 2, 1, 1, 2, 1.6, 0.3, 1, 2, 1]
+json_data = fetch_fixture_data(inputData, headers)
 
-weights_homePred = [weightsHN_homePred, weightsAN_homePred, weightsHM_homePred, weightsAM_homePred,
-                    weightsHL_homePred, weightsAL_homePred, weightsH_homePred, weightsA_homePred,
-                    weights_output_homePred]
+home_teams = []
+away_teams = []
 
-weights_awayPred = [weightsHN_awayPred, weightsAN_awayPred, weightsHM_awayPred, weightsAM_awayPred,
-                    weightsHL_awayPred, weightsAL_awayPred, weightsH_awayPred, weightsA_awayPred,
-                    weights_output_awayPred]
+for fixture in json_data:
+    home_teams.append([fixture['teams']['home']['id'], fixture['fixture']['timestamp'], fixture['teams']['home']['name'], fixture['goals']['home']])
+    away_teams.append([fixture['teams']['away']['id'], fixture['fixture']['timestamp'], fixture['teams']['away']['name'], fixture['goals']['away']])
 
-# Читаем данные из stdin и вызываем функцию predict
-inputData = json.loads(sys.stdin.read())
+home_teams = pd.DataFrame(home_teams, columns=['team_id', 'time', 'name', 'actual_goals'])
+away_teams = pd.DataFrame(away_teams, columns=['team_id', 'time', 'name', 'actual_goals'])
 
-if inputData["position"] == "home":
-    pred = neural_network(create_input_values(inputData["values"]), weights_homePred)
-else:
-    pred = neural_network(create_input_values(inputData["values"]), weights_awayPred)
+x_home = create_samples(home_teams, match_data)
+x_home = pd.DataFrame(x_home, columns=['team_id', 'name', 'time', 'actual_goals', 'mean_goals_home', 'mean_goals_away', 'shots_home', 'shots_away', 'xg_home', 'xg_away', 'points'])
+x_away = create_samples(away_teams, match_data)
+x_away = pd.DataFrame(x_away, columns=['team_id', 'name', 'time', 'actual_goals', 'mean_goals_home', 'mean_goals_away', 'shots_home', 'shots_away', 'xg_home', 'xg_away', 'points'])
 
-# Отправляем результат в stdout
-print(json.dumps(pred))
+elo_england_22 = pd.read_csv('server\\src\\neural\\elo/csv/England/2022/ratingElo2022_2023PL.csv')
+elo_england_23 = pd.read_csv('server\\src\\neural\\elo/csv/England/2023/ratingElo2023_2024PL.csv')
+elo_russian_22 = pd.read_csv('server\\src\\neural\\elo/csv/Russia/2022/ratingElo2022_2023RFPL.csv')
+elo_russian_23 = pd.read_csv('server\\src\\neural\\elo/csv/Russia/2023/ratingElo2023_2024RFPL.csv')
+elo_bundes_22 = pd.read_csv('server\\src\\neural\\elo/csv/Germany/2022/ratingElo2022_2023Bundes.csv')
+elo_bundes_23 = pd.read_csv('server\\src\\neural\\elo/csv/Germany/2023/ratingElo2023_2024Bundes.csv')
+elo_italy_22 = pd.read_csv('server\\src\\neural\\elo/csv/Italy/2022/ratingElo2022_2023Italy.csv')
+elo_italy_23 = pd.read_csv('server\\src\\neural\\elo/csv/Italy/2023/ratingElo2023_2024Italy.csv')
+
+preprocess_elo_data(elo_england_22, elo_england_23)
+preprocess_elo_data(elo_russian_22, elo_russian_23)
+preprocess_elo_data(elo_bundes_22, elo_bundes_23)
+preprocess_elo_data(elo_italy_22, elo_italy_23)
+
+all_elo = pd.concat([elo_england_23, elo_russian_23, elo_bundes_23, elo_italy_23])
+all_elo.reset_index(inplace=True)
+
+samples = [x_home, x_away]
+for item in samples:
+    add_column_elo(item, all_elo)
+
+calculate_diff_elo(x_home, x_away)
+
+x_home_predict = x_home.drop(['time', 'elo', 'name', 'actual_goals'], axis=1)
+x_away_predict = x_away.drop(['time', 'elo', 'name', 'actual_goals'], axis=1)
+scaler_home = joblib.load("server\\src\\neural\\scaler_home_new.save")
+scaler_away = joblib.load("server\\src\\neural\\scaler_home_new.save")
+
+x_home_predict = scaler_home.transform(x_home_predict)
+x_away_predict = scaler_away.transform(x_away_predict)
+
+loaded_model_home_neuron = load_model('server\\src\\neural\\home_model_new.h5')
+loaded_model_away_neuron = load_model('server\\src\\neural\\away_model_new.h5')
+
+neuron_home_value = loaded_model_home_neuron.predict(x_home_predict, verbose=0)
+neuron_away_value = loaded_model_away_neuron.predict(x_away_predict, verbose=0)
+
+data = []
+
+for index, row in x_home.iterrows():
+    home_goals = round(float(neuron_home_value[index][0]), 3)
+    away_goals = round(float(neuron_away_value[index][0]), 3)
+    data.append({
+        "home_id": row['team_id'],
+        "away_id": x_away.iloc[index]['team_id'],
+        'home_goals': home_goals,
+        'away_goals': away_goals,
+        'actual_home_goals': home_teams.iloc[index]['actual_goals'],
+        'actual_away_goals': away_teams.iloc[index]['actual_goals'],
+        "time": home_teams.iloc[index]['time']
+    })
+
+print(json.dumps(data, default=str))

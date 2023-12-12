@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 910636,1661004000,7634,Coleshill Town,1,2,7626,Chasetown
 910637,1661083200,7618,Biggleswade,3,2,7218,Cambridge City
 910638,1661004000,7205,AFC Sudbury,1,1,8957,Stowmarket Town

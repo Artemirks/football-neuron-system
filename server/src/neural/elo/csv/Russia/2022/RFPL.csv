@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 879867,1657904400,1994,Khimki,1,1,596,Zenit Saint Petersburg
 879868,1657972800,555,CSKA Moscow,2,0,1084,Ural
 879869,1657981800,1080,Orenburg,2,4,1079,Krylya Sovetov

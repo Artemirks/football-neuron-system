@@ -6,6 +6,7 @@ const teamController = require('./src/controllers/teams');
 const leageController = require('./src/controllers/leagues');
 const teamDataController = require('./src/controllers/teamsData');
 const apiFootball = require('./src/routes/api/api');
+const { getPred } = require('./src/neural/neural');
 
 
 const app = express();
@@ -18,10 +19,6 @@ app.use(cors(corsOptions));
 
 app.get('/rfpl/last', async (req, res) => {
     try {
-        apiFootball.dataFromNewTeamByLeague(235);
-        if (await leageController.getCurrentStagePred(235)) {
-            await getMatches(235);
-        }
         const matches = await getPredMatchData(235, 'Прошедший');
         res.json(matches);
     } catch (err) {
@@ -32,9 +29,15 @@ app.get('/rfpl/last', async (req, res) => {
 
 app.get(['/', '/rfpl/next'], async (req, res) => {
     try {
-        if (await leageController.getCurrentStagePred(235)) {
+        /* if (await leageController.getCurrentStagePred(235)) {
             await getMatches(235);
-        }
+        } */
+        /* const predMatches = await getPred([[235, 8], [39, 10], [135, 10], [78, 9]]);
+        await predMatches.forEach(async (item) => {
+            item.home_id = parseInt(await matchesController.getIDbyTeamIDAndLeague(item.home_id))
+            item.away_id = parseInt(await matchesController.getIDbyTeamIDAndLeague(item.away_id))
+            await matchesController.createMatch(item)
+        }) */
         const matches = await getPredMatchData(235, 'Прогноз');
         res.json(matches);
     } catch (err) {
@@ -45,9 +48,6 @@ app.get(['/', '/rfpl/next'], async (req, res) => {
 
 app.get('/epl/last', async (req, res) => {
     try {
-        /* if (await leageController.getCurrentStagePred(39)) {
-            await getMatches(39);
-        } */
         const matches = await getPredMatchData(39, 'Прошедший');
         res.json(matches);
     } catch (err) {
@@ -62,6 +62,52 @@ app.get('/epl/next', async (req, res) => {
             await getMatches(39);
         } */
         const matches = await getPredMatchData(39, 'Прогноз');
+        res.json(matches);
+    } catch (err) {
+        console.error(err);
+        res.status(500).send('Internal Server Error');
+    }
+});
+
+app.get('/bundes/last', async (req, res) => {
+    try {
+        const matches = await getPredMatchData(78, 'Прошедший');
+        res.json(matches);
+    } catch (err) {
+        console.error(err);
+        res.status(500).send('Internal Server Error');
+    }
+});
+
+app.get('/bundes/next', async (req, res) => {
+    try {
+        /* if (await leageController.getCurrentStagePred(39)) {
+            await getMatches(39);
+        } */
+        const matches = await getPredMatchData(78, 'Прогноз');
+        res.json(matches);
+    } catch (err) {
+        console.error(err);
+        res.status(500).send('Internal Server Error');
+    }
+});
+
+app.get('/italy/last', async (req, res) => {
+    try {
+        const matches = await getPredMatchData(135, 'Прошедший');
+        res.json(matches);
+    } catch (err) {
+        console.error(err);
+        res.status(500).send('Internal Server Error');
+    }
+});
+
+app.get('/italy/next', async (req, res) => {
+    try {
+        /* if (await leageController.getCurrentStagePred(39)) {
+            await getMatches(39);
+        } */
+        const matches = await getPredMatchData(135, 'Прогноз');
         res.json(matches);
     } catch (err) {
         console.error(err);
@@ -145,35 +191,42 @@ async function getPredMatchData(leagueId, status) {
     let countAlreadyScore = 0;
     const championshipName = await leageController.getNameLeague(leagueId);
     for (const index in result) {
-        goals = await checkDataMatch(result[index]);
-        const homeName = await teamController.getNameTeamByID(result[index].Home_team_ID); //отправление данных на страницу
-        const awayName = await teamController.getNameTeamByID(result[index].Away_team_ID);
-        const percentHome = await predinction.calculateProbability(result[index].Predicted_home_team_goals, result[index].Predicted_away_team_goals, 'home');
-        const percentAway = await predinction.calculateProbability(result[index].Predicted_home_team_goals, result[index].Predicted_away_team_goals, 'away');
-        const percentDraw = await predinction.calculateProbability(result[index].Predicted_home_team_goals, result[index].Predicted_away_team_goals, 'draw');
-        const date = new Date(result[index].Match_date * 1000);
+        //goals = await checkDataMatch(result[index]);
+        const homeName = await teamController.getNameTeamByID(result[index].id_league_team_home);
+        const awayName = await teamController.getNameTeamByID(result[index].id_league_team_away);
+        const percentHome = await predinction.calculateProbability(result[index].pred_goals_home, result[index].pred_goals_away, 'home');
+        const percentAway = await predinction.calculateProbability(result[index].pred_goals_home, result[index].pred_goals_away, 'away');
+        const percentDraw = await predinction.calculateProbability(result[index].pred_goals_home, result[index].pred_goals_away, 'draw');
+        const bothGoal = await predinction.calculateFactGoals(result[index].pred_goals_home, result[index].pred_goals_away);
+        const totalMoreGoal = await predinction.calculateTotalGoals(result[index].pred_goals_home, result[index].pred_goals_away);
+        const mostProbableScores = await predinction.calculateMostProbableScores(result[index].pred_goals_home, result[index].pred_goals_away, 3);
+
+        const date = new Date(result[index].match_date).toLocaleString('en-GB', { day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' }).replace(',', '');
         matches.push({
-            homeID: result[index].Home_team_ID,
-            awayID: result[index].Away_team_ID,
+            homeID: result[index].id_league_team_home,
+            awayID: result[index].id_league_team_away,
             homeName,
             awayName,
             championshipName,
-            date: `${('0' + date.getDate()).slice(-2)}-${('0' + (date.getMonth() + 1)).slice(-2)}-${date.getFullYear()} ${('0' + date.getHours()).slice(-2)}:${('0' + date.getMinutes()).slice(-2)}`,
-            predictedHomeTeamGoals: result[index].Predicted_home_team_goals,
-            predictedAwayTeamGoals: result[index].Predicted_away_team_goals,
-            actualHomeGoal: goals.homeGoal,
-            actualAwayGoal: goals.awayGoal,
+            date,
+            predictedHomeTeamGoals: result[index].pred_goals_home,
+            predictedAwayTeamGoals: result[index].pred_goals_away,
+            actualHomeGoal: result[index].actual_goals_home,
+            actualAwayGoal: result[index].actual_goals_away,
             percentHome,
             percentAway,
-            percentDraw
+            percentDraw,
+            bothGoal,
+            totalMoreGoal,
+            mostProbableScores
         });
-        if (goals.isAlreadyScore) {
+        /* if (goals.isAlreadyScore) {
             countAlreadyScore++;
-        }
+        } */
     }
-    if (status == 'Прогноз' && countAlreadyScore == result.length && !await leageController.getCurrentStagePred(leagueId)) {
+    /* if (status == 'Прогноз' && countAlreadyScore == result.length && !await leageController.getCurrentStagePred(leagueId)) {
         leageController.setTrueStagePred(leagueId, true);
-    }
+    } */
     return matches;
 }
 

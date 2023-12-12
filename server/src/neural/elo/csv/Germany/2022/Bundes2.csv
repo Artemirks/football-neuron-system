@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 872862,1657909800,745,FC Kaiserslautern,2,1,166,Hannover 96
 872863,1657969200,178,SpVgg Greuther Furth,2,2,191,Holstein Kiel
 872864,1657969200,186,FC St. Pauli,3,2,171,FC Nurnberg

@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 1042014,1690122600,558,Spartak Moscow,3,2,1080,Orenburg
 1042015,1690131600,779,FC Rostov,2,1,1993,Fakel Voronezh
 1042016,1689955200,1088,Dinamo Moscow,1,3,621,Krasnodar
@@ -126,4 +126,20 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1042139,1700930700,2006,Baltika,0,2,558,Spartak Moscow
 1042140,1700996400,1084,Ural,3,1,621,Krasnodar
 1042141,1700989200,1080,Orenburg,1,1,1085,Akhmat Grozny
+1042142,1701610200,621,Krasnodar,2,1,1080,Orenburg
+1042143,1701601200,555,CSKA Moscow,2,0,779,FC Rostov
+1042144,1701707400,1088,Dinamo Moscow,1,0,1083,Rubin
+1042145,1701610200,597,Lokomotiv Moscow,3,1,596,Zenit Saint Petersburg
+1042146,1701619200,1085,Akhmat Grozny,2,1,558,Spartak Moscow
+1042147,1701523800,2012,PFC Sochi,0,2,1079,Krylya Sovetov
+1042148,1701534600,2011,Nizhny Novgorod,1,0,1084,Ural
+1042149,1701514800,1993,Fakel Voronezh,0,0,2006,Baltika
+1042150,1702140300,596,Zenit Saint Petersburg,1,0,2011,Nizhny Novgorod
+1042151,1702119600,558,Spartak Moscow,3,0,1079,Krylya Sovetov
+1042152,1702226700,621,Krasnodar,1,0,555,CSKA Moscow
+1042153,1702051200,597,Lokomotiv Moscow,2,0,1084,Ural
+1042154,1702128600,1085,Akhmat Grozny,0,0,779,FC Rostov
+1042155,1702215000,2012,PFC Sochi,1,1,1080,Orenburg
+1042156,1702226700,2006,Baltika,0,1,1083,Rubin
+1042157,1702206000,1993,Fakel Voronezh,1,1,1088,Dinamo Moscow
 1042198,1694880000,558,Spartak Moscow,1,0,2012,PFC Sochi

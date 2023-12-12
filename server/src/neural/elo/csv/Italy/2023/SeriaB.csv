@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 1063003,1692383400,508,Bari,0,0,522,Palermo
 1063004,1692556200,510,Cittadella,1,0,880,Reggiana
 1063005,1692469800,10137,Cosenza,3,0,507,Ascoli

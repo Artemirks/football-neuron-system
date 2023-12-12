@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 1036568,1692028800,1634,FC 08 Homburg,3,0,181,SV Darmstadt 98
 1036569,1691856000,1316,Hallescher FC,0,1,178,SpVgg Greuther Furth
 1036570,1691769600,189,SV Sandhausen,3,3,166,Hannover 96
@@ -47,3 +47,11 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1136769,1698858000,165,Borussia Dortmund,1,0,167,1899 Hoffenheim
 1136770,1698771600,161,VfL Wolfsburg,1,0,173,RB Leipzig
 1136771,1698781500,745,FC Kaiserslautern,3,2,192,FC Koln
+1141474,1701891900,172,VfB Stuttgart,2,0,165,Borussia Dortmund
+1141475,1701882000,1639,FC Saarbrücken,2,0,169,Eintracht Frankfurt
+1141476,1701805500,163,Borussia Monchengladbach,1,0,161,VfL Wolfsburg
+1141477,1701891900,159,Hertha Berlin,3,3,175,Hamburger SV
+1141478,1701805500,1634,FC 08 Homburg,1,4,186,FC St. Pauli
+1141479,1701882000,168,Bayer Leverkusen,3,1,185,SC Paderborn 07
+1141480,1701795600,745,FC Kaiserslautern,2,0,171,FC Nurnberg
+1141481,1701795600,179,FC Magdeburg,1,2,158,Fortuna Dusseldorf

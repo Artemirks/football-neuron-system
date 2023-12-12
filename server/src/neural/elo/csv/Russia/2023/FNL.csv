@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 1053115,1689438600,3985,Torpedo Moskva,2,0,6813,Makhachkala
 1053116,1689519600,6822,Rodina Moskva,4,0,1995,FK Sokol Saratov
 1053117,1689519600,2001,FK Neftekhimik,2,1,2004,Volgar Astrakhan

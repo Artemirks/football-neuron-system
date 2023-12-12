@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 867946,1659726000,52,Crystal Palace,0,2,42,Arsenal
 867947,1659785400,36,Fulham,2,2,40,Liverpool
 867948,1659794400,35,Bournemouth,2,0,66,Aston Villa

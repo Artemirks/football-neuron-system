@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 864317,1659187860,177,Jahn Regensburg,2,2,192,FC Koln
 864318,1659274260,12767,FV Engers 07,1,7,188,Arminia Bielefeld
 864319,1659187860,1625,VfB Lubeck,1,0,1321,Hansa Rostock

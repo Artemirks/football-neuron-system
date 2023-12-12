@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 1062790,1692453600,7666,Runcorn Linnets,3,2,7749,Stalybridge Celtic
 1062791,1692453600,7617,Belper Town,2,5,7239,Leek Town
 1062792,1692453600,7221,Corby Town,0,4,7729,Lowestoft Town
@@ -36,7 +36,7 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1062824,1691244000,7681,Widnes,1,1,8859,Longridge Town
 1062825,1691244000,16993,Prestwich Heys,3,1,8712,Bootle
 1062826,1691244000,8997,Whitchurch Alport,2,1,12091,Cheadle Town
-1062827,1691330400,11936,AFC Emley,0,2,8690,Avro
+1062827,1691330400,11936,AFC Emley,0,0,8690,Avro
 1062828,1691244000,16997,Uttoxeter Town,1,4,17021,Bury AFC
 1062829,1691521200,14428,Wythenshawe Amateurs,2,1,8734,Campion
 1062830,1691244000,8736,Charnock Richard,7,0,8946,Squires Gate
@@ -175,7 +175,7 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1062963,1691244000,12040,Welton Rovers,1,7,8782,Fareham Town
 1062964,1691520300,8964,Tadley Calleva,5,2,12049,Alton Town
 1062965,1691244000,8741,Christchurch,0,1,8979,United Services
-1062966,1691244000,8867,Lymington Town,6,0,12015,Petersfield Town
+1062966,1691244000,8867,Lymington Town,0,6,12015,Petersfield Town
 1062967,1691244000,8807,Hamble Club,3,3,8833,Hythe & Dibden
 1062968,1691244000,7238,Larkhall Athletic,3,1,12057,Corsham Town
 1062969,1691244000,19556,Laverstock & Ford,3,2,8680,Andover New Street
@@ -766,7 +766,7 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1139072,1699040700,8928,Sheppey United,1,4,1342,Walsall
 1139073,1699110000,1334,Bristol Rovers,7,2,7757,Whitby Town
 1139074,1699110000,1820,Chester,0,0,1828,York
-1139075,1699110000,7745,Scarborough Athletic,1,1,1378,Forest Green
+1139075,1702410300,7745,Scarborough Athletic,,,1378,Forest Green
 1139076,1699110000,4702,Chesham United,0,2,1825,Maidstone Utd
 1139077,1699110000,7665,Ramsgate,2,1,1836,Woking
 1141281,1699990200,7723,Horsham,0,3,747,Barnsley
@@ -775,6 +775,28 @@ fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_i
 1141284,1699991100,748,Burton Albion,0,2,1351,Port Vale
 1141285,1699991100,1360,Accrington ST,1,2,1354,Doncaster
 1141286,1699991100,1844,Salford City,4,4,1350,Peterborough
+1141456,1701529200,1825,Maidstone Utd,2,1,1819,Barrow
+1141457,1701529200,1358,Wycombe,0,2,1375,Morecambe
+1141458,1701459900,1376,Notts County,2,3,1352,Shrewsbury
+1141459,1701612000,1345,Chesterfield,1,0,1373,Leyton Orient
+1141460,1701612000,1818,Aldershot Town,2,2,4686,Stockport County
+1141461,1701805500,4677,Alfreton Town,0,0,1342,Walsall
+1141462,1701529200,1370,Cambridge United,4,0,1336,Fleetwood Town
+1141463,1701529200,68,Bolton,5,1,1842,Harrogate Town
+1141464,1701618300,1837,Wrexham,3,0,1377,Yeovil Town
+1141465,1701610200,1822,Eastleigh,2,1,53,Reading
+1141466,1701529200,1367,Newport County,1,1,1369,Barnet
+1141467,1701719100,1333,AFC Wimbledon,5,0,7665,Ramsgate
 1141468,1699991100,1365,Grimsby,7,2,4685,Slough Town
 1141469,1699991100,69,Derby,1,3,1363,Crewe
 1141470,1700077500,7636,Cray Valley PM,1,6,1335,Charlton
+1142249,1701459900,1828,York,0,1,61,Wigan
+1142251,1702410300,1363,Crewe,,,1334,Bristol Rovers
+1142252,1701529200,1350,Peterborough,2,1,1354,Doncaster
+1142253,1701529200,1347,Gillingham,2,0,1335,Charlton
+1142254,1701529200,1368,Stevenage,1,1,1351,Port Vale
+1142255,1701529200,1338,Oxford United,2,0,1365,Grimsby
+1142256,1701529200,1835,Sutton Utd,3,0,7723,Horsham
+1145536,1702410300,1369,Barnet,,,1367,Newport County
+1145537,1702410300,1351,Port Vale,,,1368,Stevenage
+1145610,1702410300,1342,Walsall,,,4677,Alfreton Town

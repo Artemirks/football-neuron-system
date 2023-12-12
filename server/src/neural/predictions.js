@@ -62,7 +62,55 @@ function calculateProbability(homeGoalsAvg, awayGoalsAvg, result) {
     return probability;
 }
 
+function calculateFactGoals(homeGoalsAvg, awayGoalsAvg) {
+    // Функция для расчета вероятности обе забьют или нет
+    let probability = 0;
+    for (let homeGoals = 0; homeGoals <= 7; homeGoals++) {
+        for (let awayGoals = 0; awayGoals <= 7; awayGoals++) {
+            if (homeGoals > 0 && awayGoals > 0) {
+                probability += poissonProbability(homeGoalsAvg, homeGoals) * poissonProbability(awayGoalsAvg, awayGoals);
+            }
+        }
+    }
+    return probability;
+}
+
+function calculateTotalGoals(homeGoalsAvg, awayGoalsAvg) {
+    // Функция для расчета вероятности тотала голов
+    let probability = 0;
+    for (let homeGoals = 0; homeGoals <= 7; homeGoals++) {
+        for (let awayGoals = 0; awayGoals <= 7; awayGoals++) {
+            if (homeGoals + awayGoals > 2.5) {
+                probability += poissonProbability(homeGoalsAvg, homeGoals) * poissonProbability(awayGoalsAvg, awayGoals);
+            }
+        }
+    }
+    return probability;
+}
+
+function calculateMostProbableScores(homeGoalsAvg, awayGoalsAvg, maxScores = 3) {
+    const scores = [];
+
+    for (let homeGoals = 0; homeGoals <= 7; homeGoals++) {
+        for (let awayGoals = 0; awayGoals <= 7; awayGoals++) {
+            const probability = poissonProbability(homeGoalsAvg, homeGoals) * poissonProbability(awayGoalsAvg, awayGoals);
+            scores.push({
+                homeGoals,
+                awayGoals,
+                probability
+            });
+        }
+    }
+
+    scores.sort((a, b) => b.probability - a.probability);
+
+    return scores.slice(0, maxScores);
+}
+
 module.exports = {
     getPredictionForTeams,
-    calculateProbability
+    calculateProbability,
+    calculateFactGoals,
+    calculateTotalGoals,
+    calculateMostProbableScores
 };

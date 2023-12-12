@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 877907,1660157100,67,Blackburn,4,0,1366,Hartlepool
 877908,1660070700,1842,Harrogate Town,0,1,4686,Stockport County
 877909,1660070700,68,Bolton,5,1,1844,Salford City

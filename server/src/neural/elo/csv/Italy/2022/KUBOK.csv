@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 897489,1659714300,490,Cagliari,3,2,524,Perugia
 897490,1659726000,867,Lecce,2,3,510,Cittadella
 897491,1659726900,498,Sampdoria,1,0,1692,Reggina

@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 881310,1657983600,2001,FK Neftekhimik,0,1,6801,KAMAZ
 881311,1658073600,6831,Urozhay,2,0,1078,FC UFA
 881312,1657983600,6834,Volga Ulyanovsk,1,1,1089,Enisey

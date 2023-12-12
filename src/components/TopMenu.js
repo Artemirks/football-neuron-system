@@ -9,7 +9,7 @@ import Button from '@mui/material/Button';
 import MenuItem from '@mui/material/MenuItem';
 import SportsSoccerIcon from '@mui/icons-material/SportsSoccer';
 
-const pages = [{ name: 'Англия', settings: [{ name: 'Предпоследний тур', href: '/epl/last' }, { name: 'Последний тур', href: '/epl/next' }] }, { name: 'Россия', settings: [{ name: 'Последний тур', href: '/rfpl/last' }, { name: 'Предстоящий тур', href: '/rfpl/next' }] }];
+const pages = [{ name: 'Англия', settings: [{ name: 'Последний тур', href: '/epl/last' }, { name: 'Предстоящий тур', href: '/epl/next' }] }, { name: 'Россия', settings: [{ name: 'Последний тур', href: '/rfpl/last' }, { name: 'Предстоящий тур', href: '/rfpl/next' }] }, { name: 'Германия', settings: [{ name: 'Последний тур', href: '/bundes/last' }, { name: 'Предстоящий тур', href: '/bundes/next' }] }, { name: 'Италия', settings: [{ name: 'Последний тур', href: '/italy/last' }, { name: 'Предстоящий тур', href: '/italy/next' }] }];
 const hostname = window.location.hostname;
 const protocol = window.location.protocol;
 

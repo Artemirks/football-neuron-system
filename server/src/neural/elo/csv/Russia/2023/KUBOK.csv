@@ -1,4 +1,4 @@
-fixtueID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
+fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_id,away_team_name
 1060641,1690299000,597,Lokomotiv Moscow,2,1,1084,Ural
 1060642,1690299000,2011,Nizhny Novgorod,1,1,1088,Dinamo Moscow
 1060643,1690307100,596,Zenit Saint Petersburg,2,0,1085,Akhmat Grozny
