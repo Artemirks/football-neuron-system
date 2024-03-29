@@ -52,7 +52,7 @@ match_data = pd.read_csv('server\\src\\neural\\match_data.csv',index_col='id')
 match_data['points'] = match_data.apply(lambda row: 3 if row['goals'] > match_data[(match_data['fixtureID'] == row['fixtureID']) & (match_data['team_id'] != row['team_id'])]['goals'].max() else (0 if row['goals'] < match_data[(match_data['fixtureID'] == row['fixtureID']) & (match_data['team_id'] != row['team_id'])]['goals'].max() else 1), axis=1)
 
 #inputData = json.loads(sys.stdin.read())
-inputData = [[235, 8], [39, 10], [135, 10], [78, 9]]
+inputData = [[39, 10], [135, 10], [78, 9]]
 conn = http.client.HTTPSConnection("v3.football.api-sports.io")
 
 headers = {
@@ -128,5 +128,4 @@ for index, row in x_home.iterrows():
         'actual_away_goals': away_teams.iloc[index]['actual_goals'],
         "time": home_teams.iloc[index]['time']
     })
-
 print(json.dumps(data, default=str))

@@ -124,3 +124,12 @@ fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_
 1049004,1702132200,162,Werder Bremen,2,0,170,FC Augsburg
 1049005,1702218600,172,VfB Stuttgart,1,1,168,Bayer Leverkusen
 1049006,1702132200,180,FC Heidenheim,3,2,181,SV Darmstadt 98
+1049007,1702837800,157,Bayern Munich,3,0,172,VfB Stuttgart
+1049008,1702747800,173,RB Leipzig,3,1,167,1899 Hoffenheim
+1049009,1702823400,160,SC Freiburg,2,0,192,FC Koln
+1049010,1702830600,168,Bayer Leverkusen,3,0,169,Eintracht Frankfurt
+1049011,1702737000,164,FSV Mainz 05,0,1,180,FC Heidenheim
+1049012,1702668600,163,Borussia Monchengladbach,2,2,162,Werder Bremen
+1049013,1702737000,176,VfL BOCHUM,3,0,182,Union Berlin
+1049014,1702737000,170,FC Augsburg,1,1,165,Borussia Dortmund
+1049015,1702737000,181,SV Darmstadt 98,0,1,161,VfL Wolfsburg

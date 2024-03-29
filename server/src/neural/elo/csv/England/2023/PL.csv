@@ -159,3 +159,12 @@ fixtureID,timestamp,home_team_id,home_team_name,home_goals,away_goals,away_team_
 1035331,1702134000,62,Sheffield Utd,1,0,55,Brentford
 1035332,1702225800,47,Tottenham,4,1,34,Newcastle
 1035333,1702134000,39,Wolves,1,1,65,Nottingham Forest
+1035335,1702821600,42,Arsenal,2,0,51,Brighton
+1035336,1702821600,55,Brentford,1,2,66,Aston Villa
+1035337,1702747800,44,Burnley,0,2,45,Everton
+1035338,1702738800,49,Chelsea,2,0,62,Sheffield Utd
+1035339,1702830600,40,Liverpool,0,0,33,Manchester United
+1035340,1702738800,50,Manchester City,2,2,52,Crystal Palace
+1035341,1702738800,34,Newcastle,3,0,36,Fulham
+1035342,1702670400,65,Nottingham Forest,0,2,47,Tottenham
+1035343,1702821600,48,West Ham,3,0,39,Wolves

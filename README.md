@@ -48,3 +48,6 @@
     <li>Введите npm start, чтобы запустить проект</li>
     <li>Теперь вы можете открыть браузер и перейти по адресу http://localhost:3000 для доступа к приложению.</li>
   </ul>
+<h2>Результат обучения. Нейронная сеть</h2>
+![alt text](src/assets/test_result.jpg)
+![alt text](src/assets/system_result.jpg)

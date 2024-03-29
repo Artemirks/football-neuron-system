@@ -32,7 +32,8 @@ app.get(['/', '/rfpl/next'], async (req, res) => {
         /* if (await leageController.getCurrentStagePred(235)) {
             await getMatches(235);
         } */
-        /* const predMatches = await getPred([[235, 8], [39, 10], [135, 10], [78, 9]]);
+        /* const predMatches = await getPred([[39, 10], [135, 10], [78, 9]]);
+        console.log(predMatches)
         await predMatches.forEach(async (item) => {
             item.home_id = parseInt(await matchesController.getIDbyTeamIDAndLeague(item.home_id))
             item.away_id = parseInt(await matchesController.getIDbyTeamIDAndLeague(item.away_id))
